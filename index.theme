@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=Simple Circle
+Comment=Inspired in Malys Uniblack Icons
+Example=folder
+
+# Directory list
+Directories=scalable/places,
+
+[scalable/places]
+Context=Places
+Size=48
+MinSize=8
+MaxSize=512
+Type=Scalable
