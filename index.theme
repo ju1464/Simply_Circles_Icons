@@ -4,10 +4,17 @@ Comment=Inspired in Malys Uniblack Icons
 Example=folder
 
 # Directory list
-Directories=scalable/devices,scalable/places,
+Directories=scalable/devices,scalable/mimes,scalable/places,
 
 [scalable/devices]
 Context=Devices
+Size=48
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/mimes]
+Context=Mimetypes
 Size=48
 MinSize=8
 MaxSize=512
