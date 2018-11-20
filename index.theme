@@ -4,7 +4,14 @@ Comment=Inspired in Malys Uniblack Icons
 Example=folder
 
 # Directory list
-Directories=scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/places,
+Directories=scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/places,
+
+[scalable/animations]
+Context=Animations
+Size=48
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [scalable/apps]
 Context=Applications
