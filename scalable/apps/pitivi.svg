@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg829"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="pitivi.svg">
+  <defs
+     id="defs823" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8020833"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     scale-x="1.9"
+     units="px"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata826">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.3)">
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.52516764"
+       d="M 23.978516 0.27539062 A 23.770509 23.770509 0 0 0 0.20703125 24.046875 A 23.770509 23.770509 0 0 0 23.978516 47.816406 A 23.770509 23.770509 0 0 0 47.748047 24.046875 A 23.770509 23.770509 0 0 0 23.978516 0.27539062 z M 23.910156 3.8144531 A 20.436071 20.436071 0 0 1 44.345703 24.25 A 20.436071 20.436071 0 0 1 23.910156 44.685547 A 20.436071 20.436071 0 0 1 3.4726562 24.25 A 20.436071 20.436071 0 0 1 23.910156 3.8144531 z M 34.962891 8.9609375 C 34.838601 8.9533784 34.709625 8.9643479 34.583984 9.0078125 L 10.642578 17.003906 C 10.140033 17.171717 9.86916 17.713969 10.037109 18.216797 L 10.605469 19.914062 C 10.039931 20.438925 9.6835938 21.186687 9.6835938 22.017578 C 9.6835938 23.093534 10.278451 24.035098 11.15625 24.527344 L 11.15625 38.082031 C 11.156251 38.612375 11.585367 39.041016 12.115234 39.041016 L 37.357422 39.041016 C 37.887072 39.041016 38.316406 38.612299 38.316406 38.082031 L 38.316406 21.677734 L 15.410156 21.677734 C 15.355512 21.218333 15.190998 20.792849 14.945312 20.425781 L 36.953125 13.076172 L 35.798828 9.6152344 C 35.672864 9.2384155 35.335764 8.9901155 34.962891 8.9609375 z M 32.351562 10.884766 L 31.648438 13.71875 L 28.736328 14.691406 L 29.4375 11.855469 L 32.351562 10.884766 z M 25.152344 13.289062 L 24.449219 16.123047 L 21.537109 17.095703 L 22.236328 14.261719 L 25.152344 13.289062 z M 17.953125 15.691406 L 17.251953 18.525391 L 14.337891 19.5 L 15.037109 16.666016 L 17.953125 15.691406 z M 12.554688 20.556641 C 13.361794 20.556641 14.019531 21.21046 14.019531 22.017578 C 14.019531 22.824696 13.361794 23.482422 12.554688 23.482422 C 11.747797 23.482422 11.09375 22.824696 11.09375 22.017578 C 11.09375 21.21046 11.747797 20.556641 12.554688 20.556641 z M 16.392578 22.453125 L 19.464844 22.453125 L 17.900391 24.919922 L 14.828125 24.919922 L 16.392578 22.453125 z M 23.980469 22.453125 L 27.052734 22.453125 L 25.490234 24.919922 L 22.419922 24.919922 L 23.980469 22.453125 z M 31.570312 22.453125 L 34.642578 22.453125 L 33.082031 24.919922 L 30.009766 24.919922 L 31.570312 22.453125 z M 23.226562 27.865234 L 28.408203 31.119141 L 23.226562 34.371094 L 23.226562 27.865234 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,284.3)"
+       id="path822" />
+  </g>
+</svg>
