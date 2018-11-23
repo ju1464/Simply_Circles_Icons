@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 6.35 6.35"
+   version="1.1"
+   id="svg829"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="system-run.svg">
+  <defs
+     id="defs823" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.145833"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     scale-x="1.9"
+     units="px"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata826">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-290.65)">
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.26165536"
+       d="M 12 0.15820312 A 11.84323 11.84323 0 0 0 0.15625 12.001953 A 11.84323 11.84323 0 0 0 12 23.841797 A 11.84323 11.84323 0 0 0 23.84375 12.001953 A 11.84323 11.84323 0 0 0 12 0.15820312 z M 11.966797 1.9179688 A 10.181907 10.181907 0 0 1 22.148438 12.101562 A 10.181907 10.181907 0 0 1 11.966797 22.285156 A 10.181907 10.181907 0 0 1 1.7832031 12.101562 A 10.181907 10.181907 0 0 1 11.966797 1.9179688 z M 12 3.0292969 C 11.718066 3.0292969 11.435012 3.0495251 11.158203 3.0703125 L 10.638672 5.7539062 A 6.4230025 6.4230025 0 0 0 9.3964844 6.1523438 L 7.4335938 4.2734375 C 6.9350805 4.5682406 6.5028581 4.9305787 6.0722656 5.3125 L 7.2324219 7.7558594 A 6.4806712 6.4806712 0 0 0 6.4726562 8.7988281 L 3.7890625 8.4375 A 8.8553367 8.8553367 0 0 0 3.2695312 10.078125 L 5.6308594 11.359375 A 6.184639 6.184639 0 0 0 5.59375 12 C 5.59375 12.221858 5.6090817 12.425343 5.6308594 12.640625 L 3.2695312 13.921875 C 3.3938392 14.49213 3.5609509 15.040308 3.7890625 15.564453 L 6.4726562 15.205078 C 6.6905158 15.576606 6.9479232 15.925073 7.2324219 16.244141 L 6.0722656 18.689453 C 6.5028581 19.071374 6.9350805 19.43375 7.4335938 19.728516 L 9.3964844 17.845703 C 9.7886308 18.021073 10.209361 18.154239 10.638672 18.248047 L 11.158203 20.931641 A 9.1218935 9.1218935 0 0 0 12.839844 20.931641 L 13.361328 18.248047 C 13.789358 18.154693 14.210698 18.021527 14.601562 17.845703 L 16.566406 19.730469 C 17.063638 19.435666 17.496471 19.071374 17.925781 18.689453 L 16.765625 16.244141 C 17.050121 15.925148 17.309484 15.576719 17.527344 15.205078 L 20.208984 15.564453 A 8.8553367 8.8553367 0 0 0 20.730469 13.921875 L 18.367188 12.640625 C 18.388995 12.42557 18.40625 12.221745 18.40625 12 C 18.40625 11.778142 18.388992 11.574657 18.367188 11.359375 L 20.730469 10.078125 A 8.8527738 8.8527738 0 0 0 20.208984 8.4355469 L 17.527344 8.796875 A 6.4806712 6.4806712 0 0 0 16.765625 7.7539062 L 17.925781 5.3125 C 17.496471 4.9306543 17.063638 4.5662875 16.566406 4.2714844 L 14.601562 6.1523438 A 6.426847 6.426847 0 0 0 13.359375 5.7539062 L 12.837891 3.0703125 A 9.1218935 9.1218935 0 0 0 12 3.0292969 z M 12 8.15625 A 3.8445921 3.8445921 0 0 1 12 15.845703 A 3.8445921 3.8445921 0 0 1 12 8.15625 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,290.65)"
+       id="path865" />
+  </g>
+</svg>

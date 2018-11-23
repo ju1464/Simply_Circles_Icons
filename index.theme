@@ -4,7 +4,7 @@ Comment=Simple and nice icons
 Example=folder
 
 # Directory list
-Directories=scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,scalable/places,scalable/status,
+Directories=scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,symbolic/panel,scalable/places,symbolic/places,scalable/status,
 
 [scalable/actions]
 Context=Actions
@@ -62,9 +62,23 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+[symbolic/panel]
+Context=Status
+Size=24
+MinSize=8
+MaxSize=512
+Type=Scalable
+
 [scalable/places]
 Context=Places
 Size=48
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[symbolic/places]
+Context=Places
+Size=24
 MinSize=8
 MaxSize=512
 Type=Scalable
