@@ -1,10 +1,17 @@
 [Icon Theme]
-Name=Simple Circle Black
-Comment=Inspired in Malys Uniblack Icons
+Name=Simply Black Circles
+Comment=Simple and nice icons
 Example=folder
 
 # Directory list
-Directories=scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/places,
+Directories=scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,scalable/places,scalable/status,
+
+[scalable/actions]
+Context=Actions
+Size=24
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [scalable/animations]
 Context=Animations
@@ -48,9 +55,23 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
+[scalable/panel]
+Context=Status
+Size=24
+MinSize=8
+MaxSize=512
+Type=Scalable
+
 [scalable/places]
 Context=Places
 Size=48
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/status]
+Context=Status
+Size=24
 MinSize=8
 MaxSize=512
 Type=Scalable

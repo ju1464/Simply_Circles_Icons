@@ -15,7 +15,7 @@
    version="1.1"
    id="svg829"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="force-exit.svg">
+   sodipodi:docname="gnome-panel-force-quit.svg">
   <defs
      id="defs823" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9553786"
-     inkscape:cx="24"
+     inkscape:cx="-25.426368"
      inkscape:cy="24"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +59,7 @@
      id="layer1"
      transform="translate(0,-284.3)">
     <g
-       id="g825">
+       id="g826">
       <path
          id="path822"
          d="m 6.3443156,284.37286 a 6.2892804,6.2892804 0 0 0 -6.28953858,6.28954 6.2892804,6.2892804 0 0 0 6.28953858,6.28902 6.2892804,6.2892804 0 0 0 6.2890214,-6.28902 6.2892804,6.2892804 0 0 0 -6.2890214,-6.28954 z m -0.018087,0.93638 a 5.4070437,5.4070437 0 0 1 5.4069054,5.40691 5.4070437,5.4070437 0 0 1 -5.4069054,5.4069 5.4070437,5.4070437 0 0 1 -5.40742176,-5.4069 5.4070437,5.4070437 0 0 1 5.40742176,-5.40691 z"
@@ -68,14 +68,14 @@
       <path
          id="path2"
          d="m 7.2118445,287.43757 h 2.6135478 c 0.2334057,0 0.4211247,0.18772 0.4211247,0.4211 v 5.58267 c 0,0.23338 -0.187719,0.4211 -0.4211247,0.4211 h -2.218783 l -0.8885423,-1.27043 1.5533411,-1.28395 0.3626177,-0.30925 -0.4217684,-0.21733 -2.9883809,-1.55333 z"
-         style="opacity:1;fill:#cccccc;stroke:#1a1a1a;stroke-width:0.29626635;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:0.29626635;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          inkscape:transform-center-y="6.1978909"
          inkscape:transform-center-x="2.0659636"
          id="path894-3"
          d="M 2.8739342,287.43757 H 6.264152 l -1.804087,1.62598 -0.3356144,0.30283 0.4018372,0.21023 2.9755222,1.54757 -1.4093229,1.17143 -0.2237423,0.18453 0.1716645,0.2366 0.803031,1.1457 H 2.8739342 c -0.2334059,0 -0.421768,-0.18772 -0.421768,-0.4211 v -5.58267 c 0,-0.23338 0.1883621,-0.4211 0.421768,-0.4211 z"
-         style="opacity:1;fill:#cccccc;stroke:#1a1a1a;stroke-width:0.29363284;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:none;stroke:#1a1a1a;stroke-width:0.29363284;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"

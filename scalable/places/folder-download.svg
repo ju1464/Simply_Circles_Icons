@@ -43,8 +43,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.25"
-     inkscape:cx="-1.0243899"
+     inkscape:zoom="5.125"
+     inkscape:cx="-20.097561"
      inkscape:cy="22.829268"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -52,9 +52,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:window-height="714"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      scale-x="1.9"
      units="px" />
@@ -76,14 +76,9 @@
      id="layer1"
      transform="translate(0,-284.3)">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.1389506"
-       d="m 6.3443558,284.37295 a 6.2892804,6.2892804 0 0 0 -6.28941435,6.28942 6.2892804,6.2892804 0 0 0 6.28941435,6.28914 6.2892804,6.2892804 0 0 0 6.2891432,-6.28914 6.2892804,6.2892804 0 0 0 -6.2891432,-6.28942 z m -0.018184,0.9363 a 5.4070438,5.4070438 0 0 1 5.4071322,5.40711 5.4070438,5.4070438 0 0 1 -5.4071322,5.40686 5.4070438,5.4070438 0 0 1 -5.40713234,-5.40686 5.4070438,5.4070438 0 0 1 5.40713234,-5.40711 z"
-       id="path1374"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path3288"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.31564131;stroke-linecap:round;stroke-linejoin:round"
-       d="m 10.018781,290.72452 -3.6950757,4.48656 -3.6764974,-4.48656 H 4.250991 v -3.52563 h 4.1640066 v 3.52563 z"
-       inkscape:connector-curvature="0" />
+       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.52516764"
+       d="M 23.978516 0.27539062 A 23.770509 23.770509 0 0 0 0.20703125 24.046875 A 23.770509 23.770509 0 0 0 23.978516 47.816406 A 23.770509 23.770509 0 0 0 47.748047 24.046875 A 23.770509 23.770509 0 0 0 23.978516 0.27539062 z M 23.910156 3.8144531 A 20.436071 20.436071 0 0 1 44.345703 24.25 A 20.436071 20.436071 0 0 1 23.910156 44.685547 A 20.436071 20.436071 0 0 1 3.4726562 24.25 A 20.436071 20.436071 0 0 1 23.910156 3.8144531 z M 16.066406 10.957031 L 16.066406 24.28125 L 10.005859 24.28125 L 23.900391 41.238281 L 37.867188 24.28125 L 31.804688 24.28125 L 31.804688 10.957031 L 16.066406 10.957031 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,284.3)"
+       id="path1374" />
   </g>
 </svg>
