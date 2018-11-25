@@ -14,7 +14,7 @@
    width="24"
    height="24"
    viewBox="0 0 24 24"
-   sodipodi:docname="audio-volume-muted-symbolic.svg"
+   sodipodi:docname="audio-volume-overamplified-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata8">
@@ -182,8 +182,36 @@
      inkscape:snap-smooth-nodes="true"
      showguides="true"
      inkscape:guide-bbox="true" />
-  <path
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 9.0820312 2.8261719 A 9.8846347 9.9350655 0 0 0 2.328125 12.25 A 9.8846347 9.9350655 0 0 0 9.0820312 21.673828 L 9.0820312 2.8261719 z M 11.259766 11.40625 L 11.259766 13.144531 L 13.234375 13.144531 L 13.234375 11.40625 L 11.259766 11.40625 z M 15.259766 11.40625 L 15.259766 13.144531 L 17.234375 13.144531 L 17.234375 11.40625 L 15.259766 11.40625 z M 19.259766 11.40625 L 19.259766 13.144531 L 21.234375 13.144531 L 21.234375 11.40625 L 19.259766 11.40625 z "
-     id="path840" />
+  <g
+     id="g912">
+    <path
+       inkscape:connector-curvature="0"
+       id="path840"
+       d="M 9.0828997,21.67329 A 9.8846347,9.9350655 0 0 1 2.3277167,12.249285 9.8846347,9.9350655 0 0 1 9.08185,2.8256348"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0"
+       y="2.887218"
+       x="11.259813"
+       height="18.676693"
+       width="1.9738317"
+       id="rect951"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0"
+       y="2.887218"
+       x="15.259813"
+       height="18.676693"
+       width="1.9738317"
+       id="rect951-6"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="0"
+       y="2.887218"
+       x="19.259813"
+       height="18.676693"
+       width="1.9738317"
+       id="rect951-6-7"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
 </svg>

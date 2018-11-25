@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="22.416667"
-     inkscape:cx="3.3680299"
-     inkscape:cy="11.821561"
+     inkscape:cx="-5.8884755"
+     inkscape:cy="11.643122"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -53,7 +53,7 @@
      inkscape:guide-bbox="true" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#808080;fill-opacity:0.99065423;fill-rule:nonzero;stroke:none;stroke-width:0.13580415;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+     style="opacity:1;fill:#333333;fill-opacity:0.99065423;fill-rule:nonzero;stroke:none;stroke-width:0.13580415;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
      d="M 11.999999,1.135742 A 10.818297,10.86433 0 0 0 1.18184,11.999517 10.818297,10.86433 0 0 0 11.999999,22.864258 10.818297,10.86433 0 0 0 22.818157,11.999517 10.818297,10.86433 0 0 0 11.999999,1.135742 Z m 0.193128,4.2896083 c 3.766453,0 6.81679,3.0416055 6.81679,6.8080527 0,1.883227 -0.766539,3.583314 -2.002142,4.814649 l 2.002142,2.00214 h -5.96469 v -5.964687 l 2.748457,2.748454 c 0.92457,-0.92457 1.512035,-2.190267 1.512035,-3.600556 0,-2.8248344 -2.287754,-5.1125896 -5.112592,-5.1125896 -2.824835,0 -5.11259,2.2877552 -5.11259,5.1125896 0,2.228345 1.422914,4.111638 3.408394,4.814649 v 1.772133 C 7.549057,18.066042 5.376339,15.407619 5.376339,12.233403 c 0,-3.7664472 3.050341,-6.8080527 6.816788,-6.8080527 z"
      id="path812-6" />
 </svg>
