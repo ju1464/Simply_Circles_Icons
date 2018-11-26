@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:window-height="719"
      id="namedview23"
      showgrid="false"
      inkscape:zoom="13.906434"
-     inkscape:cx="5.4486688"
-     inkscape:cy="12"
+     inkscape:cx="-9.4724821"
+     inkscape:cy="11.712363"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -123,20 +123,17 @@
          offset="1" />
     </radialGradient>
   </defs>
-  <g
-     id="g834">
-    <path
-       inkscape:connector-curvature="0"
-       id="path2555"
-       d="m 12,1.5018 c -5.7926,0 -10.498,4.7057 -10.498,10.498 0,5.7926 4.7057,10.498 10.498,10.498 5.7926,0 10.498,-4.7057 10.498,-10.498 C 22.498,6.2072 17.7923,1.5018 12,1.5018 Z"
-       style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.00370002;stroke-linecap:round;stroke-linejoin:round" />
-    <rect
-       id="rect4"
-       transform="rotate(-90)"
-       y="4.9571433"
-       x="-12.338984"
-       height="14"
-       width="2"
-       style="fill:#ffffff" />
-  </g>
+  <path
+     style="fill:#483737;fill-opacity:1;stroke:none;stroke-width:1.00370002;stroke-linecap:round;stroke-linejoin:round"
+     d="m 12,1.5018 c -5.7926,0 -10.498,4.7057 -10.498,10.498 0,5.7926 4.7057,10.498 10.498,10.498 5.7926,0 10.498,-4.7057 10.498,-10.498 C 22.498,6.2072 17.7923,1.5018 12,1.5018 Z"
+     id="path2555"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="fill:#ffffff"
+     width="2"
+     height="14"
+     x="-12.338984"
+     y="4.9571433"
+     transform="rotate(-90)"
+     id="rect4" />
 </svg>
