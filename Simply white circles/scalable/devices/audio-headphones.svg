@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg829"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="audio-headphones.svg">
+  <defs
+     id="defs823" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.6239223"
+     inkscape:cx="0.63414634"
+     inkscape:cy="23.609756"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="690"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     scale-x="1.9"
+     units="px" />
+  <metadata
+     id="metadata826">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.3)">
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.52516764"
+       d="M 23.978516 0.27539062 A 23.770509 23.770509 0 0 0 0.20703125 24.046875 A 23.770509 23.770509 0 0 0 23.978516 47.816406 A 23.770509 23.770509 0 0 0 47.748047 24.046875 A 23.770509 23.770509 0 0 0 23.978516 0.27539062 z M 23.910156 3.8144531 A 20.436071 20.436071 0 0 1 44.345703 24.25 A 20.436071 20.436071 0 0 1 23.910156 44.685547 A 20.436071 20.436071 0 0 1 3.4726562 24.25 A 20.436071 20.436071 0 0 1 23.910156 3.8144531 z M 23.910156 7.8144531 C 16.498897 7.8144531 10.406 14.557323 10.529297 20.634766 C 10.6369 25.936498 12.343308 31.160921 12.771484 32.474609 L 12.773438 32.474609 L 13.871094 36.09375 C 14.54138 38.308591 16.794445 39.591956 18.921875 38.96875 C 21.047064 38.347811 22.221356 36.064488 21.548828 33.849609 L 20.037109 28.859375 C 19.364581 26.644496 17.111517 25.36539 14.986328 25.986328 C 14.73014 26.061107 14.488656 26.161259 14.261719 26.28125 C 13.755662 23.282356 13.837891 20.916016 13.837891 20.916016 C 13.837891 15.596293 18.33714 11.246094 23.910156 11.246094 C 29.48093 11.246094 33.998403 15.342182 33.980469 20.845703 C 33.951974 22.833243 33.836463 24.397592 33.464844 26.261719 C 33.304006 26.18959 33.146776 26.111368 32.972656 26.060547 C 30.847468 25.437341 28.594403 26.718753 27.921875 28.933594 L 26.410156 33.923828 C 25.737628 36.136439 26.911921 38.421992 29.037109 39.042969 C 31.16454 39.663907 33.417604 38.382847 34.087891 36.167969 L 35.208984 32.474609 L 35.246094 32.474609 C 35.75049 31.028676 37.429688 25.322287 37.429688 20.634766 C 37.429688 14.290564 31.319174 7.8144531 23.910156 7.8144531 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,284.3)"
+       id="path1374" />
+  </g>
+</svg>

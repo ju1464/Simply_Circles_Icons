@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg829"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="gnome-aisleriot.svg">
+  <defs
+     id="defs823" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6041667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     scale-x="1.9"
+     units="px"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata826">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.3)">
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.52516764"
+       d="M 23.978516 0.27539062 A 23.770509 23.770509 0 0 0 0.20703125 24.046875 A 23.770509 23.770509 0 0 0 23.978516 47.816406 A 23.770509 23.770509 0 0 0 47.748047 24.046875 A 23.770509 23.770509 0 0 0 23.978516 0.27539062 z M 23.910156 3.8144531 A 20.436071 20.436071 0 0 1 44.345703 24.25 A 20.436071 20.436071 0 0 1 23.910156 44.685547 A 20.436071 20.436071 0 0 1 3.4726562 24.25 A 20.436071 20.436071 0 0 1 23.910156 3.8144531 z M 11.662109 11.365234 C 9.7605191 13.073203 8.9910443 13.548263 9.0019531 14.490234 C 9.0126114 15.406203 10.290001 16.185258 11.378906 15.591797 C 11.504319 16.001724 11.538582 16.461699 10.949219 16.822266 C 10.997461 16.821359 12.507812 16.822266 12.507812 16.822266 C 11.97287 16.453006 11.942713 15.976904 12.09375 15.517578 C 13.314217 16.193849 14.468579 15.421005 14.455078 14.353516 C 14.441321 13.235796 13.724772 12.890198 11.662109 11.365234 z M 23.771484 15.457031 C 17.114351 21.431935 14.418849 23.094348 14.457031 26.390625 C 14.493995 29.594908 18.967389 32.322339 22.779297 30.246094 C 23.218345 31.681029 23.342532 33.289402 21.279297 34.550781 C 21.448113 34.547947 26.734375 34.550781 26.734375 34.550781 C 24.861694 33.257578 24.752568 31.591468 25.28125 29.984375 C 29.553793 32.350132 33.598099 29.638181 33.550781 25.908203 C 33.502486 21.997337 30.992207 20.792137 23.771484 15.457031 z M 35.496094 33.179688 C 36.085476 33.540254 36.04924 34.002182 35.923828 34.412109 C 34.834924 33.818648 33.557533 34.597703 33.546875 35.513672 C 33.535967 36.455644 34.305441 36.930741 36.207031 38.638672 C 38.269694 37.113708 38.988347 36.76811 39.001953 35.650391 C 39.015454 34.582901 37.85914 33.810057 36.638672 34.486328 C 36.487635 34.027002 36.517792 33.548947 37.052734 33.179688 C 37.052734 33.179688 35.544336 33.180595 35.496094 33.179688 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,284.3)"
+       id="path822" />
+  </g>
+</svg>
