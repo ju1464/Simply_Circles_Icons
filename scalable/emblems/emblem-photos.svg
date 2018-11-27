@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:window-height="719"
      id="namedview23"
      showgrid="false"
      inkscape:zoom="13.906433"
-     inkscape:cx="10.209369"
-     inkscape:cy="16.067797"
+     inkscape:cx="-4.711783"
+     inkscape:cy="15.78016"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -123,17 +123,14 @@
          offset="1" />
     </radialGradient>
   </defs>
-  <g
-     id="g841">
-    <path
-       inkscape:connector-curvature="0"
-       id="path2555"
-       d="m 12,1.5018 c -5.7926,0 -10.498,4.7057 -10.498,10.498 0,5.7926 4.7057,10.498 10.498,10.498 5.7926,0 10.498,-4.7057 10.498,-10.498 C 22.498,6.2072 17.7923,1.5018 12,1.5018 Z"
-       style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.00370002;stroke-linecap:round;stroke-linejoin:round" />
-    <path
-       id="path4"
-       d="m 9.5024797,6.9212433 -1,1 H 7.50248 c -1.220916,-0.013115 -1.5,-1e-7 -1.5,0.9277342 v 7.0722675 c 0,0.999999 0.543411,0.999999 1.7128903,0.999999 h 8.5742187 c 1.342622,0.0029 1.712891,0 1.712891,-0.999999 V 8.9212435 c 0,-1.0000002 -0.362391,-1.0000002 -1.5,-1.0000002 h -1.000001 l -1,-1 z m 2.4999993,2.0000002 c 1.6568,0 3,1.3432015 3,3.0000015 0,1.6568 -1.3432,3 -3,3 -1.656799,0 -2.9999993,-1.3432 -2.9999993,-3 0,-1.6568 1.3432003,-3.0000015 2.9999993,-3.0000015 z"
-       style="fill:#ffffff"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     style="fill:#165044;fill-opacity:1;stroke:none;stroke-width:1.00370002;stroke-linecap:round;stroke-linejoin:round"
+     d="m 12,1.5018 c -5.7926,0 -10.498,4.7057 -10.498,10.498 0,5.7926 4.7057,10.498 10.498,10.498 5.7926,0 10.498,-4.7057 10.498,-10.498 C 22.498,6.2072 17.7923,1.5018 12,1.5018 Z"
+     id="path2555"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff"
+     d="m 9.5024797,6.9212433 -1,1 H 7.50248 c -1.220916,-0.013115 -1.5,-1e-7 -1.5,0.9277342 v 7.0722675 c 0,0.999999 0.543411,0.999999 1.7128903,0.999999 h 8.5742187 c 1.342622,0.0029 1.712891,0 1.712891,-0.999999 V 8.9212435 c 0,-1.0000002 -0.362391,-1.0000002 -1.5,-1.0000002 h -1.000001 l -1,-1 z m 2.4999993,2.0000002 c 1.6568,0 3,1.3432015 3,3.0000015 0,1.6568 -1.3432,3 -3,3 -1.656799,0 -2.9999993,-1.3432 -2.9999993,-3 0,-1.6568 1.3432003,-3.0000015 2.9999993,-3.0000015 z"
+     id="path4" />
 </svg>

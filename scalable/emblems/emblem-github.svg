@@ -41,8 +41,8 @@
      id="namedview23"
      showgrid="false"
      inkscape:zoom="22.166667"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:cx="2.6390979"
+     inkscape:cy="11.819549"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -125,7 +125,7 @@
     </radialGradient>
   </defs>
   <path
-     style="fill:#453748;fill-opacity:1;stroke:none;stroke-width:1.00370002;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#445016;fill-opacity:1;stroke:none;stroke-width:1.00370002;stroke-linecap:round;stroke-linejoin:round"
      d="m 12,1.5018 c -5.7926,0 -10.498,4.7057 -10.498,10.498 0,5.7926 4.7057,10.498 10.498,10.498 5.7926,0 10.498,-4.7057 10.498,-10.498 C 22.498,6.2072 17.7923,1.5018 12,1.5018 Z"
      id="path2555"
      inkscape:connector-curvature="0" />
