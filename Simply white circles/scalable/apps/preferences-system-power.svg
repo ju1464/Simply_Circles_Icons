@@ -15,7 +15,7 @@
    version="1.1"
    id="svg829"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="xfpm-ac-adapter.svg">
+   sodipodi:docname="preferences-system-power.svg">
   <defs
      id="defs823" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6041667"
-     inkscape:cx="-7.9405203"
-     inkscape:cy="27.568773"
+     inkscape:cx="-10.349442"
+     inkscape:cy="26.855018"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +59,7 @@
      id="layer1"
      transform="translate(0,-284.3)">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.1389506"
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.1389506"
        d="m 6.3443156,284.37286 a 6.2892804,6.2892804 0 0 0 -6.28953858,6.28954 6.2892804,6.2892804 0 0 0 6.28953858,6.28902 6.2892804,6.2892804 0 0 0 6.2890224,-6.28902 6.2892804,6.2892804 0 0 0 -6.2890224,-6.28954 z m -0.018087,0.93638 a 5.4070437,5.4070437 0 0 1 5.4069054,5.40691 5.4070437,5.4070437 0 0 1 -5.4069054,5.4069 5.4070437,5.4070437 0 0 1 -5.40742176,-5.4069 5.4070437,5.4070437 0 0 1 5.40742176,-5.40691 z m 1.055233,0.53537 -3.4380331,5.89318 h 1.9647378 l -0.4914429,3.92844 3.4380331,-5.89318 H 6.8900188 Z"
        id="path1374"
        inkscape:connector-curvature="0" />

@@ -15,7 +15,7 @@
    version="1.1"
    id="svg829"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="system-suspend1.svg">
+   sodipodi:docname="system-suspend.svg">
   <defs
      id="defs823" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9254885"
-     inkscape:cx="1.4146414"
-     inkscape:cy="21.205871"
+     inkscape:cx="-0.28872364"
+     inkscape:cy="20.70117"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,7 +60,7 @@
      id="layer1"
      transform="translate(0,-284.3)">
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.90981668"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.90981668"
        d="M 23.5 2.2636719 A 21.811296 21.6965 0 0 0 1.6894531 23.960938 A 21.811296 21.6965 0 0 0 23.5 45.658203 A 21.811296 21.6965 0 0 0 45.310547 23.960938 A 21.811296 21.6965 0 0 0 23.5 2.2636719 z M 23.386719 6.8476562 A 17.088356 16.998419 0 0 1 40.474609 23.847656 A 17.088356 16.998419 0 0 1 23.386719 40.84375 A 17.088356 16.998419 0 0 1 6.296875 23.847656 A 17.088356 16.998419 0 0 1 23.386719 6.8476562 z M 33.183594 13.423828 L 33.183594 13.425781 L 33.1875 13.455078 A 1.6009465 1.6009465 0 0 0 32.953125 13.458984 L 32.953125 13.460938 A 1.6009465 1.6009465 0 0 0 32.154297 13.958984 L 23.640625 22.455078 L 18.337891 17.175781 A 1.6009465 1.6009465 0 1 0 16.132812 19.376953 L 22.541016 25.787109 A 1.6009465 1.6009465 0 0 0 24.744141 25.787109 L 34.355469 16.175781 A 1.6009465 1.6009465 0 0 0 33.183594 13.423828 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,284.3)"
        id="path816" />
