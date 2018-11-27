@@ -40,14 +40,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview4"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="20.625"
-     inkscape:cx="11.151515"
-     inkscape:cy="12"
+     inkscape:cx="10.49697"
+     inkscape:cy="11.806061"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -55,21 +55,21 @@
   <g
      id="g818"
      transform="matrix(0.5,0,0,0.5,-0.30806406,-0.4901897)"
-     style="stroke:#333333">
+     style="stroke:#e6e6e6">
     <path
        inkscape:connector-curvature="0"
        id="path831"
        d="M 9.3559322,14.440678 V 4.881356 H 39.254237 v 27.050847 0"
-       style="fill:none;stroke:#333333;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path833"
        d="M 10.376138,24.381196 37.426984,38.211705 H 10.376138 Z"
-       style="fill:none;stroke:#333333;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path835"
        d="M 9.3559322,44.745763 H 39.254237 v 0"
-       style="fill:none;stroke:#333333;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="22.5"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:cx="11.4"
+     inkscape:cy="11.822222"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -54,6 +54,6 @@
   <path
      d="M 7.64,14.36 C 7.14,14.135 6.585,14 6,14 c -2.21,0 -4,1.79 -4,4 0,2.21 1.79,4 4,4 2.21,0 4,-1.79 4,-4 0,-0.585 -0.135,-1.14 -0.36,-1.64 L 12,14 14.36,16.36 C 14.135,16.86 14,17.415 14,18 c 0,2.21 1.79,4 4,4 2.21,0 4,-1.79 4,-4 0,-2.21 -1.79,-4 -4,-4 -0.585,0 -1.14,0.135 -1.64,0.36 L 14,12 21,5 V 2 H 20 Z M 8,18 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 z m 12,0 c 0,1.105 -0.895,2 -2,2 -1.105,0 -2,-0.895 -2,-2 0,-1.105 0.895,-2 2,-2 1.105,0 2,0.895 2,2 z m -7.5,-6 c 0,0.275 -0.225,0.5 -0.5,0.5 -0.275,0 -0.5,-0.225 -0.5,-0.5 0,-0.275 0.225,-0.5 0.5,-0.5 0.275,0 0.5,0.225 0.5,0.5 z M 3,5 9,11 11,9 4,2 H 3 Z"
      id="path2-6"
-     style="fill:#333333;stroke-width:0.49999991"
+     style="fill:#e6e6e6;stroke-width:0.49999991"
      inkscape:connector-curvature="0" />
 </svg>

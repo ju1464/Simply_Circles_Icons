@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="20.625"
-     inkscape:cx="11.151515"
-     inkscape:cy="12"
+     inkscape:cx="10.49697"
+     inkscape:cy="11.806061"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -54,18 +54,18 @@
   <g
      id="g819"
      transform="matrix(0.5,0,0,0.5,0.31605167,0.21870221)"
-     style="stroke:#333333">
+     style="stroke:#e6e6e6">
     <rect
        y="8.9962854"
        x="13.080585"
        height="35.282913"
        width="28.202328"
        id="rect812"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#e6e6e6;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     <path
        inkscape:connector-curvature="0"
        id="path824"
        d="m 5.750992,28.029198 -1e-6,-25.082071 h 23.281922"
-       style="fill:none;stroke:#333333;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:3.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

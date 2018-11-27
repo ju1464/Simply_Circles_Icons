@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="20.625"
-     inkscape:cx="11.151515"
-     inkscape:cy="12"
+     inkscape:cx="10.49697"
+     inkscape:cy="11.806061"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -55,6 +55,6 @@
   <path
      d="m 12.266666,8.436364 c -2.6449998,0 -5.0550002,0.985 -6.9000002,2.599999 L 1.7666659,7.436364 v 9 h 9.0000001 l -3.6150002,-3.615 c 1.385,-1.165001 3.1600002,-1.885001 5.1150002,-1.885001 3.545,0 6.545,2.305001 7.595,5.500001 l 2.365,-0.78 c -1.375,-4.190001 -5.31,-7.22 -9.96,-7.22 z"
      id="path2"
-     style="fill:#333333;stroke-width:0.5"
+     style="fill:#e6e6e6;stroke-width:0.5"
      inkscape:connector-curvature="0" />
 </svg>

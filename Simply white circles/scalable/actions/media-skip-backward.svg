@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="22.5"
-     inkscape:cx="11.222222"
-     inkscape:cy="12"
+     inkscape:cx="10.622222"
+     inkscape:cy="11.822222"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -52,6 +52,6 @@
   <path
      d="M 18,6 9.5,12 18,18 V 6 M 8,18 V 6 H 6 v 12 h 2"
      id="path2"
-     style="fill:#333333;stroke-width:0.5"
+     style="fill:#e6e6e6;stroke-width:0.5"
      inkscape:connector-curvature="0" />
 </svg>

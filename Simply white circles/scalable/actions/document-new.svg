@@ -40,12 +40,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="14.584077"
-     inkscape:cx="2.5212121"
-     inkscape:cy="14.742717"
+     inkscape:cx="1.595545"
+     inkscape:cy="17.211163"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -54,24 +54,24 @@
      inkscape:guide-bbox="true"
      inkscape:snap-global="false" />
   <g
-     id="g843"
-     style="stroke:#333333">
+     id="g827"
+     style="stroke:#e6e6e6">
     <path
        inkscape:connector-curvature="0"
        id="path851"
        d="M 10.949753,21.010067 H 3.7294145 V 1.9931179 H 14.407381 l 4.881355,4.8813555 v 5.4406786"
-       style="fill:none;stroke:#333333;stroke-width:1.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:1.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="translate(20)"
-       style="stroke:#333333"
+       style="stroke:#e6e6e6;fill:#e6e6e6"
        id="g837">
       <path
-         style="fill:none;stroke:#333333;stroke-width:2.50453496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#e6e6e6;stroke:#e6e6e6;stroke-width:2.50453496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m -3.153788,14.439645 0.101518,8.163134"
          id="path816"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:none;stroke:#333333;stroke-width:2.50453496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#e6e6e6;stroke:#e6e6e6;stroke-width:2.50453496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 1.00278,18.470454 -8.163136,0.101517"
          id="path816-3"
          inkscape:connector-curvature="0" />

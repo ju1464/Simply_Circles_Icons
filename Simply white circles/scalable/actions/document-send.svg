@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="22.5"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:cx="11.4"
+     inkscape:cy="11.822222"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -53,16 +53,17 @@
      inkscape:guide-bbox="true" />
   <g
      transform="matrix(0.5355166,0,0,0.5355166,-0.68923478,-1.478912)"
-     id="g830">
+     id="g830"
+     style="stroke:#e6e6e6">
     <path
        inkscape:connector-curvature="0"
        id="path837"
        d="m 8.6445312,5.390625 v 39.558594 h 6.6093748 l 5.78711,-14.535157 h 2.755859 V 44.949219 H 38.746094 V 14.441406 L 29.695312,5.390625 Z"
-       style="fill:none;stroke:#333333;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path825"
        d="m 17.970616,29.538782 h 8.910058 l -4.455029,-5.255044 z"
-       style="fill:none;stroke:#333333;stroke-width:4.27600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#e6e6e6;stroke-width:4.27600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="20.625"
-     inkscape:cx="2.5212121"
-     inkscape:cy="12"
+     inkscape:cx="1.8666666"
+     inkscape:cy="11.806061"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -144,11 +144,11 @@
   <g
      id="g4"
      transform="matrix(0.35099192,0,0,0.35099192,0.47761369,0.55979111)"
-     style="fill:#333333">
+     style="fill:#e6e6e6">
     <path
        inkscape:connector-curvature="0"
        d="M 32.759,0 C 14.696,0 0,14.695 0,32.759 0,50.823 14.695,65.518 32.759,65.518 50.823,65.518 65.518,50.823 65.518,32.759 65.518,14.695 50.822,0 32.759,0 Z M 6,32.759 C 6,18.004 18.004,6 32.759,6 39.407,6 45.493,8.443 50.178,12.472 L 12.472,50.178 C 8.443,45.493 6,39.407 6,32.759 Z m 26.759,26.759 c -5.948,0 -11.447,-1.953 -15.895,-5.248 L 54.269,16.865 c 3.295,4.448 5.248,9.947 5.248,15.895 10e-4,14.754 -12.003,26.758 -26.758,26.758 z"
        id="path2"
-       style="fill:#333333" />
+       style="fill:#e6e6e6" />
   </g>
 </svg>

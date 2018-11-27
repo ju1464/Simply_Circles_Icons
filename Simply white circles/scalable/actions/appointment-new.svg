@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview42"
      showgrid="false"
      inkscape:zoom="22.416667"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:cx="11.39777"
+     inkscape:cy="11.821561"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -175,19 +175,19 @@
   <g
      transform="matrix(1.375,0,0,1.375,-951.875,32.629812)"
      id="g4-3"
-     style="fill:#333333">
+     style="fill:#e6e6e6">
     <path
        inkscape:connector-curvature="0"
        d="m 700.5,-23 c -4.13,0 -7.5,3.37 -7.5,7.5 0,4.13 3.37,7.5 7.5,7.5 0.514,0 1.015,-0.051 1.5,-0.15 v -2.06 c -0.477,0.133 -0.979,0.21 -1.5,0.21 -3.05,0 -5.5,-2.45 -5.5,-5.5 0,-3.05 2.45,-5.5 5.5,-5.5 a 5.485,5.485 0 0 1 5.29,7 h 2.06 c 0.099,-0.485 0.15,-0.986 0.15,-1.5 0,-4.13 -3.37,-7.5 -7.5,-7.5 z m 2.965,4.002 a 0.5,0.5 0 0 0 -0.072,0.008 v 0.008 a 0.5,0.5 0 0 0 -0.25,0.156 l -2.657,2.649 -1.656,-1.649 a 0.5,0.5 0 1 0 -0.687,0.688 l 2,2 a 0.5,0.5 0 0 0 0.687,0 l 3,-3 a 0.5,0.5 0 0 0 -0.365,-0.86 z"
        font-weight="400"
        overflow="visible"
-       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#333333"
+       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#e6e6e6"
        id="path6-6" />
     <path
        inkscape:connector-curvature="0"
        d="m 705,-12.997 v 1.996 h -2 v 1.998 h 2 v 1.996 h 2 v -1.996 h 2 v -1.998 h -2 v -1.996 z"
        overflow="visible"
-       style="color:#bebebe;overflow:visible;fill:#333333;marker:none"
+       style="color:#bebebe;overflow:visible;fill:#e6e6e6;marker:none"
        id="path8" />
   </g>
 </svg>

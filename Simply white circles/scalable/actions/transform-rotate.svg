@@ -159,17 +159,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.412504"
-     inkscape:cx="12"
+     inkscape:cx="10.994975"
      inkscape:cy="12"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="768"
+     inkscape:window-height="719"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -196,15 +196,9 @@
      inkscape:groupmode="layer"
      transform="translate(0,-24)">
     <path
-       inkscape:connector-curvature="0"
-       d="M 18.162143,29.64375 C 16.536518,28.0125 14.292143,27 11.805893,27 c -4.9724997,0 -8.9887497,4.0275 -8.9887497,9 0,4.9725 4.01625,9 8.9887497,9 4.190625,0 7.700625,-2.86875 8.69625,-6.75 h -2.34 c -0.928125,2.62125 -3.414375,4.5 -6.35625,4.5 -3.7293747,0 -6.7499997,-3.020625 -6.7499997,-6.75 0,-3.729375 3.020625,-6.75 6.7499997,-6.75 1.861875,0 3.5325,0.77625 4.753125,1.996875 L 12.930893,34.875 h 7.875 V 27 Z"
-       id="path2-3"
-       style="fill:#333333;stroke-width:0.5625" />
-    <circle
-       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.42152125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path3347"
-       cx="12"
-       cy="36"
-       r="0.99360561" />
+       style="fill:#e6e6e6;stroke-width:0.5625"
+       d="M 11.806641 3 C 6.8341409 3 2.8164062 7.0275 2.8164062 12 C 2.8164062 16.9725 6.8341409 21 11.806641 21 C 15.997266 21 19.506328 18.13125 20.501953 14.25 L 18.162109 14.25 C 17.233984 16.87125 14.748516 18.75 11.806641 18.75 C 8.0772659 18.75 5.0566406 15.729375 5.0566406 12 C 5.0566406 8.270625 8.0772659 5.25 11.806641 5.25 C 13.668516 5.25 15.337969 6.0254688 16.558594 7.2460938 L 12.931641 10.875 L 20.806641 10.875 L 20.806641 3 L 18.162109 5.6445312 C 16.536484 4.0132812 14.292891 3 11.806641 3 z M 12 11.005859 A 0.99360561 0.99360561 0 0 0 11.005859 12 A 0.99360561 0.99360561 0 0 0 12 12.994141 A 0.99360561 0.99360561 0 0 0 12.994141 12 A 0.99360561 0.99360561 0 0 0 12 11.005859 z "
+       transform="translate(0,24)"
+       id="path2-3" />
   </g>
 </svg>

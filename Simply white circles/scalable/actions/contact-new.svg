@@ -26,12 +26,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview59"
      showgrid="false"
      inkscape:zoom="11.208334"
-     inkscape:cx="3.3680299"
-     inkscape:cy="11.821561"
+     inkscape:cx="2.163569"
+     inkscape:cy="11.464684"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -260,15 +260,16 @@
     </linearGradient>
   </defs>
   <g
-     id="g862">
+     id="g862"
+     style="fill:#e6e6e6">
     <path
        inkscape:connector-curvature="0"
        id="path856"
        d="M 9.8306208,0.38352948 C 8.5434118,0.29789548 7.2829634,1.0525581 6.5336502,2.0694807 5.8030718,3.3861282 6.3998562,4.9516548 5.9449063,6.3405568 c -0.278317,0.995517 0,2.055256 0.7225501,2.775131 0.6208574,0.78142 1.3835494,1.8010212 0.9580491,2.8500542 -0.615506,1.180169 -1.8384907,1.873283 -2.9517532,2.502168 -0.2943721,0.120436 -0.6743803,0.326487 -0.9901622,0.570012 -0.2836676,0.08028 -0.5084612,0.294375 -0.5084612,0.602128 v 2.801888 c 0,0.369304 0.2943727,0.669029 0.669028,0.669029 h 7.3111401 a 2.7216067,2.7216067 0 0 1 2.721608,-2.708225 h 2.630618 V 14.984404 C 15.030307,14.186923 13.376471,13.40817 12.549551,11.850674 12.265881,10.61431 13.135619,9.5304818 13.898316,8.6714498 14.650302,7.7160778 14.353254,6.4556292 14.090996,5.3851844 13.98127,4.2023429 14.361282,2.8000594 13.480839,1.8313069 12.525467,0.86255378 11.147269,0.46648928 9.8332978,0.38352948 Z"
-       style="color:#000000;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#333333;stroke-width:2.67611289;marker:none" />
+       style="color:#000000;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#e6e6e6;stroke-width:2.67611289;marker:none" />
     <path
        id="path6"
        d="m 17.450742,14.825433 v 3.060533 h -3.066666 v 3.042133 l 3.066666,0.02147 v 3.060533 h 3.066666 v -3.060533 h 3.066667 v -3.0636 h -3.066667 v -3.060533 z"
-       style="color:#000000;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#333333;stroke-width:1.53333318;marker:none" />
+       style="color:#000000;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#e6e6e6;stroke-width:1.53333318;marker:none" />
   </g>
 </svg>

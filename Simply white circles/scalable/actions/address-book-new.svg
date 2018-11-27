@@ -26,12 +26,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview59"
      showgrid="false"
      inkscape:zoom="22.416667"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:cx="11.39777"
+     inkscape:cy="11.821561"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -260,14 +260,14 @@
     </linearGradient>
   </defs>
   <g
-     style="color:#000000;fill:#333333"
+     style="color:#000000;fill:#e6e6e6"
      transform="matrix(1.5333332,0,0,1.5333332,-1032.8825,34.728098)"
      id="g4">
     <path
        inkscape:connector-curvature="0"
        d="m 676,-21.99 c -0.554,0 -1,0.446 -1,1 v 12 c 0,0.554 0.446,1 1,1 h 6 V -9 l -5,0.01 v -12 h 8.5 c 0.277,0 0.5,0.223 0.5,0.5 v 6.492 h 1 v -6.992 c 0,-0.554 -0.446,-1 -1,-1 z m 5.488,4.002 c -0.481,-0.032 -0.952,0.25 -1.232,0.63 -0.273,0.492 -0.05,1.077 -0.22,1.596 -0.104,0.372 0,0.768 0.27,1.037 0.232,0.292 0.517,0.673 0.358,1.065 -0.23,0.441 -0.687,0.7 -1.103,0.935 -0.11,0.045 -0.252,0.122 -0.37,0.213 -0.106,0.03 -0.19,0.11 -0.19,0.225 v 1.047 c 0,0.138 0.11,0.25 0.25,0.25 h 2.732 A 1.017,1.017 0 0 1 683,-12.002 h 0.983 v -0.53 c -0.552,-0.298 -1.17,-0.589 -1.479,-1.171 -0.106,-0.462 0.219,-0.867 0.504,-1.188 0.281,-0.357 0.17,-0.828 0.072,-1.228 -0.041,-0.442 0.101,-0.966 -0.228,-1.328 -0.357,-0.362 -0.872,-0.51 -1.363,-0.541 z M 685,-12.98 v 1.996 h -2 V -9 l 2,0.014 v 1.996 h 2 v -1.996 h 2 v -1.998 h -2 v -1.996 z"
        overflow="visible"
-       style="overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#333333;marker:none"
+       style="overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#e6e6e6;marker:none"
        id="path6" />
   </g>
 </svg>

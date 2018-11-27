@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="22.5"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:cx="2.7777778"
+     inkscape:cy="11.822222"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -53,5 +53,5 @@
      inkscape:connector-curvature="0"
      d="M 3.9,12 C 3.9,10.29 5.29,8.9 7,8.9 h 4 V 7 H 7 c -2.76,0 -5,2.24 -5,5 0,2.76 2.24,5 5,5 h 4 V 15.1 H 7 C 5.29,15.1 3.9,13.71 3.9,12 Z M 8,13 h 8 V 11 H 8 Z m 9,-6 h -4 v 1.9 h 4 c 1.71,0 3.1,1.39 3.1,3.1 0,1.71 -1.39,3.1 -3.1,3.1 H 13 V 17 h 4 c 2.76,0 5,-2.24 5,-5 0,-2.76 -2.24,-5 -5,-5 z"
      id="path2"
-     style="fill:#333333;stroke-width:0.49999991" />
+     style="fill:#e6e6e6;stroke-width:0.49999991" />
 </svg>

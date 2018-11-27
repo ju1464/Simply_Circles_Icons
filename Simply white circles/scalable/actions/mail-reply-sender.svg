@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-height="719"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="22.5"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:cx="11.4"
+     inkscape:cy="11.822222"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -53,5 +53,5 @@
      inkscape:connector-curvature="0"
      d="M 9.9999998,8.5000005 V 4.5000004 L 3,11.500002 l 6.9999998,7 V 14.4 C 15.000002,14.4 18.500002,16.000002 21,19.500003 19.999999,14.499999 16.999999,9.5000005 9.9999998,8.5000005 Z"
      id="path2"
-     style="fill:#333333;stroke-width:0.49999997" />
+     style="fill:#e6e6e6;stroke-width:0.49999997" />
 </svg>
