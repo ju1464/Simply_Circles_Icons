@@ -15,7 +15,7 @@
    version="1.1"
    id="svg829"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="playonlinux.svg">
+   sodipodi:docname="folder-playonlinux.svg">
   <defs
      id="defs823" />
   <sodipodi:namedview
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9107571"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="22.293463"
+     inkscape:cy="23.494359"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-height="719"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -58,13 +58,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-284.3)">
+    <path
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.1389506"
+       d="m 6.3443558,284.37295 a 6.2892804,6.2892804 0 0 0 -6.28941435,6.28942 6.2892804,6.2892804 0 0 0 6.28941435,6.28914 6.2892804,6.2892804 0 0 0 6.2891432,-6.28914 6.2892804,6.2892804 0 0 0 -6.2891432,-6.28942 z m -0.018184,0.9363 a 5.4070438,5.4070438 0 0 1 5.4071322,5.40711 5.4070438,5.4070438 0 0 1 -5.4071322,5.40686 5.4070438,5.4070438 0 0 1 -5.40713234,-5.40686 5.4070438,5.4070438 0 0 1 5.40713234,-5.40711 z"
+       id="path1374"
+       inkscape:connector-curvature="0" />
     <g
-       id="g1113">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1374"
-         d="m 6.3443558,284.37295 a 6.2892804,6.2892804 0 0 0 -6.28941435,6.28942 6.2892804,6.2892804 0 0 0 6.28941435,6.28914 6.2892804,6.2892804 0 0 0 6.2891432,-6.28914 6.2892804,6.2892804 0 0 0 -6.2891432,-6.28942 z m -0.018184,0.9363 a 5.4070438,5.4070438 0 0 1 5.4071322,5.40711 5.4070438,5.4070438 0 0 1 -5.4071322,5.40686 5.4070438,5.4070438 0 0 1 -5.40713234,-5.40686 5.4070438,5.4070438 0 0 1 5.40713234,-5.40711 z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:0.1389506" />
+       id="g827">
       <path
          sodipodi:nodetypes="ccc"
          style="opacity:0.6;fill:#44aa00;fill-opacity:1;stroke:none;stroke-width:0.31383371"

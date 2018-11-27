@@ -15,7 +15,7 @@
    version="1.1"
    id="svg829"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="mega.svg">
+   sodipodi:docname="folder-mega.svg">
   <defs
      id="defs823" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.208333"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="7.9254883"
+     inkscape:cx="22.795539"
+     inkscape:cy="23.643123"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,18 +60,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-284.3)">
-    <g
-       id="g931">
-      <path
-         id="path822"
-         d="m 6.3443156,284.37286 a 6.2892804,6.2892804 0 0 0 -6.28953858,6.28954 6.2892804,6.2892804 0 0 0 6.28953858,6.28902 6.2892804,6.2892804 0 0 0 6.2890214,-6.28902 6.2892804,6.2892804 0 0 0 -6.2890214,-6.28954 z m -0.018087,0.93638 a 5.4070437,5.4070437 0 0 1 5.4069054,5.40691 5.4070437,5.4070437 0 0 1 -5.4069054,5.4069 5.4070437,5.4070437 0 0 1 -5.40742176,-5.4069 5.4070437,5.4070437 0 0 1 5.40742176,-5.40691 z"
-         style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.1389506"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3005"
-         d="m 2.690792,287.95373 h 1.5406044 l 2.157137,1.92596 2.0800702,-1.92596 h 1.5406044 v 5.39254 H 8.4686036 v -3.08126 l -1.9259371,1.54063 h -0.385333 l -1.9259371,-1.54063 v 3.08126 H 2.690792 Z"
-         style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.44043657;opacity:0.75"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.1389506"
+       d="m 6.3443156,284.37286 a 6.2892804,6.2892804 0 0 0 -6.28953858,6.28954 6.2892804,6.2892804 0 0 0 6.28953858,6.28902 6.2892804,6.2892804 0 0 0 6.2890214,-6.28902 6.2892804,6.2892804 0 0 0 -6.2890214,-6.28954 z m -0.018087,0.93638 a 5.4070437,5.4070437 0 0 1 5.4069054,5.40691 5.4070437,5.4070437 0 0 1 -5.4069054,5.4069 5.4070437,5.4070437 0 0 1 -5.40742176,-5.4069 5.4070437,5.4070437 0 0 1 5.40742176,-5.40691 z"
+       id="path822" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.75;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.44043657"
+       d="m 2.690792,287.95373 h 1.5406044 l 2.157137,1.92596 2.0800702,-1.92596 h 1.5406044 v 5.39254 H 8.4686036 v -3.08126 l -1.9259371,1.54063 h -0.385333 l -1.9259371,-1.54063 v 3.08126 H 2.690792 Z"
+       id="path3005" />
   </g>
 </svg>
