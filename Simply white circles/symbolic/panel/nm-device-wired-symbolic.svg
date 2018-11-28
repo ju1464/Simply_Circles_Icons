@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg2906"
+   sodipodi:docname="nm-device-wired.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="22.166667"
+     inkscape:cx="11.954887"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2906"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata3009">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2908">
+    <clipPath
+       id="clipPath2915">
+      <rect
+         width="4.0000005"
+         height="15.000033"
+         x="-202.00041"
+         y="21"
+         transform="matrix(0,-1,1,0,0,0)"
+         id="rect2917"
+         style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       id="clipPath2854">
+      <rect
+         width="1.1249844"
+         height="4.1250067"
+         x="27.375002"
+         y="221.875"
+         id="rect2856"
+         style="color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       id="clipPath2920">
+      <path
+         d="m 27.545458,222.48863 0,-0.57954 1.738637,0 0,4.05682 -1.738637,0 0,-0.57955 -0.579545,0 0,-2.89773 0.579545,0 z"
+         id="path2922"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath851">
+      <ellipse
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.37880188;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="ellipse853"
+         cx="7.9909444"
+         cy="40.182869"
+         rx="7.5484991"
+         ry="7.490562" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath835">
+      <ellipse
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29710582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="ellipse837"
+         cx="23.62096"
+         cy="24.499601"
+         rx="21.006697"
+         ry="21.050003" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath831">
+      <ellipse
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29710582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="ellipse833"
+         cx="23.62096"
+         cy="24.499601"
+         rx="21.006697"
+         ry="21.050003" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath827">
+      <ellipse
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29710582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="ellipse829"
+         cx="23.62096"
+         cy="24.499601"
+         rx="21.006697"
+         ry="21.050003" />
+    </clipPath>
+  </defs>
+  <path
+     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.74858755;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 20.386719 2.0253906 L 15.574219 6.8378906 A 5.9774437 5.9774437 0 0 0 12.248047 5.8203125 A 5.9774437 5.9774437 0 0 0 8.0039062 7.5976562 L 8.5644531 8.1601562 L 8.0683594 8.65625 L 7.4609375 8.0488281 A 5.9774437 5.9774437 0 0 0 5.7285156 12.248047 A 5.9774437 5.9774437 0 0 0 6.7460938 15.578125 L 1.7109375 20.613281 L 3.4316406 22.335938 L 8.484375 17.283203 A 5.9774437 5.9774437 0 0 0 11.705078 18.226562 A 5.9774437 5.9774437 0 0 0 15.908203 16.498047 L 15.34375 15.931641 L 15.839844 15.435547 L 16.451172 16.046875 A 5.9774437 5.9774437 0 0 0 18.226562 11.796875 A 5.9774437 5.9774437 0 0 0 17.279297 8.578125 L 22.109375 3.7480469 L 20.386719 2.0253906 z M 9.8398438 9.4355469 L 10.564453 10.160156 L 10.068359 10.65625 L 9.34375 9.9316406 L 9.8398438 9.4355469 z M 11.839844 11.435547 L 12.564453 12.160156 L 12.068359 12.65625 L 11.34375 11.931641 L 11.839844 11.435547 z M 13.839844 13.435547 L 14.564453 14.160156 L 14.068359 14.65625 L 13.34375 13.931641 L 13.839844 13.435547 z "
+     id="path837" />
+</svg>
