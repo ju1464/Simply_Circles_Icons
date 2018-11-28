@@ -15,7 +15,7 @@
    version="1.1"
    id="svg829"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="blueman-mouse.svg">
+   sodipodi:docname="input-mouse.svg">
   <defs
      id="defs823" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6239223"
-     inkscape:cx="-30.996963"
+     inkscape:zoom="11.145833"
+     inkscape:cx="24"
      inkscape:cy="24"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -34,9 +34,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:window-height="719"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      scale-x="1.9"
      units="px" />
@@ -58,7 +58,7 @@
      id="layer1"
      transform="translate(0,-284.3)">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.52516764"
+       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.52516764"
        d="M 23.978516 0.27539062 A 23.770509 23.770509 0 0 0 0.20703125 24.046875 A 23.770509 23.770509 0 0 0 23.978516 47.816406 A 23.770509 23.770509 0 0 0 47.748047 24.046875 A 23.770509 23.770509 0 0 0 23.978516 0.27539062 z M 23.910156 3.8144531 A 20.436071 20.436071 0 0 1 44.345703 24.25 A 20.436071 20.436071 0 0 1 23.910156 44.685547 A 20.436071 20.436071 0 0 1 3.4726562 24.25 A 20.436071 20.436071 0 0 1 23.910156 3.8144531 z M 19.039062 6.9316406 C 15.588332 6.9316406 12.810547 9.7061972 12.810547 13.160156 L 12.810547 19.388672 L 22.154297 19.388672 L 22.154297 6.9316406 L 19.039062 6.9316406 z M 25.269531 6.9316406 L 25.269531 19.388672 L 34.611328 19.388672 L 34.611328 13.160156 C 34.611328 9.7061972 31.833541 6.9316406 28.382812 6.9316406 L 25.269531 6.9316406 z M 12.810547 22.501953 L 12.810547 29.509766 C 12.810547 36.408084 17.669046 41.189453 23.710938 41.189453 C 29.749713 41.189453 34.611328 36.408084 34.611328 29.509766 L 34.611328 22.501953 L 22.154297 22.501953 L 12.810547 22.501953 z "
        transform="matrix(0.26458333,0,0,0.26458333,0,284.3)"
        id="path1374" />

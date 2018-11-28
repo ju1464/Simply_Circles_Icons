@@ -38,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:window-height="719"
      id="namedview35"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
+     inkscape:cx="-40.881356"
      inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3783" />
   <defs
@@ -160,6 +160,6 @@
   <path
      id="rect3558"
      d="m 21,6.5 c -2.484,0 -4.5,2.016 -4.5,4.5 0,1.5525 0.80293,2.9098 2,3.7188 v 0.78125 h -10 c -1.108,0 -2,0.892 -2,2 v 9.7188 c 0.8247,-1.0349 2.0748,-1.7188 3.5,-1.7188 2.484,0 4.5,2.016 4.5,4.5 0,2.484 -2.016,4.5 -4.5,4.5 -1.4252,0 -2.6753,-0.68387 -3.5,-1.7188 v 9.7188 c 0,1.108 0.892,2 2,2 h 9.7187 c -1.0349,-0.8247 -1.7188,-2.0748 -1.7188,-3.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5 0,1.4252 -0.68387,2.6753 -1.7188,3.5 h 9.7188 c 1.108,0 2,-0.892 2,-2 v -10 h 0.78125 c 0.80894,1.1971 2.1662,2 3.7188,2 2.484,0 4.5,-2.016 4.5,-4.5 0,-2.484 -2.016,-4.5 -4.5,-4.5 -1.5525,0 -2.9098,0.80293 -3.7188,2 H 35.4999 v -10 c 0,-1.108 -0.892,-2 -2,-2 h -10 V 14.7188 c 1.1971,-0.80894 2,-2.1662 2,-3.7188 0,-2.484 -2.016,-4.5 -4.5,-4.5 z"
-     style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round"
      inkscape:connector-curvature="0" />
 </svg>
