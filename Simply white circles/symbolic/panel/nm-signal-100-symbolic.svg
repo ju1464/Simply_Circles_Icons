@@ -13,7 +13,7 @@
    width="24"
    height="24"
    id="svg2906"
-   sodipodi:docname="nm-signal-100.svg"
+   sodipodi:docname="nm-signal-100-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -24,15 +24,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-width="1299"
+     inkscape:window-height="704"
      id="namedview18"
      showgrid="false"
      inkscape:zoom="18.541667"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:cx="1.6719103"
+     inkscape:cy="11.78427"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2906" />
   <metadata
@@ -124,7 +124,8 @@
   </defs>
   <g
      id="g4798"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#808080;fill-opacity:1"
+     transform="matrix(1.249791,0,0,1.249791,-2.997491,-2.9974908)">
     <path
        transform="matrix(0.26951353,-0.26951353,0.26951353,0.26951353,-1.0062962,7.8964421)"
        clip-path="url(#clipPath851)"

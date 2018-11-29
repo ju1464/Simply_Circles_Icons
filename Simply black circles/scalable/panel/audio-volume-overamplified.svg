@@ -14,7 +14,7 @@
    width="24"
    height="24"
    viewBox="0 0 24 24"
-   sodipodi:docname="audio-volume-overamplified-symbolic.svg"
+   sodipodi:docname="audio-volume-overamplified.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata8">
@@ -169,26 +169,28 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="684"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="22.166667"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:zoom="11.083334"
+     inkscape:cx="-5.0977442"
+     inkscape:cy="11.639098"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:snap-smooth-nodes="true"
      showguides="true"
      inkscape:guide-bbox="true" />
   <g
-     id="g912">
+     id="g912"
+     transform="matrix(0.78842616,0,0,0.78842616,2.492484,2.591666)"
+     style="fill:#aa0000">
     <path
        inkscape:connector-curvature="0"
        id="path840"
        d="M 9.0828997,21.67329 A 9.8846347,9.9350655 0 0 1 2.3277167,12.249285 9.8846347,9.9350655 0 0 1 9.08185,2.8256348"
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        ry="0"
        y="2.887218"
@@ -196,7 +198,7 @@
        height="18.676693"
        width="1.9738317"
        id="rect951"
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        ry="0"
        y="2.887218"
@@ -204,7 +206,7 @@
        height="18.676693"
        width="1.9738317"
        id="rect951-6"
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        ry="0"
        y="2.887218"
@@ -212,6 +214,6 @@
        height="18.676693"
        width="1.9738317"
        id="rect951-6-7"
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

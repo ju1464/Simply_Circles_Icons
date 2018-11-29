@@ -12,7 +12,7 @@
    viewBox="0 0 24 24"
    width="24"
    id="svg6"
-   sodipodi:docname="nm-secure-lock.svg"
+   sodipodi:docname="nm-secure-lock-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    style="fill:#000000">
   <metadata
@@ -52,20 +52,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-width="1299"
+     inkscape:window-height="704"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="10.979167"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:cx="-5.4421247"
+     inkscape:cy="11.635674"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#808080;fill-opacity:1;stroke-width:0.22786026"
-     d="m 19.997819,14.079434 c -1.257788,0 -2.278602,1.020815 -2.278602,2.278603 v 0.911441 h -0.455721 l -0.911441,0.0026 v 5.465996 c 0,0.503571 0.40787,0.911441 0.911441,0.911441 h 5.468646 c 0.503571,0 0.905982,-0.407899 0.911441,-0.911441 l 0.05785,-5.446839 -0.969296,-0.0218 h -0.45572 v -0.911441 c 0,-1.257789 -1.020814,-2.278603 -2.278603,-2.278603 z m 0,0.866048 c 0.779282,0 1.412556,0.633274 1.412556,1.412555 v 0.911441 h -2.825111 v -0.911441 c 0,-0.779282 0.633273,-1.412556 1.412555,-1.412555 z"
+     style="fill:#808080;fill-opacity:1;stroke-width:0.32309842"
+     d="m 18.528424,10.166747 c -1.783502,0 -3.230983,1.447483 -3.230983,3.230985 v 1.292393 h -0.646198 l -1.292393,0.0036 v 7.750604 c 0,0.714047 0.578346,1.292393 1.292393,1.292393 h 7.754362 c 0.714047,0 1.284653,-0.578387 1.292393,-1.292393 l 0.08203,-7.72344 -1.37443,-0.03092 h -0.646196 v -1.292393 c 0,-1.783505 -1.44748,-3.230985 -3.230985,-3.230985 z m 0,1.228028 c 1.104996,0 2.002958,0.897962 2.002958,2.002957 v 1.292393 h -4.005915 v -1.292393 c 0,-1.104996 0.897961,-2.002958 2.002957,-2.002957 z"
      id="path2-6" />
 </svg>
