@@ -1,0 +1,3 @@
+Resize panel icons
+add tools for xfburn and brasero
+add messages and system panel icons

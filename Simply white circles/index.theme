@@ -4,7 +4,7 @@ Comment=Monochromatic and simple icons with little brush strokes of color
 Example=folder
 
 # Directory list
-Directories=scalable/actions,symbolic/actions,scalable/animations,scalable/apps,scalable/categories,symbolic/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,symbolic/panel,scalable/places,symbolic/places,scalable/status,symbolic/status,
+Directories=scalable/actions,symbolic/actions,scalable/animations,scalable/apps,scalable/categories,symbolic/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,symbolic/panel,scalable/places,symbolic/places,scalable/status,symbolic/status,scalable/tools,
 
 [scalable/actions]
 Context=Actions
