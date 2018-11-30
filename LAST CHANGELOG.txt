@@ -1,3 +1,27 @@
 Resize panel icons
 add tools for xfburn and brasero
 add messages and system panel icons
+
+add icons for kde:
+   Simply black circles/scalable/apps/application-x-clementine.svg
+	Simply black circles/scalable/apps/bluegriffon.svg
+	Simply black circles/scalable/apps/clementine.svg
+	Simply black circles/scalable/apps/darktable.svg
+	Simply black circles/scalable/apps/emacs.svg
+	Simply black circles/scalable/apps/filelight.svg
+	Simply black circles/scalable/apps/gparted.svg
+	Simply black circles/scalable/apps/kwikdisk.svg
+	Simply black circles/scalable/apps/partitionmanager.svg
+	Simply black circles/scalable/apps/steam.svg
+	Simply white circles/scalable/apps/application-x-clementine.svg
+	Simply white circles/scalable/apps/bluegriffon.svg
+	Simply white circles/scalable/apps/clementine.svg
+	Simply white circles/scalable/apps/darktable.svg
+	Simply white circles/scalable/apps/emacs.svg
+	Simply white circles/scalable/apps/filelight.svg
+	Simply white circles/scalable/apps/gparted.svg
+	Simply white circles/scalable/apps/kwikdisk.svg
+	Simply white circles/scalable/apps/partitionmanager.svg
+	Simply white circles/scalable/apps/steam.svg
+
+
