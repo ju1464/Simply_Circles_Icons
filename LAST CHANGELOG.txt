@@ -9,6 +9,7 @@ add icons for kde:
 	darktable.svg
 	emacs.svg
 	filelight.svg
+	gnome-color-manager.svg
 	gparted.svg
 	kwikdisk.svg
 	partitionmanager.svg
