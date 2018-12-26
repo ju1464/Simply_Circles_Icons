@@ -1,27 +1,6 @@
-Resize panel icons
-add tools for xfburn and brasero
-add messages and system panel icons
+Simply Black Circles:
 
-add icons for kde:
-   	application-x-clementine.svg
-	bluegriffon.svg
-	clementine.svg
-	darktable.svg
-	emacs.svg
-	filelight.svg
-	gnome-color-manager.svg
-	gparted.svg
-	kwikdisk.svg
-	partitionmanager.svg
-	steam.svg
-	alienarena.svg
-	filezilla.svg
-	fingerprint-gui.svg
-	fontforge.svg
-	ubiquity-kde.svg
-	unetbootin.svg
-	usb-creator-kde.svg
-	wayland.svg
+	optimized all the icons in the places folder
 
 
 

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -11,37 +9,35 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
-   viewBox="0 0 12.7 12.7"
    version="1.1"
-   id="svg829"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="folder-music.svg">
+   viewBox="0 0 12.7 12.7"
+   id="svg10"
+   sodipodi:docname="folder-music.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
-     id="defs823" />
+     id="defs14" />
   <sodipodi:namedview
-     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.25"
-     inkscape:cx="0.2926831"
-     inkscape:cy="23.219512"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
      showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="690"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     scale-x="1.9"
-     units="px" />
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
   <metadata
-     id="metadata826">
+     id="metadata2">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -53,19 +49,15 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-284.3)">
+     transform="translate(0,-284.3)"
+     fill="#1a1a1a"
+     id="g8">
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.1389506"
-       d="m 6.3443558,284.37295 a 6.2892804,6.2892804 0 0 0 -6.28941435,6.28942 6.2892804,6.2892804 0 0 0 6.28941435,6.28914 6.2892804,6.2892804 0 0 0 6.2891432,-6.28914 6.2892804,6.2892804 0 0 0 -6.2891432,-6.28942 z m -0.018184,0.9363 a 5.4070438,5.4070438 0 0 1 5.4071322,5.40711 5.4070438,5.4070438 0 0 1 -5.4071322,5.40686 5.4070438,5.4070438 0 0 1 -5.40713234,-5.40686 5.4070438,5.4070438 0 0 1 5.40713234,-5.40711 z"
-       id="path1374"
-       inkscape:connector-curvature="0" />
+       d="m6.3444 284.37a6.2893 6.2893 0 0 0 -6.2894 6.2894 6.2893 6.2893 0 0 0 6.2894 6.2891 6.2893 6.2893 0 0 0 6.2891 -6.2891 6.2893 6.2893 0 0 0 -6.2891 -6.2894zm-0.018184 0.9363a5.407 5.407 0 0 1 5.4071 5.4071 5.407 5.407 0 0 1 -5.4071 5.4069 5.407 5.407 0 0 1 -5.4071 -5.4069 5.407 5.407 0 0 1 5.4071 -5.4071z"
+       stroke-width=".13895"
+       id="path4" />
     <path
-       id="path4031"
-       style="fill:#1a1a1a;stroke:none;stroke-width:0.32913336;stroke-linecap:round;stroke-linejoin:round"
-       d="m 9.122797,286.43756 c -1.3583333,0.21658 -2.9200712,0.43973 -4.274784,0.66847 -0.3584263,0.17313 -0.2777886,0.6191 -0.2939161,0.94264 v 4.33238 c -0.9215735,-0.21097 -1.9336586,0.47758 -1.9734837,1.45609 -0.065168,0.60955 0.4805348,1.1398 1.0742914,1.15427 1.0631006,0.0254 1.8711231,-0.67242 1.8826428,-1.55516 -0.011855,-1.48275 0.0033,-2.96582 0,-4.44857 0.1645665,-0.0125 2.7380604,-0.48283 2.9622002,-0.5141 v 3.3315 c -0.8504806,-0.25048 -1.700303,0.27317 -1.9096318,1.15064 -0.1550219,0.50819 0.078663,1.10918 0.5828951,1.31753 0.9844381,0.44762 2.3691021,-0.45916 2.3141368,-1.52357 -0.015469,-1.97678 0.012507,-3.95454 0,-5.93164 -0.026001,-0.18563 -0.153047,-0.39397 -0.3643507,-0.38048 z"
-       inkscape:connector-curvature="0" />
+       d="m9.1228 286.44c-1.3583 0.21658-2.9201 0.43973-4.2748 0.66847-0.35843 0.17313-0.27779 0.6191-0.29392 0.94264v4.3324c-0.92157-0.21097-1.9337 0.47758-1.9735 1.4561-0.065168 0.60955 0.48053 1.1398 1.0743 1.1543 1.0631 0.0254 1.8711-0.67242 1.8826-1.5552-0.011855-1.4828 0.0033-2.9658 0-4.4486 0.16457-0.0125 2.7381-0.48283 2.9622-0.5141v3.3315c-0.85048-0.25048-1.7003 0.27317-1.9096 1.1506-0.15502 0.50819 0.078663 1.1092 0.5829 1.3175 0.98444 0.44762 2.3691-0.45916 2.3141-1.5236-0.015469-1.9768 0.012507-3.9545 0-5.9316-0.026001-0.18563-0.15305-0.39397-0.36435-0.38048z"
+       id="path6" />
   </g>
 </svg>
