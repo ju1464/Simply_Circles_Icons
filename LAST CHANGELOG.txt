@@ -2,5 +2,14 @@ Simply Black Circles:
 
 	optimized all the icons in the places folder
 
+	update: bluefish.svg
+
+
+Simply White Circles:
+
+	optimized all the icons in the places folder
+
+	update: bluefish.svg
+
 
 
