@@ -7,16 +7,36 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 24 24"
+   fill="#000000"
    version="1.1"
-   id="svg4"
+   viewBox="0 0 24 24"
+   id="svg6"
    sodipodi:docname="color-select.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   width="24"
-   height="24"
-   style="fill:#000000">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="883"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="2.0847458"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
   <metadata
-     id="metadata10">
+     id="metadata2">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,31 +47,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="717"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="20.625"
-     inkscape:cx="2.5212121"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
   <path
-     d="m 0.10704513,21.712216 c 0,-1.2415 1.00999997,-2.25 2.24999997,-2.25 0.9825,0 1.5,-0.8665 1.5,-1.5 0.915,0.69 1.5,1.871 1.5,3 0,1.6575 -1.3425,3 -3,3 -1.2415,0 -2.24999997,-1.01 -2.24999997,-2.25 M 23.812045,2.5922156 l -2.335,-2.33500001 c -0.39,-0.39 -1.025,-0.39 -1.415,0 l -3.125,3.12500001 -1.915,-1.92 -1.415,1.415 1.42,1.42 -8.9199999,8.9150004 v 4.75 h 4.7499999 l 8.92,-8.9200004 1.415,1.4200004 1.415,-1.4150004 -1.92,-1.92 3.125,-3.125 c 0.395,-0.39 0.395,-1.02 0,-1.41 m -13.785,13.3700004 -1.9199999,-1.92 8.0649999,-8.0650004 1.92,1.92 -8.065,8.0650004"
-     id="path2"
-     style="fill:#333333;stroke-width:0.5"
-     inkscape:connector-curvature="0" />
+     d="m0.10705 21.712c0-1.2415 1.01-2.25 2.25-2.25 0.9825 0 1.5-0.8665 1.5-1.5 0.915 0.69 1.5 1.871 1.5 3 0 1.6575-1.3425 3-3 3-1.2415 0-2.25-1.01-2.25-2.25m23.705-19.12l-2.335-2.335c-0.39-0.39-1.025-0.39-1.415 0l-3.125 3.125-1.915-1.92-1.415 1.415 1.42 1.42-8.92 8.915v4.75h4.75l8.92-8.92 1.415 1.42 1.415-1.415-1.92-1.92 3.125-3.125c0.395-0.39 0.395-1.02 0-1.41m-13.785 13.37-1.92-1.92 8.065-8.065 1.92 1.92-8.065 8.065"
+     fill="#333"
+     stroke-width=".5"
+     id="path4" />
 </svg>

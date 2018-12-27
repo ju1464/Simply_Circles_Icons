@@ -7,16 +7,36 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 24 24"
+   fill="#000000"
    version="1.1"
-   id="svg4"
+   viewBox="0 0 24 24"
+   id="svg10"
    sodipodi:docname="document-send.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   width="24"
-   height="24"
-   style="fill:#000000">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="883"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="2.0847458"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
   <metadata
-     id="metadata10">
+     id="metadata2">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,42 +47,20 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="717"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="22.5"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4"
-     showguides="true"
-     inkscape:guide-bbox="true" />
   <g
-     transform="matrix(0.5355166,0,0,0.5355166,-0.68923478,-1.478912)"
-     id="g830">
+     transform="matrix(.53552 0 0 .53552 -.68923 -1.4789)"
+     fill="none"
+     stroke="#333"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="g8">
     <path
-       inkscape:connector-curvature="0"
-       id="path837"
-       d="m 8.6445312,5.390625 v 39.558594 h 6.6093748 l 5.78711,-14.535157 h 2.755859 V 44.949219 H 38.746094 V 14.441406 L 29.695312,5.390625 Z"
-       style="fill:none;stroke:#333333;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m8.6445 5.3906v39.559h6.6094l5.7871-14.535h2.7559v14.535h14.949v-30.508l-9.0508-9.0508z"
+       stroke-width="3.5"
+       id="path4" />
     <path
-       inkscape:connector-curvature="0"
-       id="path825"
-       d="m 17.970616,29.538782 h 8.910058 l -4.455029,-5.255044 z"
-       style="fill:none;stroke:#333333;stroke-width:4.27600002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m17.971 29.539h8.9101l-4.455-5.255z"
+       stroke-width="4.276"
+       id="path6" />
   </g>
 </svg>

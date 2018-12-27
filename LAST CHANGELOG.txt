@@ -2,12 +2,16 @@ Simply Black Circles:
 
 	optimized all the icons in the places folder
 
+	add: application-x-addon.svg
+
 	update: bluefish.svg
 
 
 Simply White Circles:
 
 	optimized all the icons in the places folder
+
+	add: application-x-addon.svg
 
 	update: bluefish.svg
 

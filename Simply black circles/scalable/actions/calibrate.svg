@@ -7,16 +7,36 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 24 24"
+   fill="#000000"
    version="1.1"
-   id="svg4"
+   viewBox="0 0 24 24"
+   id="svg6"
    sodipodi:docname="calibrate.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   width="24"
-   height="24"
-   style="fill:#000000">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="883"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="2.0847458"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
   <metadata
-     id="metadata10">
+     id="metadata2">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -27,33 +47,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="717"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="22.416667"
-     inkscape:cx="12"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4"
-     showguides="true"
-     inkscape:guide-bbox="true" />
   <path
-     style="fill:#333333;fill-opacity:1;stroke-width:0.52516764"
-     d="M 9.5253896,2.1044977 6.2265616,7.0517481 H 8.7011717 V 11.998999 H 5.4023437 V 9.526356 l -4.94726588,3.298848 4.94726588,3.296844 v -2.472643 h 3.298828 v 3.298847 H 6.2265616 l 3.298828,4.947251 3.2988294,-4.947251 h -2.472657 v -3.298847 h 8.246094 v 2.472643 l 4.947266,-3.296844 -4.947266,-3.298848 v 2.472643 H 10.351562 V 7.0517481 h 2.472657 z"
-     id="path1374"
-     inkscape:connector-curvature="0" />
+     d="m9.5254 2.1045-3.2988 4.9473h2.4746v4.9473h-3.2988v-2.4726l-4.9473 3.2988 4.9473 3.2968v-2.4726h3.2988v3.2988h-2.4746l3.2988 4.9473 3.2988-4.9473h-2.4727v-3.2988h8.2461v2.4726l4.9473-3.2968-4.9473-3.2988v2.4726h-8.2461v-4.9473h2.4727z"
+     fill="#333"
+     stroke-width=".52517"
+     id="path4" />
 </svg>
