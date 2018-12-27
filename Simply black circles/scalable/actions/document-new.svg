@@ -1,70 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   viewBox="0 0 24 24"
-   id="svg14"
-   sodipodi:docname="document-new.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <defs
-     id="defs18" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="883"
-     inkscape:window-height="480"
-     id="namedview16"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="2.0847458"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg14" />
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     fill="none"
-     stroke="#333"
-     id="g12">
-    <path
-       d="m10.95 21.01h-7.2203v-19.017h10.678l4.8814 4.8814v5.4407"
-       stroke-linejoin="round"
-       stroke-width="1.75"
-       id="path4" />
-    <g
-       transform="translate(20)"
-       stroke-width="2.5045"
-       id="g10">
-      <path
-         d="m-3.1538 14.44 0.10152 8.1631"
-         id="path6" />
-      <path
-         d="m1.0028 18.47-8.1631 0.10152"
-         id="path8" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <g fill="none" stroke="#333">
+    <path stroke-linejoin="round" stroke-width="1.75" d="M10.95 21.01H3.7297V1.993h10.678l4.8814 4.8814v5.4407"/>
+    <g stroke-width="2.5045">
+      <path d="M16.8462 14.44l.10152 8.1631M21.0028 18.47l-8.1631.10152"/>
     </g>
   </g>
 </svg>
