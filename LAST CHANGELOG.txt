@@ -2,6 +2,7 @@ Simply Black Circles:
 
 	optimized and clean all the icons in the places folder.
 	optimized and clean all the icons in the actions folder.
+	optimized and clean all the icons in the symbolic/actions folder.
 
 	add: application-x-addon.svg
 
@@ -17,6 +18,7 @@ Simply White Circles:
 
 	optimized and clean all the icons in the places folder.
 	optimized and clean all the icons in the actions folder.
+	optimized and clean all the icons in the symbolic/actions folder.
 
 	add: application-x-addon.svg
 
