@@ -1,118 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
-   viewBox="0 0 12.7 12.7"
-   version="1.1"
-   id="svg829"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="alienarena.svg">
-  <defs
-     id="defs823">
-    <linearGradient
-       xlink:href="#linearGradient4192"
-       id="linearGradient4168"
-       x1="18"
-       y1="34"
-       x2="18"
-       y2="24"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.23812498,0,0,0.23812498,0.61138968,285.10024)" />
-    <linearGradient
-       id="linearGradient4192">
-      <stop
-         style="stop-color:#272b2d;stop-opacity:1"
-         offset="0"
-         id="stop7" />
-      <stop
-         style="stop-color:#33393e;stop-opacity:1"
-         offset="1"
-         id="stop9" />
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 12.7 12.7">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#272b2d"/>
+      <stop offset="1" stop-color="#33393e"/>
     </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient4192"
-       id="linearGradient4166"
-       x1="31"
-       y1="34"
-       x2="31"
-       y2="24"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.23812498,0,0,0.23812498,0.61138968,285.10024)" />
-    <linearGradient
-       xlink:href="#linearGradient4140"
-       id="linearGradient4146"
-       x1="24.705"
-       y1="43.938999"
-       x2="25.061001"
-       y2="4.4050002"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.89999992,0,0,0.89999992,2.3107641,3.0245291)" />
-    <linearGradient
-       id="linearGradient4140">
-      <stop
-         style="stop-color:#279646;stop-opacity:1"
-         offset="0"
-         id="stop12" />
-      <stop
-         style="stop-color:#76ff68;stop-opacity:1"
-         offset="1"
-         id="stop14" />
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#279646"/>
+      <stop offset="1" stop-color="#76ff68"/>
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.9627443"
-     inkscape:cx="-16.754585"
-     inkscape:cy="22.990599"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="719"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     scale-x="1.9"
-     units="px"
-     inkscape:snap-global="false" />
-  <metadata
-     id="metadata826">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-284.3)">
-    <path
-       style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.52516764"
-       d="M 24.001953 0.23046875 A 23.770509 23.770509 0 0 0 0.23046875 24.001953 A 23.770509 23.770509 0 0 0 24.001953 47.769531 A 23.770509 23.770509 0 0 0 47.769531 24.001953 A 23.770509 23.770509 0 0 0 24.001953 0.23046875 z M 23.933594 3.7695312 A 20.436071 20.436071 0 0 1 44.369141 24.203125 A 20.436071 20.436071 0 0 1 23.933594 44.640625 A 20.436071 20.436071 0 0 1 3.4960938 24.203125 A 20.436071 20.436071 0 0 1 23.933594 3.7695312 z M 23.910156 6.625 C 15.957217 6.625 9.5117186 11.2939 9.5117188 20.554688 C 9.5117188 29.815549 17.156637 42.625 23.910156 42.625 C 30.267944 42.625 38.310547 29.815549 38.310547 20.554688 C 38.310547 11.2939 31.863105 6.625 23.910156 6.625 z M 32.773438 24.628906 C 33.369003 24.608079 33.967323 24.65948 34.552734 24.783203 C 35.047599 27.124847 34.384921 29.661949 32.566406 31.480469 C 30.747903 33.298951 28.210778 33.959773 25.869141 33.464844 C 25.374213 31.123124 26.036955 28.58606 27.855469 26.767578 C 29.219354 25.403717 30.986738 24.691389 32.773438 24.628906 z M 15.048828 24.753906 C 16.835526 24.815562 18.602919 25.518525 19.966797 26.863281 C 21.78531 28.656516 22.446091 31.159648 21.951172 33.46875 C 19.609535 33.956763 17.07242 33.303114 15.253906 31.509766 C 13.435394 29.716455 12.774666 27.21539 13.269531 24.90625 C 13.854941 24.784237 14.453262 24.733354 15.048828 24.753906 z "
-       transform="matrix(0.26458333,0,0,0.26458333,0,284.3)"
-       id="path3717" />
-  </g>
+  <path fill="#e6e6e6" d="M6.35051665.06097819A6.28928043 6.28928043 0 0 0 .0609782 6.35051665a6.28928043 6.28928043 0 0 0 6.28953846 6.28850493 6.28928043 6.28928043 0 0 0 6.28850493-6.28850493A6.28928043 6.28928043 0 0 0 6.35051665.0609782zM6.33243.99735512a5.40704372 5.40704372 0 0 1 5.40690508 5.40638829A5.40704372 5.40704372 0 0 1 6.33243 11.8111652a5.40704372 5.40704372 0 0 1-5.40742186-5.4074218A5.40704372 5.40704372 0 0 1 6.33243.9973551zm-.0062013.75550944c-2.10421509 0-3.80958652 1.23531311-3.80958647 3.68556324 0 2.45026944 2.02271792 5.83943664 3.80958647 5.83943664 1.68216472 0 3.8101034-3.3891672 3.8101034-5.83943664 0-2.45025013-1.70588567-3.68556324-3.8101034-3.68556324zm2.34507666 4.7635334c.15757657-.00551047.31588207.00808937.47077206.04082442.13093303.61955997-.04440052 1.29083486-.52554927 1.77198494-.48114558.48114002-1.15242656.6559825-1.77198468.52503254-.1309497-.61958007.04440079-1.29084491.52554928-1.77198494.36086123-.36085488.82848158-.549325 1.30121261-.56585696zm-4.68963634.03307292c.47273051.01631315.94035324.20230544 1.30121262.55810546.48114822.47446009.65597986 1.13674709.52503255 1.74769699-.61955812.1291201-1.29083646-.04382453-1.77198495-.51831451-.48114796-.4744802-.65596557-1.1362203-.52503254-1.74718026.15488973-.0322826.31319549-.0457454.47077232-.04030768z"/>
 </svg>

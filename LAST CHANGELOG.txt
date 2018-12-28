@@ -1,33 +1,37 @@
 Simply Black Circles:
 
-	optimized and clean all the icons in the places folder.
-	optimized and clean all the icons in the actions folder.
-	optimized and clean all the icons in the symbolic/actions folder.
+	optimized and cleaned all icons in apps folder	
+	optimized and cleaned all icons in places folder.
+	optimized and cleaned all icons in actions folder.
+	optimized and cleaned all icons in symbolic/actions folder.
 
-	add: application-x-addon.svg
+	added:  application-x-addon.svg
 
-	update: bluefish.svg
+	updated:bluefish.svg
 		exit.svg
 		stock_close.svg
 		application-exit.svg
 		gtk-quit.svg
 		stock_exit.svg
+		gx_head.svg
 
 
 Simply White Circles:
 
-	optimized and clean all the icons in the places folder.
-	optimized and clean all the icons in the actions folder.
-	optimized and clean all the icons in the symbolic/actions folder.
+	optimized and cleaned all icons in apps folder	
+	optimized and cleaned all icons in places folder.
+	optimized and cleaned all icons in actions folder.
+	optimized and cleaned all icons in symbolic/actions folder.
 
-	add: application-x-addon.svg
+	added:  application-x-addon.svg
 
-	update: bluefish.svg
+	updated:bluefish.svg
 		exit.svg
 		stock_close.svg
 		application-exit.svg
 		gtk-quit.svg
 		stock_exit.svg
+		gx_head.svg
 
 
 
