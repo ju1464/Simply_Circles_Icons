@@ -4,12 +4,22 @@ Simply Black Circles:
 	optimized and cleaned all icons in places folder.
 	optimized and cleaned all icons in actions folder.
 	optimized and cleaned all icons in symbolic/actions folder.
+	optimized and cleaned all icons in animations folder.
+	optimized and cleaned all icons in categories folder.
 
 	added:  application-x-addon.svg
 		akregator.svg
 		kblogger.svg
 		kmines.svg
 		org.gnome.Weather.svg
+		keepass.svg
+		keepass2.svg
+		keepassx.svg
+		keepassx2.svg
+		kleopatra.svg
+		klipper.svg
+		kmahjongg.svg
+
 
 
 	updated:bluefish.svg
@@ -27,12 +37,21 @@ Simply White Circles:
 	optimized and cleaned all icons in places folder.
 	optimized and cleaned all icons in actions folder.
 	optimized and cleaned all icons in symbolic/actions folder.
+	optimized and cleaned all icons in animations folder.
+	optimized and cleaned all icons in categories folder.
 
 	added:  application-x-addon.svg
 		akregator.svg
 		kblogger.svg
 		kmines.svg
 		org.gnome.Weather.svg
+		keepass.svg
+		keepass2.svg
+		keepassx.svg
+		keepassx2.svg
+		kleopatra.svg
+		klipper.svg
+		kmahjongg.svg
 
 	updated:bluefish.svg
 		exit.svg
