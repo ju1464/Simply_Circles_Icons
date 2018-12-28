@@ -6,6 +6,11 @@ Simply Black Circles:
 	optimized and cleaned all icons in symbolic/actions folder.
 
 	added:  application-x-addon.svg
+		akregator.svg
+		kblogger.svg
+		kmines.svg
+		org.gnome.Weather.svg
+
 
 	updated:bluefish.svg
 		exit.svg
@@ -24,6 +29,10 @@ Simply White Circles:
 	optimized and cleaned all icons in symbolic/actions folder.
 
 	added:  application-x-addon.svg
+		akregator.svg
+		kblogger.svg
+		kmines.svg
+		org.gnome.Weather.svg
 
 	updated:bluefish.svg
 		exit.svg
