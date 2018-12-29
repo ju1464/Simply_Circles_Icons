@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <g fill="none" stroke="#333" stroke-linejoin="round" stroke-width="3.5">
-    <path stroke-width="1.75" d="M4.36989 6.73031V1.95066h14.949v13.5255"/>
-    <path stroke-linecap="round" stroke-width="1.75" d="M4.87994 11.70031l13.5255 6.9155H4.87994z"/>
-    <path stroke-width="1.75" d="M4.36989 21.88281h14.949"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="#333" stroke-linejoin="round" stroke-width="1.75"><path d="M4.37 6.73V1.95h14.949v13.526"/><path stroke-linecap="round" d="M4.88 11.7l13.525 6.916H4.88z"/><path d="M4.37 21.883h14.949"/></g></svg>

@@ -1,0 +1,41 @@
+
+
+
+	
+	optimized and cleaned all icons in scalable/devices folder.
+	optimized and cleaned all icons in scalable/emblems folder.
+	optimized and cleaned all icons in scalable/mimes folder.
+
+
+20181228-----------------------------------------------------------
+
+	optimized and cleaned all icons in scalable/apps folder.
+	optimized and cleaned all icons in scalable/places folder.
+	optimized and cleaned all icons in scalable/actions folder.
+	optimized and cleaned all icons in scalable/animations folder.
+	optimized and cleaned all icons in scalable/categories folder.
+	optimized and cleaned all icons in symbolic/actions folder.
+
+	added:  application-x-addon.svg
+		akregator.svg
+		kblogger.svg
+		kmines.svg
+		org.gnome.Weather.svg
+		keepass.svg
+		keepass2.svg
+		keepassx.svg
+		keepassx2.svg
+		kleopatra.svg
+		klipper.svg
+		kmahjongg.svg
+
+
+
+	updated:bluefish.svg
+		exit.svg
+		stock_close.svg
+		application-exit.svg
+		gtk-quit.svg
+		stock_exit.svg
+		gx_head.svg
+

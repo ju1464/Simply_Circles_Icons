@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <g fill="none" stroke="#333" stroke-width="3.5">
-    <path stroke-width="1.75" d="M6.85655 4.71685h14.101v17.6415h-14.101z"/>
-    <path stroke-width="1.75" d="M3.19155 14.2332l-5e-7-12.541h11.641"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="#333" stroke-width="1.75"><path d="M6.857 4.717h14.1v17.641h-14.1z"/><path d="M3.192 14.233V1.693h11.64"/></g></svg>

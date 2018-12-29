@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <g fill="#333" transform="matrix(.5 0 0 .5 -.039035 1.0642)">
-    <path d="M4.1875 12.203c-.10408 0-.1875.08342-.1875.1875v17.422c0 .10408.08342.1875.1875.1875h39.76c.10408 0 .1875-.08342.1875-.1875v-17.422c0-.10408-.08342-.1875-.1875-.1875zm33.008 2.6445a2.7712 2.7712 0 0 1 2.7715 2.7715 2.7712 2.7712 0 0 1-2.7715 2.7715 2.7712 2.7712 0 0 1-2.7715-2.7715 2.7712 2.7712 0 0 1 2.7715-2.7715z" paint-order="markers fill stroke"/>
-    <rect width="24" height="8" x="12" y="2" paint-order="markers fill stroke" ry=".18787"/>
-  </g>
-  <rect width="11.905" height="4.528" x="6.0688" y="15.5" fill="none" stroke="#333" stroke-linecap="square" stroke-miterlimit="1.5" stroke-width="1.5165" paint-order="markers fill stroke" ry="0"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="#333" transform="matrix(.5 0 0 .5 -.039 1.064)"><path d="M4.188 12.203a.187.187 0 0 0-.188.188v17.422c0 .104.083.187.188.187h39.76a.187.187 0 0 0 .187-.188V12.39a.187.187 0 0 0-.188-.187zm33.008 2.644a2.771 2.771 0 0 1 2.771 2.772 2.771 2.771 0 0 1-2.771 2.772 2.771 2.771 0 0 1-2.772-2.772 2.771 2.771 0 0 1 2.772-2.772z" paint-order="markers fill stroke"/><rect width="24" height="8" x="12" y="2" paint-order="markers fill stroke" ry=".188"/></g><rect width="11.905" height="4.528" x="6.069" y="15.5" fill="none" stroke="#333" stroke-linecap="square" stroke-miterlimit="1.5" stroke-width="1.516" paint-order="markers fill stroke" ry="0"/></svg>
