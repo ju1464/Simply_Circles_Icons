@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
@@ -27,7 +28,29 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12" />
+     id="defs12">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient819">
+      <stop
+         style="stop-color:#216778;stop-opacity:1"
+         offset="0"
+         id="stop815" />
+      <stop
+         style="stop-color:#37abc8;stop-opacity:1"
+         offset="1"
+         id="stop817" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient819"
+       id="linearGradient821"
+       x1="5.4893265"
+       y1="12.111509"
+       x2="9.1851091"
+       y2="1.2473515"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -41,8 +64,8 @@
      inkscape:window-height="714"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-40.372881"
+     inkscape:zoom="5.2604167"
+     inkscape:cx="24"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -54,8 +77,8 @@
      id="path823"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#008080;stroke:none;stroke-width:0.155"
-     d="M 6.37,0.805 A 5.507,5.547 0 0 1 11.876,6.352 5.507,5.547 0 0 1 6.37,11.9 5.507,5.547 0 0 1 0.86199997,6.352 5.507,5.547 0 0 1 6.37,0.805 Z"
+     style="fill:url(#linearGradient821);stroke:none;stroke-width:0.155;fill-opacity:1"
+     d="M 6.3700003,0.805 A 5.507,5.547 0 0 1 11.876,6.352 5.507,5.547 0 0 1 6.3700003,11.9 5.507,5.547 0 0 1 0.86199993,6.352 5.507,5.547 0 0 1 6.3700003,0.805 Z"
      id="path2"
      inkscape:connector-curvature="0" />
   <path
