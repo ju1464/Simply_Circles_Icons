@@ -26,3 +26,37 @@
 		bookmarks_list_add.svg
 		stock_add-bookmark.svg
 		stock_help-add-bookmark.svg
+		gnome-session-reboot.svg
+		reboot-notifier.svg
+		system-reboot.svg
+		system-restart.svg
+		un-reboot.svg
+		xfsm-reboot.svg
+		boot.svg
+		gnome-session-halt.svg
+		gnome-shutdown.svg
+		system-shut-down.svg
+		system-shutdown.svg
+		xfce4-system-exit.svg
+		xfce-system-exit.svg
+		xfsm-shutdown.svg
+		gnome-session-switch.svg
+		system-switch-user.svg
+		xfsm-switch.svg
+		gnome-session-sleep.svg
+		gnome-session-suspend.svg
+		sleep.svg
+		system-suspend.svg
+		xfsm-suspend.svg
+		gnome-log-out.svg
+		gnome-logout.svg
+		gnome-session-logout.svg
+		system-log-out.svg
+		system-logout.svg
+		xfsm-logout.svg
+		gnome-session-hebirnate.svg
+		gnome-session-hibernate.svg
+		gpm-hibernate.svg
+		system-hibernate.svg
+		system-suspend-hibernate.svg
+		xfsm-hibernate.svg
