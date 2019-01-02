@@ -1,6 +1,6 @@
 
 
-
+	Added red theme
 	
 	optimized and cleaned all icons in scalable/devices folder.
 	optimized and cleaned all icons in scalable/emblems folder.
@@ -21,3 +21,8 @@
 		image-viewer.svg
 		mirage.svg
 		ristretto.svg
+		bookmark_add.svg
+		bookmark-new.svg
+		bookmarks_list_add.svg
+		stock_add-bookmark.svg
+		stock_help-add-bookmark.svg
