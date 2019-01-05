@@ -61,3 +61,13 @@
 		system-hibernate.svg
 		system-suspend-hibernate.svg
 		xfsm-hibernate.svg
+
+	added:  org.gajim.Gajim.svg
+		org.pitivi.Pitivi.svg
+		code.svg
+		code-insiders.svg
+		code-oss.svg
+		com.visualstudio.code.oss.svg
+		com.visualstudio.code.svg
+		visual-studio-code.svg
+		visual-studio-code-insiders.svg
