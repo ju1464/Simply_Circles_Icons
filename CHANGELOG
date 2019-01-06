@@ -14,60 +14,17 @@
 	optimized and cleaned all icons in symbolic/places folder.
 	optimized and cleaned all icons in symbolic/status folder.
 
-	
-	updated:eog.svg
-		eom.svg
-		gpicview.svg
-		gthumb.svg
-		image-viewer.svg
-		mirage.svg
-		ristretto.svg
-		bookmark_add.svg
-		bookmark-new.svg
-		bookmarks_list_add.svg
-		stock_add-bookmark.svg
-		stock_help-add-bookmark.svg
-		gnome-session-reboot.svg
-		reboot-notifier.svg
-		system-reboot.svg
-		system-restart.svg
-		un-reboot.svg
-		xfsm-reboot.svg
-		boot.svg
-		gnome-session-halt.svg
-		gnome-shutdown.svg
-		system-shut-down.svg
-		system-shutdown.svg
-		xfce4-system-exit.svg
-		xfce-system-exit.svg
-		xfsm-shutdown.svg
-		gnome-session-switch.svg
-		system-switch-user.svg
-		xfsm-switch.svg
-		gnome-session-sleep.svg
-		gnome-session-suspend.svg
-		sleep.svg
-		system-suspend.svg
-		xfsm-suspend.svg
-		gnome-log-out.svg
-		gnome-logout.svg
-		gnome-session-logout.svg
-		system-log-out.svg
-		system-logout.svg
-		xfsm-logout.svg
-		gnome-session-hebirnate.svg
-		gnome-session-hibernate.svg
-		gpm-hibernate.svg
-		system-hibernate.svg
-		system-suspend-hibernate.svg
-		xfsm-hibernate.svg
+	added:  org.gajim.Gajim, org.pitivi.Pitivi, code, code-insiders, code-oss, com.visualstudio.code.oss, com.visualstudio.code, visual-studio-code, 
+		visual-studio-code-insiders, object-crop, color-fill, color-gradient, draw-brush, draw-calligraphic, draw-connector, draw-cuboid, draw-ellipse, 
+		draw-eraser, draw-freehand, draw-path, draw-polygon, draw-polygon-star, draw-polyline, draw-rectangle, draw-smudge, draw-spiral, draw-star, draw-text, 
+		mesh-gradient, paint-gradient-linear, paint-gradient-mesh, paint-gradient-radial, paint-none, paint-pattern, paint-solid, paint-swatch, paint-unknown, 
+		selection-bottom, selection-lower, selection-raise, selection-top, tool-measure, tool-node-editor, tool-pointer, tool-spray, tool-tweak, 
+		transform-crop-and-resize, zoom, zoom-double-size, zoom-fit-drawing, zoom-fit-page, zoom-fit-selection, zoom-fit-width, zoom-half-size, zoom-next, 
+		zoom-previous, 
 
-	added:  org.gajim.Gajim.svg
-		org.pitivi.Pitivi.svg
-		code.svg
-		code-insiders.svg
-		code-oss.svg
-		com.visualstudio.code.oss.svg
-		com.visualstudio.code.svg
-		visual-studio-code.svg
-		visual-studio-code-insiders.svg
+	updated:eog, eom, gpicview, gthumb, image-viewer, mirage, ristretto, bookmark_add, bookmark-new, bookmarks_list_add, stock_add-bookmark, 
+		stock_help-add-bookmark, gnome-session-reboot, reboot-notifier, system-reboot, system-restart, un-reboot, xfsm-reboot, boot, gnome-session-halt, 
+		gnome-shutdown, system-shut-down, system-shutdown, xfce4-system-exit, xfce-system-exit, xfsm-shutdown, gnome-session-switch, 
+		system-switch-user, xfsm-switch, gnome-session-sleep, gnome-session-suspend, sleep, system-suspend, xfsm-suspend, gnome-log-out, gnome-logout, 
+		gnome-session-logout, system-log-out, system-logout, xfsm-logout, gnome-session-hebirnate, gnome-session-hibernate, gpm-hibernate, system-hibernate, 
+		system-suspend-hibernate, xfsm-hibernate, 
