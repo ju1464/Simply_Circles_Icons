@@ -1,30 +1,9 @@
-
-
-	Added red theme.
-	added blue theme.
 	
-	optimized and cleaned all icons in scalable/devices folder.
-	optimized and cleaned all icons in scalable/emblems folder.
-	optimized and cleaned all icons in scalable/mimes folder.
-	optimized and cleaned all icons in scalable/panel folder.
-	optimized and cleaned all icons in scalable/status folder.
-	optimized and cleaned all icons in scalable/tools folder.
-	optimized and cleaned all icons in symbolic/categories folder.
-	optimized and cleaned all icons in symbolic/panel folder.
-	optimized and cleaned all icons in symbolic/places folder.
-	optimized and cleaned all icons in symbolic/status folder.
 
-	added:  org.gajim.Gajim, org.pitivi.Pitivi, code, code-insiders, code-oss, com.visualstudio.code.oss, com.visualstudio.code, visual-studio-code, 
-		visual-studio-code-insiders, object-crop, color-fill, color-gradient, draw-brush, draw-calligraphic, draw-connector, draw-cuboid, draw-ellipse, 
-		draw-eraser, draw-freehand, draw-path, draw-polygon, draw-polygon-star, draw-polyline, draw-rectangle, draw-smudge, draw-spiral, draw-star, draw-text, 
-		mesh-gradient, paint-gradient-linear, paint-gradient-mesh, paint-gradient-radial, paint-none, paint-pattern, paint-solid, paint-swatch, paint-unknown, 
-		selection-bottom, selection-lower, selection-raise, selection-top, tool-measure, tool-node-editor, tool-pointer, tool-spray, tool-tweak, 
-		transform-crop-and-resize, zoom, zoom-double-size, zoom-fit-drawing, zoom-fit-page, zoom-fit-selection, zoom-fit-width, zoom-half-size, zoom-next, 
-		zoom-previous, 
 
-	updated:eog, eom, gpicview, gthumb, image-viewer, mirage, ristretto, bookmark_add, bookmark-new, bookmarks_list_add, stock_add-bookmark, 
-		stock_help-add-bookmark, gnome-session-reboot, reboot-notifier, system-reboot, system-restart, un-reboot, xfsm-reboot, boot, gnome-session-halt, 
-		gnome-shutdown, system-shut-down, system-shutdown, xfce4-system-exit, xfce-system-exit, xfsm-shutdown, gnome-session-switch, 
-		system-switch-user, xfsm-switch, gnome-session-sleep, gnome-session-suspend, sleep, system-suspend, xfsm-suspend, gnome-log-out, gnome-logout, 
-		gnome-session-logout, system-log-out, system-logout, xfsm-logout, gnome-session-hebirnate, gnome-session-hibernate, gpm-hibernate, system-hibernate, 
-		system-suspend-hibernate, xfsm-hibernate, 
+	added:
+		applications-electronics, applications-engineering, applications-engineering-symbolic, applications-electronics-symbolic, 
+
+	updated: 
+		system-log-out-symbolic, system-reboot-symbolic, system-shutdown-symbolic, system-switch-user-symbolic, 
+
