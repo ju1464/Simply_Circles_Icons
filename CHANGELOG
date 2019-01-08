@@ -2,7 +2,11 @@
 
 
 	added:
-		applications-electronics, applications-engineering, applications-engineering-symbolic, applications-electronics-symbolic, 
+		applications-electronics, applications-engineering, applications-engineering-symbolic, applications-electronics-symbolic, folder-video-symbolic, 
+		inode-directory-symbolic, appcode, clion, com.jetbrains.PyCharm-Community, datagrip, dotcover, dotmemory, dotpeek, dottrace, gogland, goland, hub, 
+		idea, idea-ultimate, intellij, intellij-idea, intellij_idea, intellij-idea-ce, intellij-idea-community, intellij-idea-ue-bundled-jre, 
+		intellij-idea-ultimate, intellij-idea-ultimate-edition, jetbrains-toolbox, mps, phpstorm, pycharm, pycharm-community, pycharm-education, 
+		pycharm-professional, resharper, resharpercpp, rider, rubymine, teamcity, upsource, webstorm, youtrack, 
 
 	updated: 
 		system-log-out-symbolic, system-reboot-symbolic, system-shutdown-symbolic, system-switch-user-symbolic, 
