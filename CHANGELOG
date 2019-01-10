@@ -9,6 +9,12 @@
 		pycharm-professional, resharper, resharpercpp, rider, rubymine, teamcity, upsource, webstorm, youtrack, blueman-tray, bluetooth-connected, 
 		bluetooth-disabled, bluetooth-paired, bluetooth-searching, blueman-tray-symbolic, bluetooth-connected-symbolic, bluetooth-disabled-symbolic, 
 		bluetooth-paired-symbolic, bluetooth-searching-symbolic, 
+		cumulus, gis-weather, org.gnome.weather.application, org.gnome.Weather.Application, org.gnome.weather, org.kde.plasma.weather, org.kde.weatherWidget, 
+		weather, weather-widget, gnome-robots, cantata, sonata, gnome-nibbles, kdeconnect, gnome-wm, deepin-show-desktop, org.kde.plasma.showdesktop, 
+		org.kde.plasma.win7showdesktop, cs-desktop, cs-power, preferences-system-power-management, unity-power-panel, utilities-energy-monitor, apper, 
+		appgrid, dnfdragora, mintupdate-release-upgrade, muon, org.kde.muonnotifier, yast-sw_single, deepin-appstore, deepin-software-center, gnome-software, 
+		lubuntu-software-center, mintinstall, muondiscover, plasmadiscover, software, software-center, softwarecenter-debian, software-store, yast-software, 
+		org.gnome.Software, softwarecenter-ubuntu, ubuntu-kylin-software-center, 
 
 	updated: 
 		system-log-out-symbolic, system-reboot-symbolic, system-shutdown-symbolic, system-switch-user-symbolic, 
