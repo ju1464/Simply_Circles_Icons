@@ -2,27 +2,10 @@
 
 
 	added:
-		applications-electronics, applications-engineering, applications-engineering-symbolic, applications-electronics-symbolic, folder-video-symbolic, 
-		inode-directory-symbolic, appcode, clion, com.jetbrains.PyCharm-Community, datagrip, dotcover, dotmemory, dotpeek, dottrace, gogland, goland, hub, 
-		idea, idea-ultimate, intellij, intellij-idea, intellij_idea, intellij-idea-ce, intellij-idea-community, intellij-idea-ue-bundled-jre, 
-		intellij-idea-ultimate, intellij-idea-ultimate-edition, jetbrains-toolbox, mps, phpstorm, pycharm, pycharm-community, pycharm-education, 
-		pycharm-professional, resharper, resharpercpp, rider, rubymine, teamcity, upsource, webstorm, youtrack, blueman-tray, bluetooth-connected, 
-		bluetooth-disabled, bluetooth-paired, bluetooth-searching, blueman-tray-symbolic, bluetooth-connected-symbolic, bluetooth-disabled-symbolic, 
-		bluetooth-paired-symbolic, bluetooth-searching-symbolic, kwalletmanager, software-properties-mint, yast-sw_source, gnome-contacts, org.gnome.Contacts, 
-		cumulus, gis-weather, org.gnome.weather.application, org.gnome.Weather.Application, org.gnome.weather, org.kde.plasma.weather, org.kde.weatherWidget, 
-		weather, weather-widget, gnome-robots, cantata, sonata, gnome-nibbles, kdeconnect, gnome-wm, deepin-show-desktop, org.kde.plasma.showdesktop, 
-		org.kde.plasma.win7showdesktop, cs-desktop, cs-power, preferences-system-power-management, unity-power-panel, utilities-energy-monitor, apper, 
-		appgrid, dnfdragora, mintupdate-release-upgrade, muon, org.kde.muonnotifier, yast-sw_single, deepin-appstore, deepin-software-center, gnome-software, 
-		lubuntu-software-center, mintinstall, muondiscover, plasmadiscover, software, software-center, softwarecenter-debian, software-store, yast-software, 
-		org.gnome.Software, softwarecenter-ubuntu, ubuntu-kylin-software-center, org.gnome.mahjongg, org.gnome.Mahjongg, ksudoku, org.gnome.Characters, 
-		asounder, asunder, audex, k3b, ripperx, gnome-baker, GnomeBaker, disk-burner, deepin-image-viewer, geeqie, gwenview, lximage, lximage-qt, org.gnome.eog, 
-		org.kde.plasma.mediaframe, org.photoqt.PhotoQt, photoqt, pix, xviewer, multimedia-photo-viewer, simple finish/org.kde.kdeconnect, gnome-hearts, 
-		kpat, kpatience, org.gnome.Aisleriot, accessories-notes, basket, bijiben, cs-desklets, footnote, indicator-stickynotes, knotes, org.gnome.bijiben, 
-		org.gnome.Bijiben, org.gnome.Gnote, org.kde.plasma.notes, xpad, accessories-clock, alarm-clock, cuckoo, gnome-clocks, hourglass, org.gnome.clocks, 
-		org.gnome.Clocks, org.kde.plasma.analogclock, yast-timezone, cs-date-time, unity-datetime-panel, autokey, gnome-characters, 
-		indicator-keylock.
-		
-
+		system-hibernate-symbolic, system-suspend-symbolic, 
+	
 	updated: 
-		system-log-out-symbolic, system-reboot-symbolic, system-shutdown-symbolic, system-switch-user-symbolic, 
+		boot, gnome-logout, gnome-session-hibernate, system-suspend, reboot-notifier, gnome-session-switch, system-shutdown-symbolic, system-log-out-symbolic, 
+		system-reboot-symbolic, system-switch-user-symbolic, 
+		 
 
