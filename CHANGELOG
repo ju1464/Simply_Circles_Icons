@@ -2,10 +2,19 @@
 
 
 	added:
-		system-hibernate-symbolic, system-suspend-symbolic, 
+		system-hibernate-symbolic, system-suspend-symbolic, preferences-composer, artha, dictionary, gnome-dictionary, goldendict, org.gnome.Dictionary, 
+		palaura, calibre, calibre-gui, gnome-books, lrfviewer, org.gnome.books, org.gnome.Books, 1E64_notepad.0, bottles_notepad, chrome-mmfbcljfglbokpmkimbfghdkjmjhdgbg-Default, 
+		edile, juffed, kate, kwrite, medit, notepad, org.gnome.gedit, org.kde.plasma.katesessions, preferences-composer, qtikz, wine-notepad, xed, xedit, 
+		korg-todo, gnome-documents, org.gnome.documents, org.gnome.Documents, wordpad, utilities-log-viewer, activity-log-manager, gnome-logs, korg-journal, 
+		logview, plv, accessories-ebook-reader, applications-education, applications-education-symbolic, gmpc, itunes, musique, indicator-privacy, soundkonverter, 
+		deepin-music, gnome-music, guayadeque, juk, org.gnome.music, org.gnome.Music, document-viewer, mupdf, okular, org.kde.okular, org.pwmt.zathura, 
+		qpdfview, xreader, zathura, gnome-maps, gpxsee, maps, org.gnome.maps, org.gnome.Maps, qlandkartegt, qmapshack, QMapShack, kshisen, git, git-cola, 
+		git-dag, gitg, git-gui, org.gnome.gitg, agenda, calligraplan, calligraplanner, calligraplanwork, gnome-planner, korganizer, planner, planwork, 
+
+
 	
 	updated: 
 		boot, gnome-logout, gnome-session-hibernate, system-suspend, reboot-notifier, gnome-session-switch, system-shutdown-symbolic, system-log-out-symbolic, 
-		system-reboot-symbolic, system-switch-user-symbolic, 
+		system-reboot-symbolic, system-switch-user-symbolic, plan, 
 		 
 
