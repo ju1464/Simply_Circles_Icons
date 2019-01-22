@@ -1,6 +1,8 @@
 [Icon Theme]
 Name=Simply White Circles
 Comment=Monochromatic and simple icons with little brush strokes of color
+Inherits=breeze,gnome,hicolor
+
 Example=folder
 
 # Directory list
@@ -15,7 +17,7 @@ Type=Scalable
 
 [symbolic/actions]
 Context=Actions
-Size=24
+Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
@@ -43,7 +45,7 @@ Type=Scalable
 
 [symbolic/categories]
 Context=Categories
-Size=48
+Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
@@ -56,7 +58,7 @@ MaxSize=512
 Type=Scalable
 
 [scalable/emblems]
-Size=24
+Size=16
 Context=Emblems
 Type=Scalable
 MinSize=8
@@ -71,14 +73,14 @@ Type=Scalable
 
 [scalable/panel]
 Context=Status
-Size=24
+Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
 
 [symbolic/panel]
 Context=Status
-Size=24
+Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
@@ -92,21 +94,21 @@ Type=Scalable
 
 [symbolic/places]
 Context=Places
-Size=24
+Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
 
 [scalable/status]
 Context=Status
-Size=24
+Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
 
 [symbolic/status]
 Context=Status
-Size=24
+Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
