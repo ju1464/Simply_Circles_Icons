@@ -1,37 +1,5 @@
 Added:
-
-
-/home/usuario/Vídeos/smtube.svg
-/home/usuario/Vídeos/keepassxc.svg
-/home/usuario/Vídeos/ramme.svg
-/home/usuario/Vídeos/chromium.svg
-/home/usuario/Vídeos/awf.svg
-/home/usuario/Vídeos/grub-customizer.svg
-/home/usuario/Vídeos/ca.desrt.dconf-editor.svg
-
-/home/usuario/Vídeos/simple finish/anoise.svg
-/home/usuario/Vídeos/simple finish/wire.svg
-/home/usuario/Vídeos/simple finish/wire-desktop.svg
-/home/usuario/Vídeos/simple finish/wire-panel.svg
-/home/usuario/Vídeos/simple finish/deadbeef.svg
-/home/usuario/Vídeos/simple finish/ring.svg
-/home/usuario/Vídeos/simple finish/nicotine-plus.svg
-/home/usuario/Vídeos/simple finish/focuswriter.svg
-/home/usuario/Vídeos/simple finish/doublecmd.svg
-/home/usuario/Vídeos/simple finish/etcher-electron.svg
-/home/usuario/Vídeos/simple finish/firefox-developer-edition.svg
-/home/usuario/Vídeos/simple finish/icecat.svg
-/home/usuario/Vídeos/simple finish/waterfox.svg
-/home/usuario/Vídeos/simple finish/nvidia-settings.svg
-/home/usuario/Vídeos/simple finish/com.github.themix_project.Oomox.svg
-/home/usuario/Vídeos/simple finish/mat.svg
-/home/usuario/Vídeos/simple finish/tor.svg
-/home/usuario/Vídeos/simple finish/tor-browser.svg
-/home/usuario/Vídeos/simple finish/torbrowser.svg
-/home/usuario/Vídeos/simple finish/vkaudiosaver.svg
-
-/home/usuario/Música/application-x-xpinstall.svg
-/home/usuario/Música/application-deb.svg
-/home/usuario/Música/application-vnd.debian.binary-package.svg
-/home/usuario/Música/gnome-mime-application-deb.svg
-/home/usuario/Música/package-gdebi.svg
+	smtube, keepassxc, ramme, chromium, awf, grub-customizer, ca.desrt.dconf-editor, anoise, wire, wire-desktop, wire-panel, deadbeef, ring, nicotine-plus, focuswriter, 
+	doublecmd, etcher-electron, firefox-developer-edition, icecat, waterfox, nvidia-settings, com.github.themix_project.Oomox, mat, tor, tor-browser, torbrowser, 
+	vkaudiosaver, application-x-xpinstall, application-deb, application-vnd.debian.binary-package, gnome-mime-application-deb, package-gdebi, application-x-keepass2, 
+	application-vnd.android.package-archive, application-x-keepass, org.kde.kdeconnect-symbolic.
