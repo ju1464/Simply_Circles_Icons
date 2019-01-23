@@ -2,4 +2,8 @@ Added:
 	smtube, keepassxc, ramme, chromium, awf, grub-customizer, ca.desrt.dconf-editor, anoise, wire, wire-desktop, wire-panel, deadbeef, ring, nicotine-plus, focuswriter, 
 	doublecmd, etcher-electron, firefox-developer-edition, icecat, waterfox, nvidia-settings, com.github.themix_project.Oomox, mat, tor, tor-browser, torbrowser, 
 	vkaudiosaver, application-x-xpinstall, application-deb, application-vnd.debian.binary-package, gnome-mime-application-deb, package-gdebi, application-x-keepass2, 
-	application-vnd.android.package-archive, application-x-keepass, org.kde.kdeconnect-symbolic.
+	application-vnd.android.package-archive, application-x-keepass, org.kde.kdeconnect-symbolic, text-markdown, text-x-markdown, text-x-makefile, application-x-archive, 
+	application-x-pak, application-x-rdata, application-x-xz-pkg, application-vnd.rar, application-x-source-rpm, application-x-xz-compressed-tar, application-vnd.rar.
+
+Update:
+	application-x-m4.
