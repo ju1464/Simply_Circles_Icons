@@ -1,9 +1,22 @@
 Added:
-	smtube, keepassxc, ramme, chromium, awf, grub-customizer, ca.desrt.dconf-editor, anoise, wire, wire-desktop, wire-panel, deadbeef, ring, nicotine-plus, focuswriter, 
-	doublecmd, etcher-electron, firefox-developer-edition, icecat, waterfox, nvidia-settings, com.github.themix_project.Oomox, mat, tor, tor-browser, torbrowser, 
-	vkaudiosaver, application-x-xpinstall, application-deb, application-vnd.debian.binary-package, gnome-mime-application-deb, package-gdebi, application-x-keepass2, 
-	application-vnd.android.package-archive, application-x-keepass, org.kde.kdeconnect-symbolic, text-markdown, text-x-markdown, text-x-makefile, application-x-archive, 
-	application-x-pak, application-x-rdata, application-x-xz-pkg, application-vnd.rar, application-x-source-rpm, application-x-xz-compressed-tar, application-vnd.rar.
+	application-x-ar, application-x-arc, application-x-gzdvi, application-x-bzdvi, viewdvi, application-x-gzpostscript, application-x-tzo, application-x-tarz, 
+	video-x-flv, application-vnd.oasis.opendocument.image, application-x-egon, application-x-zerosize, none, application-x-kgetlist, application-vnd-google-earth-kml, 
+	application-xhtml+xml, application-xsd, application-xslt+xml, text-mathml, text-rdf+xml, text-sgml, text-vnd.wap.wml, text-x-xslfo, application-relaxng, text-x-dtd, 
+	image-ico, image-vnd.microsoft.icon, image-x-icon, text-x-objchdr, application-x-awk, application-x-executable-script, application-x-shellscript, 
+	text-x-generic.svapplication-x-awk, audio-ac3, audio-x-aiff, audio-x-monkey, text-x-opml, application-vnd.ms-word.document.macroenabled.12, application-vnd.ms-word, 
+	application-wps-office.doc, application-wps-office.docx, text-x-opml+xml, libreoffice-spreadsheet, application-x-siag, libreoffice-spreadsheet-template, 
+	application-vnd.sun.xml.calc.template, 
 
 Update:
-	application-x-m4.
+	application-x-archive, application-x-compress, application-x-pak, application-x-rdata, archive, gnome-mime-application-x-archive, gnome-mime-application-x-compress, 
+	gnome-mime-application-x-cpio-compressed, gnome-mime-application-x-tarz, gnome-package, package, package-x-generic, tgz, application-x-lhz, gnome-mime-application-x-lhz, 
+	application-x-lzop, gnome-mime-application-x-lzop, application-x-zip, application-zip, gnome-mime-application-x-zip, gnome-mime-application-zip, zip, application-7zip, 
+	application-x-7z-compressed, gnome-mime-application-x-7z-compressed, application-x-gzip, gnome-mime-application-x-gzip, application-x-zoo, gnome-mime-application-x-zoo, 
+	application-x-lha, gnome-mime-application-x-lha, application-x-tar, folder_tar, gnome-mime-application-x-tar, tar, application-x-stuffit, gnome-mime-application-x-stuffit, 
+	application-x-bzip, gnome-mime-application-x-bzip, application-vnd.rar, application-x-rar, gnome-mime-application-x-rar, rar, application-x-jar, application-x-java-archive, 
+	gnome-mime-application-x-jar, gnome-mime-application-x-java-archive, application-x-arj, gnome-mime-application-x-arj, application-x-cpio, gnome-mime-application-x-cpio, 
+	application-x-ace, gnome-mime-application-x-ace, application-x-lzma, gnome-mime-application-x-lzma, application-vnd.ms-cab-compressed, gnome-mime-application-vnd.ms-cab-compressed, 
+	application-x-xz-compressed-tar, application-x-xz-pkg, application-x-shar, gnome-mime-application-x-shar, application-x-compressed-tar, gnome-mime-application-x-compressed-tar, 
+	application-x-lzma-compressed-tar, gnome-mime-application-x-lzma-compressed-tar, application-x-bzip-compressed-tar, gnome-mime-application-x-bzip-compressed-tar.
+	application-xml, application-x-php, gnome-mime-application-vnd.oasis.opendocument.text-web, gnome-mime-application-xhtml+xml, gnome-mime-application-x-php, 
+	gnome-mime-text-html, gnome-mime-text-vnd.wap.wml, html, text-html, text-htmlh, text-xml, www, 
