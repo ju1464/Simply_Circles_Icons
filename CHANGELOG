@@ -9,6 +9,12 @@ Added:
 	text-x-log, application-x-kdenlivetitle, video-webm, video-x-matroska, video-x-theora+ogg, video-x-wmv, text-xmcd, video-x-ogm+ogg, application-x-apple-diskimage, 
 	application-x-cue, application-x-iso, application-x-k3b, application-x-raw-disk-image, application-vnd.nintendo.snes.rom, application-x-gameboy-rom, 
 	application-x-gamecube-rom, application-x-gba-rom, application-x-n64-rom, application-x-nes-rom, application-x-nintendo-ds-rom, application-x-cda, 
+	application-certificate, application-pkix-cerl, application-pkix-cert, application-x-pkcs7-certificates, application-x-pkcs12, application-x-x509-ca-cert, 
+	application-x-x509-user-cert, audio-midi, audio-prs.sid, audio-flac, audio-x-flac, audio-mp2, audio-mp3, audio-mp4, audio-x-mp2, encrypted, android-package-archive, 
+	application-x-font-pcf, application-x-font-snf, fonts-package, font-ttf, application-pgp-encrypted, x-kde-nsplugin-generated, application-x-font-afm, application-x-font-bdf, 
+	application-x-font-otf, application-x-font-ttf, application-x-font-type1, application-x-chm, text-x-texinfo, text-x-nfo, libreoffice-extension, x-office-contact, 
+	text-directory, text-x-ldif, text-x-vcard, x-mail-distribution-list, application-pgp, application-pkcs7-signature, application-pgp-keys, application-pkcs7-mime, 
+	text-x-rust, text-rust, application-epub+zip, application-pgp-signature, application-x-blender, application-x-pem-key, text-x-r, 
 
 Update:
 	application-x-archive, application-x-compress, application-x-pak, application-x-rdata, archive, gnome-mime-application-x-archive, gnome-mime-application-x-compress, 
@@ -22,4 +28,4 @@ Update:
 	application-x-xz-compressed-tar, application-x-xz-pkg, application-x-shar, gnome-mime-application-x-shar, application-x-compressed-tar, gnome-mime-application-x-compressed-tar, 
 	application-x-lzma-compressed-tar, gnome-mime-application-x-lzma-compressed-tar, application-x-bzip-compressed-tar, gnome-mime-application-x-bzip-compressed-tar.
 	application-xml, application-x-php, gnome-mime-application-vnd.oasis.opendocument.text-web, gnome-mime-application-xhtml+xml, gnome-mime-application-x-php, 
-	gnome-mime-text-html, gnome-mime-text-vnd.wap.wml, html, text-html, text-htmlh, text-xml, www, 
+	gnome-mime-text-html, gnome-mime-text-vnd.wap.wml, html, text-html, text-htmlh, text-xml, www, audio-x-mpeg.
