@@ -5,7 +5,10 @@ Added:
 	image-ico, image-vnd.microsoft.icon, image-x-icon, text-x-objchdr, application-x-awk, application-x-executable-script, application-x-shellscript, 
 	text-x-generic.svapplication-x-awk, audio-ac3, audio-x-aiff, audio-x-monkey, text-x-opml, application-vnd.ms-word.document.macroenabled.12, application-vnd.ms-word, 
 	application-wps-office.doc, application-wps-office.docx, text-x-opml+xml, libreoffice-spreadsheet, application-x-siag, libreoffice-spreadsheet-template, 
-	application-vnd.sun.xml.calc.template, 
+	application-vnd.sun.xml.calc.template, text-x-plain, video-mlt-playlist, video-x-msvideo, video-x-ms-wmp, video-x-ms-wmv, text-x-katefilelist, text-x-lilypond, 
+	text-x-log, application-x-kdenlivetitle, video-webm, video-x-matroska, video-x-theora+ogg, video-x-wmv, text-xmcd, video-x-ogm+ogg, application-x-apple-diskimage, 
+	application-x-cue, application-x-iso, application-x-k3b, application-x-raw-disk-image, application-vnd.nintendo.snes.rom, application-x-gameboy-rom, 
+	application-x-gamecube-rom, application-x-gba-rom, application-x-n64-rom, application-x-nes-rom, application-x-nintendo-ds-rom, application-x-cda, 
 
 Update:
 	application-x-archive, application-x-compress, application-x-pak, application-x-rdata, archive, gnome-mime-application-x-archive, gnome-mime-application-x-compress, 
