@@ -14,7 +14,8 @@ Added:
 	application-x-font-pcf, application-x-font-snf, fonts-package, font-ttf, application-pgp-encrypted, x-kde-nsplugin-generated, application-x-font-afm, application-x-font-bdf, 
 	application-x-font-otf, application-x-font-ttf, application-x-font-type1, application-x-chm, text-x-texinfo, text-x-nfo, libreoffice-extension, x-office-contact, 
 	text-directory, text-x-ldif, text-x-vcard, x-mail-distribution-list, application-pgp, application-pkcs7-signature, application-pgp-keys, application-pkcs7-mime, 
-	text-x-rust, text-rust, application-epub+zip, application-pgp-signature, application-x-blender, application-x-pem-key, text-x-r, 
+	text-x-rust, text-rust, application-epub+zip, application-pgp-signature, application-x-blender, application-x-pem-key, text-x-r, akonadi, akonadiconsole, amarok2, 
+	amarok-icon, akonaditray, amarok.
 
 Update:
 	application-x-archive, application-x-compress, application-x-pak, application-x-rdata, archive, gnome-mime-application-x-archive, gnome-mime-application-x-compress, 
