@@ -23,8 +23,12 @@ Added:
 	guvcview, unity-webapps-facebook, transmission-remote-gtk, california, dayfolder, deepin-calendar, konsolekalendar, maya, orage, org.gnome.calendar, 
 	org.kde.contrib.dayofmonth, org.kde.contrib.dayofweek, org.kde.plasma.calendar, org.kde.plasma.date, org.kde.plasma.eventcalendar, osmo, galculator,ktikz, 
 	preferences-calendar-and-tasks, org.kde.plasma.volumewin7mixer, gcbalculator, org.gnome.Calculator, org.kde.plasma.calculator, io.github.TransmissionRemoteGtk, 
-	org.kde.plasma.volume, 
+	org.kde.plasma.volume, amd-ati, ccc-large, ccc_large, org.gnome.builder, org.gnome.Builder, cmake, cmake-gui, CMakeSetup32, glade-3, org.gnome.Glade, qnapi, 
+	qnapi-48, subdownloader, com.github.rapidfingers.translator, deepin-translator, klettres, translator, calligrakarbon, kitty, urxvt, urxvt_48x48, xterm, 
+	xterm-color_48x48, altyo, amd, builder, CMakeSetup, glade, gnome-subtitles, gtranslator, karbon, utilities-x-terminal, wireshark, yakuake, 
+	applications-education-language, applications-fonts, gnome-mime-application-x-glade, application-x-glade.
 	
 
 Update:
-	gnome-dev-printer-network, i-network-printer, network-card, 
+	waterfox-icon, icecat, waterfox, gnome-mime-application-postscript, gnome-mime-text-x-copying, application-postscript, text-x-copying, network-card, 
+	gnome-dev-printer-network, i-network-printer.
