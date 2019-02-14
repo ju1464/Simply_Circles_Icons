@@ -1,34 +1,9 @@
 Added:
-	firefox-developer-icon, nvidia, nvidia-310-settings, nvidia-current-settings, nvidia-current-updates-settings, nvidia-drivers-settings, nvidia-x-server-setting, 
-	nvidia-x-server-settings, ring-kde, miro-guide-source, calligrasheets, system-error, abrt, apport-gtk2, bug-buddy, gnome-abrt, gnome-warning, kbugbuster, 
-	mintreport, script-error, tools-report-bug, yumex-dnf, org.libreoffice.LibreOffice-startcenter, sheets, preferences-web-browser-cache, bluetooth-radio, 
-	cs-bluetooth, org.kde.plasma.bluetooth, cs-notifications, preferences-desktop-notification, preferences-desktop-notifications, preferences-system-bluetooth, 
-	mpv-icon-8bit-64x64, apparmor_view_profile, cs-firewall, draksec-mdk, ktip, preferences-certificates, preferences-system-firewall, wicd-gtk, 
-	xfce4-indicator-plugin, yast-firewall, chrome-damddgdogmdhjjbgpfpgmkdgdgjhohef-Default, com.skype.Client, deepin-emacs, emacs24, emacs25, emacs-24, emacs-25, 
-	emacs-nox, emacs-snapshot, gnome-emacs, ms-skype, org.gnu.emacs, skypeforlinux, bumblebee, com.bxabi.bumblebee-indicator, io.github.GnomeMpv, wicd, 
-	com.github.zren.todolist, indicator-virtual-box, org.gnome.todo, virtualbox-ose, gnome-mpv, xt7-player-mpv, gnome-todo, cs-cat-admin, yast-sudo, 
-	com.github.lainsce.palaura, cs-details, mate-indicator-applet, cs-backgrounds, org.kde.plasma.frame, cs-default-applications, preferences-desktop-applications, 
-	utilities-terminal_su, cs-language, cs-region, lokalize, vim-qt, gpdftext, masterpdfeditor3, masterpdfeditor4, masterpdfeditor5, pdfmod, pdfeditor, ibus-engine, 
-	ibus-setup-chewing, yast-x11, scribus-ng, scribus-trunk, applications-fonts, cs-fonts, feedreader, org.communia.ttrssPocket, org.filezillaproject.Filezilla, 
-	org.gnome.FeedReader, preferences-desktop-font-installer, quiterss, RSS_feeds, rssguard, rss_indicator, rssnow, rssowl, com.transmissionbt.Transmission, 
-	transmission-gtk, transmission-qt, org.kde.plasma.systemtray, org.kde.plasma.taskmanager, org.kde.store.nowdock.panel, deepin-terminal, transgui, transgui-2, 
-	org.kde.plasma.konsoleprofiles, roxterm, terminal-tango, kfontview, 5961_Defunct_x86.0, baloo, gnome-hideseek, gnome-search-tool, gnome-tracker, kfind, kmag, 
-	org.kde.milou, system-search, tracker, xfce4-appfinder, cs-workspaces, org.kde.plasma.pager, accessibility, accessibility_section, cs-universal-access, 
-	camorama, clipit-trayicon, disk-usage-analyzer, glippy, gpaste, kamerka, kamoso, org.gnome.cheese, org.kde.plasma.clipboard, parcellite, qlipper, webcamoid, 
-	xfce4-clipman-plugin, diodon, mdmflexiserver, mdmsetup, yast-scanner, cheese, diskmonitor, gdmap_icon, gsmartcontrol, kdf, kdiskfree, org.kde.plasma.diskquota, 
-	org.kde.plasma.systemmonitor.diskactivity, org.kde.plasma.systemmonitor.diskusage, qdirstat, cs-login, preferences-desktop-notification-bell, 
-	org.kde.plasma.notifications, skanlite, application-x-keepassx, application-x-keepassxc, audio-x-midi, gnome-mime-audio-midi, midi, gmail-plasmoid, 
-	chrome-pjkljhegncpnkpknbcohdijeoejaedia-Default, Gmail-mail.google.com, GMail-mail.google.com, gnome-gmail, org.kde.plasma.gmailfeed, unity-webapps-gmail, 
-	web-google-gmail, org.blender.Blender, chrome-dihbebhmaoagdpbcnfedokpfkkgmmpgc-Default, digikam, facebook-facebook.com, facebookresource, goa-account-facebook, 
-	guvcview, unity-webapps-facebook, transmission-remote-gtk, california, dayfolder, deepin-calendar, konsolekalendar, maya, orage, org.gnome.calendar, 
-	org.kde.contrib.dayofmonth, org.kde.contrib.dayofweek, org.kde.plasma.calendar, org.kde.plasma.date, org.kde.plasma.eventcalendar, osmo, galculator,ktikz, 
-	preferences-calendar-and-tasks, org.kde.plasma.volumewin7mixer, gcbalculator, org.gnome.Calculator, org.kde.plasma.calculator, io.github.TransmissionRemoteGtk, 
-	org.kde.plasma.volume, amd-ati, ccc-large, ccc_large, org.gnome.builder, org.gnome.Builder, cmake, cmake-gui, CMakeSetup32, glade-3, org.gnome.Glade, qnapi, 
-	qnapi-48, subdownloader, com.github.rapidfingers.translator, deepin-translator, klettres, translator, calligrakarbon, kitty, urxvt, urxvt_48x48, xterm, 
-	xterm-color_48x48, altyo, amd, builder, CMakeSetup, glade, gnome-subtitles, gtranslator, karbon, utilities-x-terminal, wireshark, yakuake, 
-	applications-education-language, applications-fonts, gnome-mime-application-x-glade, application-x-glade.
+	kaddressbook, cs-user-accounts, office-addressbook, instantbird, kmail, kube-mail, mail-client, mailnag, org.gnome.Geary, preferences-mail, sylpheed, unity-mail, 
+	xfce-newmail, yast-mail, calligraauthor, cs-user, kontact, org.kde.ktpcontactlist, org.kde.plasma.userswitch, org.kde.plasma.userswitcher, 
+	org.kde.plasma.uswitcher, preferences-desktop-user, system-config-authentication, userdrake, user_icon, yast-users, gksu, five-or-more, four-in-a-row, 
+	gnome-glines, klines, 
 	
 
 Update:
-	waterfox-icon, icecat, waterfox, gnome-mime-application-postscript, gnome-mime-text-x-copying, application-postscript, text-x-copying, network-card, 
-	gnome-dev-printer-network, i-network-printer.
+	
