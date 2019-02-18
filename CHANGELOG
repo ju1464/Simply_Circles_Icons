@@ -2,7 +2,7 @@ Added:
 	kaddressbook, cs-user-accounts, office-addressbook, instantbird, kmail, kube-mail, mail-client, mailnag, org.gnome.Geary, preferences-mail, sylpheed, unity-mail, 
 	xfce-newmail, yast-mail, calligraauthor, cs-user, kontact, org.kde.ktpcontactlist, org.kde.plasma.userswitch, org.kde.plasma.userswitcher, 
 	org.kde.plasma.uswitcher, preferences-desktop-user, system-config-authentication, userdrake, user_icon, yast-users, gksu, five-or-more, four-in-a-row, 
-	gnome-glines, klines, 
+	gnome-glines, klines, megalogging, megauptodate, megawarning, megapaused, megasynching, mintupdate, org.kde.discovernotifier, pamac-updater, yast-online_update, 
 	
 
 Update:
