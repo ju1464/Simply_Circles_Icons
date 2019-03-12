@@ -6,7 +6,10 @@ org.kde.plasma.lock_logout, org.kde.plasma.systempanel, org.kde.shutdownOrSwitch
 io.liri.Text, gnome-panel-hibernate, com.github.zren.presentwindows, cs-windows, metacity, org.kde.plasma.windowlist, preferences-system-network-proxy, 
 preferences-system-windows-actions, preferences-tweaks-shadows, window-duplicate, yast-device-tree, yast-lan, xfce4-display, xfce4-system-lock, mynotes, calligrastage, 
 stage, cs-cat-appearance, cs-color, gtk-theme-config, org.gnome.ColorViewer, preferences-desktop-color, preferences-desktop-display-color, unity-color-panel, 
-2EF4_wordpad.0, 97C1_wordpad.0, calligrawords, words, subtitleeditor, 
+2EF4_wordpad.0, 97C1_wordpad.0, calligrawords, words, subtitleeditor, cs-themes, gnome-panel-drawer, minimizeall, org.kde.kapman, pacman, org.kde.khangman, gnome-tali, 
+kiriki, opencubicplayer, org.kde.kjumpingcube, tali, org.kde.plasma.comic, com.github.santileortiz.iconoscope, dashboard-show, gtk3-icon-browser, org.kde.plasma.kickerdash, 
+xfdashboard, apk-icon-editor, cs-panel, kapman, khangman, kjumpingcube, preferences-desktop-emoticons, preferences-desktop-icons, workspace-switcher-left-bottom, 
+workspace-switcher-right-bottom, workspace-switcher-right-top, workspace-switcher-top-left, image-vnd.adobe.photoshop.
 
 	
 Update:
