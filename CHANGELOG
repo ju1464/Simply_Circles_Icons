@@ -1,25 +1,13 @@
 Added:
-	kaddressbook, cs-user-accounts, office-addressbook, instantbird, kmail, kube-mail, mail-client, mailnag, org.gnome.Geary, preferences-mail, sylpheed, unity-mail, 
-	xfce-newmail, yast-mail, calligraauthor, cs-user, kontact, org.kde.ktpcontactlist, org.kde.plasma.userswitch, org.kde.plasma.userswitcher, 
-	org.kde.plasma.uswitcher, preferences-desktop-user, system-config-authentication, userdrake, user_icon, yast-users, gksu, five-or-more, four-in-a-row, 
-	gnome-glines, klines, megalogging, megauptodate, megawarning, megapaused, megasynching, mintupdate, org.kde.discovernotifier, pamac-updater, yast-online_update, 
-	deepin-picker, gcolor, gcolor3, gpick, kcolorchooser, org.kde.plasma.colorpicker, pick-colour-picker, simplescreenrecorder, org.keepassxc.KeePassXC, cs-sound, 
-	phonon-gstreamer, unity-sound-panel, xfce4-sound, kget, anaconda, calamares, chmsee-icon, cs-sources, debian-installer-launcher, deepin-installer, 
-	deepin-installer-oem, kchmviewer, mintsources-foreign, org.kde.distrowatcher, system-os-installer, xchm-48, yast-live-install, atunes, gnibbles, gnome-gnibbles, 
-	password-manager, xfpm-suspend, deepin-boot-maker, gnome-multi-writer, imagewriter, mintstick, multibootusb, multisystem, multisystem-liveusb, multisystem-vbox, 
-	org.gnome.MultiWriter, rosa-imagewriter, tuxboot, 1password, gnome-encfs-manager, mintsources-keys, passwords, revelation, 7596_iexplore.0, byzanz, 
-	com.github.artemanufrij.screencast, cqcb.plasma.webslice, deepin-screen-recorder, FB4C_iexplore.0, gnome-internet, gnome-web, kazam, konqueror, org.gnome.Eolie, 
-	org.kde.plasma.webbrowser, preferences-web-browser-identification, preferences-web-browser-shortcuts, record-desktop, recordmydesktop, redhat-web-browser, rekonq, 
-	vokoscreen, webbrowser-app, xvidcap, yast-inetd, org.gnome.powerstats, myrulib, rednotebook, yacreader-library, yast-sound, deja-dup, cs-display, cs-screen, 
-	disper, unity-display-panel, xfce4-splash, XrendrMixer, ignuit, krunner, pkgbrowser, plasma-search, searchmonkey, AdobeFlash, adobe-flashplayer, 
-	adobeflashplugin, flashplayer, flash-player-properties, flashplayerproperties, gtkam-camera, showfoto, gnome-screenruler, screenruler, screenruler-icon, 
-	screenruler-icon-32x32, makehuman_bg, MidnightCommander, opera-browser, opera-icon, opera-next-browser, org.kde.plasma.mediacontroller, 
-	org.kde.plasma.mediacontrollercompact, yast-checkmedia, gnome-genius, org.gnome.Genius, gnome-quadrapassel, org.gnome.quadrapassel, gnome-photos, 
-	org.gnome.photos, org.gnome.Photos, unity-lens-photos, gnucash, gnucash-icon, org.gnucash.GnuCash, com.sublimetext.three, sublime, sublime-text2, sublime-text-2, 
-	sublime-text-3, sublime_text, sublimetext, cs-tablet, flash, kphotoalbum, kruler, ktorrent, makehuman, maxthon-browser, mc, opera, opera-beta, opera-developer, 
-	org.kde.plasma.multimediacontrols, pcbcalculator, quadrapassel, rlogo_icon, skrooge, sublime-text, touchpad-indicator, usb-creator, 
+start-here-symbolic, gnome-foot, distributor-logo, gnome-main-menu, novell-button, start-here, com.gexperts.Terminix, com.gexperts.Tilix, terminator, terminix, tilix, 
+com.wire.WireDesktop, appimagekit-kitty, com.adobe.Flash-Player-Projector, net.scribus.Scribus, org.kde.kontact, org.kde.skrooge, com.hamrick.VueScan, deepin-scanner, 
+vuescan, com.github.rssguard, deepin-font-installer, org.gnome.Rhythmbox3, org.wireshark.Wireshark, app.rednotebook.RedNotebook, com.github.artemanufrij.imageburner, 
+org.kde.plasma.lock_logout, org.kde.plasma.systempanel, org.kde.shutdownOrSwitch, com.github.lainsce.notejot, deepin-note, audoban.applet.playbar, deepin-editor, 
+io.liri.Text, gnome-panel-hibernate, com.github.zren.presentwindows, cs-windows, metacity, org.kde.plasma.windowlist, preferences-system-network-proxy, 
+preferences-system-windows-actions, preferences-tweaks-shadows, window-duplicate, yast-device-tree, yast-lan, xfce4-display, xfce4-system-lock, mynotes, calligrastage, 
+stage, cs-cat-appearance, cs-color, gtk-theme-config, org.gnome.ColorViewer, preferences-desktop-color, preferences-desktop-display-color, unity-color-panel, 
+2EF4_wordpad.0, 97C1_wordpad.0, calligrawords, words, subtitleeditor, 
 
-Added: 77 wifi and bluetooth connections icons.
 	
 Update:
-	ubiquity, ubiquity-kde, avatar-default, system.	
+		
