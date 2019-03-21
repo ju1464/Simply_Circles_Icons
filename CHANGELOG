@@ -27,9 +27,10 @@ kword, anjuta, babe, bovo, braindump, codeblocks, diaspora, kdiff3, logisim, oct
 xorg, text-x-octave, ffmulticonverter, preferences-system-login, aptana, fr.free.Homebank, kwalletmanager2, preferences-gtk-config, org.kde.plasma.mediacenter, cs-startup-programs, 
 gnome-panel-launcher, mate-desktop-item-edit, mate-panel-launcher, org.kde.plasma.quicklaunch, preferences-tweaks-cerbere, gtkconfig, kde-gtk-config, kchart, kspread, 
 skrooge-initial, yast-bootloader, device-notifier, XMind, android-file-transfer, granatier, homebank, homerun, kmousetool, leocad, plasma-media-center, preferences-desktop-launch-feedback, 
-skrooge-black, xmind, xfce4-statusnotifier-plugin, xfce4-pulseaudio-plugin, xfce4-netload-plugin, tvm-burn-cd, com.github.themix_project.Oomox, 
+skrooge-black, xmind, xfce4-statusnotifier-plugin, xfce4-pulseaudio-plugin, xfce4-netload-plugin, tvm-burn-cd, org.libreoffice.LibreOffice-base, org.libreoffice.LibreOffice-calc, 
+org.libreoffice.LibreOffice-draw, org.libreoffice.LibreOffice-impress, org.libreoffice.LibreOffice-math, org.libreoffice.LibreOffice-writer, 
 
 	
 Update:
-audio-player, 
+audio-player, com.github.themix_project.Oomox, 
 		
