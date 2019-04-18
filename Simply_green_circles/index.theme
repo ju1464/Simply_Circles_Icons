@@ -8,7 +8,7 @@ Inherits=breeze,gnome,hicolor
 Example=folder
 
 # Directory list
-Directories=scalable/actions,symbolic/actions,scalable/animations,scalable/apps,scalable/categories,symbolic/categories,scalable/devices,scalable/emblems,scalable/mimes,scalable/panel,symbolic/panel,scalable/places,symbolic/places,scalable/status,symbolic/status,scalable/tools,
+Directories=scalable/actions,symbolic/actions,scalable/animations,scalable/apps,scalable/categories,symbolic/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimes,scalable/panel,symbolic/panel,scalable/places,symbolic/places,scalable/status,symbolic/status,scalable/tools,
 
 [scalable/actions]
 Context=Actions
@@ -62,6 +62,13 @@ Type=Scalable
 [scalable/emblems]
 Size=16
 Context=Emblems
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[scalable/emotes]
+Size=16
+Context=Emotes
 Type=Scalable
 MinSize=8
 MaxSize=512
