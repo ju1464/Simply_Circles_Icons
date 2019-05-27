@@ -1,7 +1,9 @@
 4937
 
-MX support
+More MXLinux support.
 
-kde folders support
+More Kde support.
 
-fixed mimetypes for kde in index.theme
+Fixed mimetypes for kde in index.theme.
+
+Make color more dark on black circles actions.
