@@ -7,7 +7,7 @@ Inherits=breeze,gnome,hicolor
 
 Example=folder
 
-FollowsColorScheme=true
+FollowsColorScheme=false
 
 # Directory list
 Directories=scalable/actions,symbolic/actions,scalable/animations,scalable/apps,scalable/categories,symbolic/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimes,scalable/notifications,scalable/panel,symbolic/panel,scalable/places,symbolic/places,scalable/status,symbolic/status,
