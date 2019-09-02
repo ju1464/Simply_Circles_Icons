@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
    width="24"
    height="24"
-   id="svg25"
+   version="1.1"
+   id="svg8"
    sodipodi:docname="audio-volume-low-symbolic.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata29">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,6 +25,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -34,9 +36,9 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1085"
+     inkscape:window-width="1087"
      inkscape:window-height="480"
-     id="namedview27"
+     id="namedview10"
      showgrid="false"
      inkscape:zoom="9.8333333"
      inkscape:cx="1.0677966"
@@ -44,88 +46,22 @@
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg25" />
-  <defs
-     id="defs11">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="b">
-      <ellipse
-         cx="24.01"
-         cy="23.906"
-         rx="19.922"
-         ry="19.838"
-         opacity=".75"
-         fill="#333"
-         fill-opacity="1"
-         stroke="none"
-         stroke-width=".83"
-         stroke-opacity="1"
-         id="ellipse2" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="a">
-      <ellipse
-         cx="24.01"
-         cy="23.906"
-         rx="19.922"
-         ry="19.838"
-         opacity=".75"
-         fill="#333"
-         fill-opacity="1"
-         stroke="none"
-         stroke-width=".83"
-         stroke-opacity="1"
-         id="ellipse5" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="c">
-      <ellipse
-         cx="24.01"
-         cy="23.906"
-         rx="19.922"
-         ry="19.838"
-         opacity=".75"
-         fill="#333"
-         fill-opacity="1"
-         stroke="none"
-         stroke-width=".83"
-         stroke-opacity="1"
-         id="ellipse8" />
-    </clipPath>
-  </defs>
-  <g
-     id="g23"
-     style="fill:#808080">
-    <path
-       d="M 9.083,21.673 A 9.885,9.935 0 0 1 2.328,12.249 9.885,9.935 0 0 1 9.082,2.826"
-       id="path13"
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill-opacity:1" />
-    <path
-       d="m 22,44 h 4 V 4 h -4 z"
-       clip-path="url(#a)"
-       transform="matrix(-0.49804,0,0,-0.49804,24.207,24.156)"
-       id="path15"
-       inkscape:connector-curvature="0" />
-    <g
-       id="g21">
-      <path
-         d="m 14,47.186 h 4 V 1.627 h -4 z"
-         clip-path="url(#b)"
-         transform="matrix(-0.49804,0,0,-0.49804,24.207,24.156)"
-         id="path17"
-         inkscape:connector-curvature="0"
-         style="fill-opacity:0.30199998" />
-      <path
-         clip-path="url(#c)"
-         d="M 6,3.322 V 15.48 A 19.922,19.838 0 0 0 4.088,23.906 19.922,19.838 0 0 0 6,32.328 V 47.12 h 4 V 3.322 Z"
-         transform="matrix(-0.49804,0,0,-0.49804,24.207,24.156)"
-         id="path19"
-         inkscape:connector-curvature="0"
-         style="fill-opacity:0.25100002" />
-    </g>
-  </g>
+     inkscape:current-layer="svg8" />
+  <path
+     class="ColorScheme-Text"
+     d="M 16.155,7.364 15.481,8.44 A 5,5 0 0 1 17,12.013 5,5 0 0 1 15.488,15.589 l 0.672,1.078 a 6.25,6.25 0 0 0 2.09,-4.655 6.25,6.25 0 0 0 -2.095,-4.648 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="color:#31363b;opacity:0.25;fill:#808080" />
+  <path
+     class="ColorScheme-Text"
+     d="m 15.581,2.684 -0.305,1.22 a 8.75,8.75 0 0 1 5.474,8.108 8.75,8.75 0 0 1 -5.475,8.098 l 0.304,1.219 A 10,10 0 0 0 22,12.012 10,10 0 0 0 15.581,2.684 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="color:#31363b;opacity:0.25;fill:#808080" />
+  <path
+     d="M 11.953,22 A 10,10 0 0 1 2,11.969 10,10 0 0 1 12.014,2 L 12,12 Z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#808080;fill-rule:evenodd" />
 </svg>
