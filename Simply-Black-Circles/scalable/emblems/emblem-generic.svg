@@ -36,24 +36,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1087"
+     inkscape:window-width="1160"
      inkscape:window-height="480"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="1.0677966"
+     inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <path
-     d="M12 1.502C6.207 1.502 1.502 6.208 1.502 12c0 5.792 4.706 10.498 10.498 10.498 5.793 0 10.498-4.706 10.498-10.498 0-5.793-4.706-10.498-10.498-10.498z"
-     fill="#054"
+     d="M 12,1.502 C 6.207,1.502 1.502,6.208 1.502,12 1.502,17.792 6.208,22.498 12,22.498 17.793,22.498 22.498,17.792 22.498,12 22.498,6.207 17.792,1.502 12,1.502 Z"
      id="path2"
-     style="fill:#1a1a1a;fill-opacity:1" />
+     style="fill:#1a1a1a;fill-opacity:1"
+     inkscape:connector-curvature="0" />
   <path
-     d="M16.815 18.881l-4.902-2.955L7.01 18.88l1.298-5.575-4.323-3.75 5.702-.486 2.226-5.256 2.225 5.256 5.703.487-4.324 3.75z"
-     fill="#fff"
-     id="path4" />
+     d="M 16.815,18.881 11.913,15.926 7.01,18.88 8.308,13.305 3.985,9.555 9.687,9.069 l 2.226,-5.256 2.225,5.256 5.703,0.487 -4.324,3.75 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
 </svg>
