@@ -36,28 +36,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1087"
+     inkscape:window-width="1160"
      inkscape:window-height="480"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="1.0677966"
+     inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <path
-     d="M12 1.502C6.207 1.502 1.502 6.208 1.502 12c0 5.792 4.706 10.498 10.498 10.498 5.793 0 10.498-4.706 10.498-10.498 0-5.793-4.706-10.498-10.498-10.498z"
-     fill="#16502d"
+     d="M 12,1.502 C 6.207,1.502 1.502,6.208 1.502,12 1.502,17.792 6.208,22.498 12,22.498 17.793,22.498 22.498,17.792 22.498,12 22.498,6.207 17.792,1.502 12,1.502 Z"
      id="path2"
-     style="fill:#1a1a1a;fill-opacity:1" />
+     inkscape:connector-curvature="0"
+     style="fill:#1a1a1a" />
   <path
-     d="M12 6v6l3.201 3"
-     fill="#16502d"
-     stroke="#fff"
-     stroke-width="2.066"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     id="path4" />
+     d="m 12,6 v 6 l 3.201,3"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#ffffff;stroke-width:2.06599998;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

@@ -36,7 +36,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1087"
+     inkscape:window-width="1160"
      inkscape:window-height="480"
      id="namedview8"
      showgrid="false"
@@ -48,17 +48,15 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <path
-     d="M12 1.502C6.207 1.502 1.502 6.208 1.502 12c0 5.792 4.706 10.498 10.498 10.498 5.793 0 10.498-4.706 10.498-10.498 0-5.793-4.706-10.498-10.498-10.498z"
-     fill="#2d5016"
+     d="M 12,1.502 C 6.207,1.502 1.502,6.208 1.502,12 1.502,17.792 6.208,22.498 12,22.498 17.793,22.498 22.498,17.792 22.498,12 22.498,6.207 17.792,1.502 12,1.502 Z"
      id="path2"
-     style="fill:#1a1a1a;fill-opacity:1" />
+     inkscape:connector-curvature="0"
+     style="fill:#1a1a1a" />
   <path
-     d="M15.439 7.461l-4.938 4.937-1.94-1.94-2.12 2.124 4.058 4.058 7.06-7.057z"
+     d="m 15.439,7.461 -4.938,4.937 -1.94,-1.94 -2.12,2.124 4.058,4.058 7.06,-7.057 z"
      font-weight="400"
      overflow="visible"
-     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal"
-     font-family="sans-serif"
-     white-space="normal"
-     fill="#fff"
-     id="path4" />
+     style="font-weight:400;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#ffffff"
+     id="path4"
+     inkscape:connector-curvature="0" />
 </svg>

@@ -36,7 +36,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1087"
+     inkscape:window-width="1160"
      inkscape:window-height="480"
      id="namedview12"
      showgrid="false"
@@ -48,18 +48,20 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg10" />
   <path
-     d="M12 1.502C6.207 1.502 1.502 6.208 1.502 12c0 5.792 4.706 10.498 10.498 10.498 5.793 0 10.498-4.706 10.498-10.498 0-5.793-4.706-10.498-10.498-10.498z"
-     fill="#37483e"
+     d="M 12,1.502 C 6.207,1.502 1.502,6.208 1.502,12 1.502,17.792 6.208,22.498 12,22.498 17.793,22.498 22.498,17.792 22.498,12 22.498,6.207 17.792,1.502 12,1.502 Z"
      id="path2"
-     style="fill:#1a1a1a;fill-opacity:1" />
+     inkscape:connector-curvature="0"
+     style="fill:#1a1a1a" />
   <g
-     fill="#fff"
-     id="g8">
+     id="g8"
+     style="fill:#ffffff">
     <path
-       d="M5.232 6.893l1.669-1.668 11.68 11.679-1.67 1.668z"
-       id="path4" />
+       d="m 5.232,6.893 1.669,-1.668 11.68,11.679 -1.67,1.668 z"
+       id="path4"
+       inkscape:connector-curvature="0" />
     <path
-       d="M16.912 5.225l1.668 1.668L6.9 18.573l-1.668-1.67z"
-       id="path6" />
+       d="M 16.912,5.225 18.58,6.893 6.9,18.573 5.232,16.903 Z"
+       id="path6"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
