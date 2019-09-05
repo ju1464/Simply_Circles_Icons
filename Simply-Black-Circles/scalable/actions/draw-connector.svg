@@ -1,1 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><defs><style id="current-color-scheme"></style></defs><path d="M15 4v1.55l-1.12.08c-1.27.13-2.66.33-3.88.73V6H6v4h.13a20.1 20.1 0 0 0-1.17 4.4l-.08.6H4v4.01h4v-1.55c.36-.02.72-.04 1.12-.08 1.27-.12 2.66-.33 3.88-.73V17h4v-4h-.13c.57-1.35.92-2.93 1.17-4.39l.08-.6H19V4h-4zm0 2.55v1.46h2.11l-.06.45a18.4 18.4 0 0 1-1.3 4.55H13v2.55c-1.16.43-2.63.7-3.98.82-.36.04-.69.06-1.02.08V15H5.89l.06-.45c.26-1.57.7-3.25 1.3-4.55H10V7.45c1.16-.42 2.63-.7 3.98-.82.36-.04.69-.06 1.02-.08z" fill="currentColor" color="#1a1a1a"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="draw-connector.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1078"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-0.81355932"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme" />
+  </defs>
+  <path
+     d="M 15,4 V 5.55 L 13.88,5.63 C 12.61,5.76 11.22,5.96 10,6.36 V 6 H 6 v 4 H 6.13 A 20.1,20.1 0 0 0 4.96,14.4 L 4.88,15 H 4 v 4.01 H 8 V 17.46 C 8.36,17.44 8.72,17.42 9.12,17.38 10.39,17.26 11.78,17.05 13,16.65 V 17 h 4 v -4 h -0.13 c 0.57,-1.35 0.92,-2.93 1.17,-4.39 l 0.08,-0.6 H 19 V 4 Z m 0,2.55 v 1.46 h 2.11 l -0.06,0.45 a 18.4,18.4 0 0 1 -1.3,4.55 H 13 v 2.55 c -1.16,0.43 -2.63,0.7 -3.98,0.82 C 8.66,16.42 8.33,16.44 8,16.46 V 15 H 5.89 L 5.95,14.55 C 6.21,12.98 6.65,11.3 7.25,10 H 10 V 7.45 C 11.16,7.03 12.63,6.75 13.98,6.63 14.34,6.59 14.67,6.57 15,6.55 Z"
+     id="path5"
+     inkscape:connector-curvature="0"
+     style="color:#1a1a1a;fill:currentColor" />
+</svg>
