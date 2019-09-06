@@ -1,1 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 12.7 12.7"><g fill="#2ca02c"><path d="M6.344.073a6.29 6.29 0 0 0-6.29 6.29 6.29 6.29 0 0 0 6.29 6.289 6.29 6.29 0 0 0 6.29-6.29 6.29 6.29 0 0 0-6.29-6.29zm-.018.936a5.407 5.407 0 0 1 5.407 5.407 5.407 5.407 0 0 1-5.407 5.407A5.407 5.407 0 0 1 .92 6.416 5.407 5.407 0 0 1 6.326 1.01z"/><path d="M2.583 3.072a.444.444 0 0 0-.445.445v5.22c0 .247.199.445.445.445h7.505a.444.444 0 0 0 .445-.445v-5.22a.444.444 0 0 0-.445-.445zm.571.744h6.431c.193 0 .348.155.348.347v4.079a.347.347 0 0 1-.348.348h-6.43a.347.347 0 0 1-.348-.348V4.163c0-.192.155-.347.347-.347zm4.808 6.688a1.587 1.218 0 0 0-.804-1.06 1.587 1.218 0 0 0-1.597.015 1.587 1.218 0 0 0-.773 1.073l1.587-.028z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="tvtime.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="2.1355932"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <g
+     id="g6"
+     style="fill:#2ca02c">
+    <path
+       d="m 6.344,0.073 a 6.29,6.29 0 0 0 -6.29,6.29 6.29,6.29 0 0 0 6.29,6.289 6.29,6.29 0 0 0 6.29,-6.29 6.29,6.29 0 0 0 -6.29,-6.29 z M 6.326,1.009 A 5.407,5.407 0 0 1 11.733,6.416 5.407,5.407 0 0 1 6.326,11.823 5.407,5.407 0 0 1 0.92,6.416 5.407,5.407 0 0 1 6.326,1.01 Z"
+       id="path2"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 2.583,3.072 A 0.444,0.444 0 0 0 2.138,3.517 v 5.22 c 0,0.247 0.199,0.445 0.445,0.445 h 7.505 A 0.444,0.444 0 0 0 10.533,8.737 V 3.517 A 0.444,0.444 0 0 0 10.088,3.072 Z m 0.571,0.744 h 6.431 c 0.193,0 0.348,0.155 0.348,0.347 V 8.242 A 0.347,0.347 0 0 1 9.585,8.59 H 3.155 A 0.347,0.347 0 0 1 2.807,8.242 V 4.163 c 0,-0.192 0.155,-0.347 0.347,-0.347 z m 4.808,6.688 A 1.587,1.218 0 0 0 7.158,9.444 1.587,1.218 0 0 0 5.561,9.459 1.587,1.218 0 0 0 4.788,10.532 l 1.587,-0.028 z"
+       id="path4"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

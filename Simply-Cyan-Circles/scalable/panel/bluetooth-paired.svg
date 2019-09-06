@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24"><path d="M7.65 2v7.59L3.06 5 1.65 6.41 7.23 12l-5.58 5.59L3.06 19l4.59-4.59V22h1l5.7-5.7-4.29-4.3 4.3-4.3L8.64 2zm2 3.83l1.88 1.88L9.65 9.6zm0 8.58l1.88 1.88-1.88 1.88zm9.78-1.42a2.65 2.65 0 0 0-2.65 2.65v1.06h-1.59v6.36c0 .6.47 1.07 1.06 1.07h6.36c.59 0 1.06-.48 1.06-1.07l.07-6.34-1.13-.02h-.53v-1.06a2.65 2.65 0 0 0-2.65-2.65zm0 1c.9 0 1.64.74 1.64 1.65v1.06H17.8v-1.06c0-.9.73-1.65 1.64-1.65z" fill="#5beedc"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   width="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="bluetooth-paired.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 7.65,2 V 9.59 L 3.06,5 1.65,6.41 7.23,12 1.65,17.59 3.06,19 7.65,14.41 V 22 h 1 L 14.35,16.3 10.06,12 14.36,7.7 8.64,2 Z m 2,3.83 1.88,1.88 -1.88,1.89 z m 0,8.58 1.88,1.88 -1.88,1.88 z m 9.78,-1.42 a 2.65,2.65 0 0 0 -2.65,2.65 v 1.06 h -1.59 v 6.36 c 0,0.6 0.47,1.07 1.06,1.07 h 6.36 c 0.59,0 1.06,-0.48 1.06,-1.07 l 0.07,-6.34 -1.13,-0.02 h -0.53 v -1.06 a 2.65,2.65 0 0 0 -2.65,-2.65 z m 0,1 c 0.9,0 1.64,0.74 1.64,1.65 V 16.7 H 17.8 v -1.06 c 0,-0.9 0.73,-1.65 1.64,-1.65 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#5beedc" />
+</svg>
