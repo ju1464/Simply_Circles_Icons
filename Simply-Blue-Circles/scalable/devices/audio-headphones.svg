@@ -1,1 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 12.7 12.7"><path d="M6.344.073a6.29 6.29 0 0 0-6.29 6.29 6.29 6.29 0 0 0 6.29 6.288 6.29 6.29 0 0 0 6.29-6.289 6.29 6.29 0 0 0-6.29-6.29zm-.018.936a5.407 5.407 0 0 1 5.407 5.407 5.407 5.407 0 0 1-5.407 5.407A5.407 5.407 0 0 1 .92 6.416 5.407 5.407 0 0 1 6.326 1.01zm0 1.059c-1.96 0-3.573 1.784-3.54 3.392.028 1.402.48 2.785.593 3.132l.291.958c.177.586.774.925 1.336.76.563-.164.873-.768.695-1.354l-.4-1.32c-.177-.586-.774-.925-1.336-.76-.068.02-.132.046-.192.078-.133-.794-.112-1.42-.112-1.42 0-1.407 1.19-2.558 2.665-2.558 1.474 0 2.67 1.083 2.665 2.54-.008.525-.038.94-.137 1.432-.042-.019-.084-.04-.13-.053-.562-.165-1.158.174-1.336.76l-.4 1.32c-.178.586.132 1.19.695 1.355.563.164 1.159-.175 1.336-.76l.297-.978h.01c.133-.382.577-1.892.577-3.132 0-1.679-1.616-3.392-3.577-3.392z" fill="#2c89a0"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="audio-headphones.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="2.1355932"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 6.344,0.073 a 6.29,6.29 0 0 0 -6.29,6.29 6.29,6.29 0 0 0 6.29,6.288 6.29,6.29 0 0 0 6.29,-6.289 6.29,6.29 0 0 0 -6.29,-6.29 z M 6.326,1.009 A 5.407,5.407 0 0 1 11.733,6.416 5.407,5.407 0 0 1 6.326,11.823 5.407,5.407 0 0 1 0.92,6.416 5.407,5.407 0 0 1 6.326,1.01 Z m 0,1.059 c -1.96,0 -3.573,1.784 -3.54,3.392 0.028,1.402 0.48,2.785 0.593,3.132 L 3.67,9.55 c 0.177,0.586 0.774,0.925 1.336,0.76 0.563,-0.164 0.873,-0.768 0.695,-1.354 l -0.4,-1.32 C 5.124,7.05 4.527,6.711 3.965,6.876 3.897,6.896 3.833,6.922 3.773,6.954 3.64,6.16 3.661,5.534 3.661,5.534 c 0,-1.407 1.19,-2.558 2.665,-2.558 1.474,0 2.67,1.083 2.665,2.54 C 8.983,6.041 8.953,6.456 8.854,6.948 8.812,6.929 8.77,6.908 8.724,6.895 8.162,6.73 7.566,7.069 7.388,7.655 l -0.4,1.32 C 6.81,9.561 7.12,10.165 7.683,10.33 8.246,10.494 8.842,10.155 9.019,9.57 L 9.316,8.592 h 0.01 C 9.459,8.21 9.903,6.7 9.903,5.46 9.903,3.781 8.287,2.068 6.326,2.068 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#2c89a0" />
+</svg>
