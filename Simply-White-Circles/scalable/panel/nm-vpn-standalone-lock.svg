@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path d="M12 1.37a10.63 10.63 0 1 0 0 21.26 10.63 10.63 0 0 0 0-21.26zm0 1.89a8.74 8.74 0 0 1 0 17.48 8.74 8.74 0 0 1 0-17.48zm-.78 1.82c-.68.45-1.32 1.43-1.77 2.8h1.77v-2.8zm1.56 0v2.81h1.77c-.45-1.38-1.1-2.36-1.77-2.81zm-4.03.53a7.22 7.22 0 0 0-2.6 2.27h1.68a10.68 10.68 0 0 1 .92-2.27zm6.5 0c.08.14.16.27.23.42.27.56.5 1.18.7 1.85h1.69a7.22 7.22 0 0 0-2.62-2.27zm-3.19 3.02c-.87 0-1.58.7-1.58 1.58v.63h-.95v3.8c0 .34.28.62.63.62h3.79c.35 0 .63-.28.63-.63l.04-3.77-.67-.02h-.32v-.63c0-.87-.7-1.58-1.57-1.58zm0 .6c.54 0 .97.44.97.98v.63h-1.95v-.63c0-.54.44-.98.98-.98zm-6.76.2a7.11 7.11 0 0 0-.43 1.8H7.3c.03-.62.09-1.21.18-1.8H5.3zm11.2 0c.1.58.15 1.18.18 1.8h2.45a7.1 7.1 0 0 0-.43-1.8h-2.2zM4.88 12.79c.07.62.21 1.22.43 1.78H7.5a14.5 14.5 0 0 1-.18-1.78H4.88zm11.8 0c-.02.6-.08 1.2-.17 1.78h2.19a7.1 7.1 0 0 0 .43-1.78H16.7zM6.14 16.12a7.22 7.22 0 0 0 2.62 2.27 10.67 10.67 0 0 1-.92-2.27h-1.7zm3.32 0c.45 1.37 1.1 2.35 1.77 2.8v-2.81H9.45zm3.33 0v2.79c.68-.44 1.32-1.42 1.77-2.8h-1.77zm3.39 0a10.7 10.7 0 0 1-.7 1.85h.01c-.07.15-.15.28-.23.42a7.22 7.22 0 0 0 2.6-2.27h-1.68z" fill="#e6e6e6"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="nm-vpn-standalone-lock.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="1.0677966"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 12,1.37 a 10.63,10.63 0 1 0 0,21.26 10.63,10.63 0 0 0 0,-21.26 z m 0,1.89 A 8.74,8.74 0 0 1 12,20.74 8.74,8.74 0 0 1 12,3.26 Z M 11.22,5.08 C 10.54,5.53 9.9,6.51 9.45,7.88 h 1.77 z m 1.56,0 v 2.81 h 1.77 C 14.1,6.51 13.45,5.53 12.78,5.08 Z M 8.75,5.61 A 7.22,7.22 0 0 0 6.15,7.88 H 7.83 A 10.68,10.68 0 0 1 8.75,5.61 Z m 6.5,0 c 0.08,0.14 0.16,0.27 0.23,0.42 0.27,0.56 0.5,1.18 0.7,1.85 h 1.69 A 7.22,7.22 0 0 0 15.25,5.61 Z m -3.19,3.02 c -0.87,0 -1.58,0.7 -1.58,1.58 v 0.63 H 9.53 v 3.8 c 0,0.34 0.28,0.62 0.63,0.62 h 3.79 c 0.35,0 0.63,-0.28 0.63,-0.63 l 0.04,-3.77 -0.67,-0.02 h -0.32 v -0.63 c 0,-0.87 -0.7,-1.58 -1.57,-1.58 z m 0,0.6 c 0.54,0 0.97,0.44 0.97,0.98 v 0.63 h -1.95 v -0.63 c 0,-0.54 0.44,-0.98 0.98,-0.98 z M 5.3,9.43 a 7.11,7.11 0 0 0 -0.43,1.8 H 7.3 c 0.03,-0.62 0.09,-1.21 0.18,-1.8 z m 11.2,0 c 0.1,0.58 0.15,1.18 0.18,1.8 h 2.45 A 7.1,7.1 0 0 0 18.7,9.43 Z M 4.88,12.79 c 0.07,0.62 0.21,1.22 0.43,1.78 H 7.5 C 7.4,14 7.35,13.4 7.32,12.79 Z m 11.8,0 c -0.02,0.6 -0.08,1.2 -0.17,1.78 h 2.19 a 7.1,7.1 0 0 0 0.43,-1.78 H 16.7 Z M 6.14,16.12 a 7.22,7.22 0 0 0 2.62,2.27 10.67,10.67 0 0 1 -0.92,-2.27 z m 3.32,0 c 0.45,1.37 1.1,2.35 1.77,2.8 V 16.11 H 9.45 Z m 3.33,0 v 2.79 c 0.68,-0.44 1.32,-1.42 1.77,-2.8 h -1.77 z m 3.39,0 a 10.7,10.7 0 0 1 -0.7,1.85 h 0.01 c -0.07,0.15 -0.15,0.28 -0.23,0.42 a 7.22,7.22 0 0 0 2.6,-2.27 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#e6e6e6" />
+</svg>

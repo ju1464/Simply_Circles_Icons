@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><path style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none" d="M29.7-.08c-2.04 0-4.12.08-4.51.1H7a2.94 2.94 0 0 0-.56 0 3.1 3.1 0 0 0-2.44 3V45c0 1.57 1.43 3 3 3h34c1.57 0 3-1.43 3-3V18.82c.02-.8.22-9.93-.34-10.5L34.06.25c-.29-.28-2.3-.34-4.35-.33zM31.2 3l.13 7.5c.01.68.64 1.3 1.31 1.28l7.78-.13c.13.01.26.01.4-.01l.08 3.03.1 4.09V45H7V3.02h18.67l5.53-.01zM9.38 14.79v23.93h3.1v-9.61h3.9c2.56 0 4.5-.6 5.8-1.81 1.32-1.21 1.98-3 1.98-5.36 0-2.34-.66-4.11-1.98-5.32-1.3-1.21-3.24-1.83-5.8-1.83h-7zm3.1 2.67h3.9c1.43 0 2.55.39 3.33 1.16.79.78 1.18 1.9 1.18 3.32 0 1.45-.39 2.56-1.18 3.34-.78.78-1.9 1.17-3.34 1.17h-3.89v-9zm20.63 2.88c-2.1 0-3.73.46-4.88 1.38a4.73 4.73 0 0 0-1.71 3.9c0 1.4.39 2.5 1.16 3.3.78.78 2.04 1.37 3.79 1.76l.98.24c1.74.4 2.87.8 3.38 1.23.53.43.79 1.04.79 1.85a2.3 2.3 0 0 1-1.08 2.02c-.71.47-1.73.7-3.06.7-1 0-2-.14-3-.42a15.19 15.19 0 0 1-3.09-1.28v3.05c1.1.37 2.15.65 3.15.83 1 .2 1.96.29 2.88.29 2.2 0 3.93-.49 5.2-1.46a4.73 4.73 0 0 0 1.9-3.96 4.5 4.5 0 0 0-1.28-3.41c-.84-.83-2.26-1.46-4.26-1.91l-.97-.22c-1.5-.36-2.52-.73-3.02-1.11-.5-.4-.75-.93-.75-1.62 0-.9.35-1.57 1.05-2.02.7-.45 1.75-.67 3.15-.67a11 11 0 0 1 5.15 1.28V21.3c-.77-.32-1.62-.56-2.54-.72-.92-.16-1.9-.24-2.94-.24z" fill="#963996"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="image-vnd.adobe.photoshop.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="2.1355932"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     style="line-height:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-transform:none;fill:#963996;marker:none"
+     d="m 29.7,-0.08 c -2.04,0 -4.12,0.08 -4.51,0.1 H 7 a 2.94,2.94 0 0 0 -0.56,0 3.1,3.1 0 0 0 -2.44,3 V 45 c 0,1.57 1.43,3 3,3 h 34 c 1.57,0 3,-1.43 3,-3 V 18.82 c 0.02,-0.8 0.22,-9.93 -0.34,-10.5 l -9.6,-8.07 c -0.29,-0.28 -2.3,-0.34 -4.35,-0.33 z m 1.5,3.08 0.13,7.5 c 0.01,0.68 0.64,1.3 1.31,1.28 l 7.78,-0.13 c 0.13,0.01 0.26,0.01 0.4,-0.01 l 0.08,3.03 0.1,4.09 V 45 H 7 V 3.02 H 25.67 L 31.2,3.01 Z M 9.38,14.79 v 23.93 h 3.1 v -9.61 h 3.9 c 2.56,0 4.5,-0.6 5.8,-1.81 1.32,-1.21 1.98,-3 1.98,-5.36 0,-2.34 -0.66,-4.11 -1.98,-5.32 -1.3,-1.21 -3.24,-1.83 -5.8,-1.83 z m 3.1,2.67 h 3.9 c 1.43,0 2.55,0.39 3.33,1.16 0.79,0.78 1.18,1.9 1.18,3.32 0,1.45 -0.39,2.56 -1.18,3.34 -0.78,0.78 -1.9,1.17 -3.34,1.17 h -3.89 v -9 z m 20.63,2.88 c -2.1,0 -3.73,0.46 -4.88,1.38 a 4.73,4.73 0 0 0 -1.71,3.9 c 0,1.4 0.39,2.5 1.16,3.3 0.78,0.78 2.04,1.37 3.79,1.76 l 0.98,0.24 c 1.74,0.4 2.87,0.8 3.38,1.23 0.53,0.43 0.79,1.04 0.79,1.85 a 2.3,2.3 0 0 1 -1.08,2.02 c -0.71,0.47 -1.73,0.7 -3.06,0.7 -1,0 -2,-0.14 -3,-0.42 a 15.19,15.19 0 0 1 -3.09,-1.28 v 3.05 c 1.1,0.37 2.15,0.65 3.15,0.83 1,0.2 1.96,0.29 2.88,0.29 2.2,0 3.93,-0.49 5.2,-1.46 a 4.73,4.73 0 0 0 1.9,-3.96 4.5,4.5 0 0 0 -1.28,-3.41 C 37.4,29.53 35.98,28.9 33.98,28.45 l -0.97,-0.22 c -1.5,-0.36 -2.52,-0.73 -3.02,-1.11 -0.5,-0.4 -0.75,-0.93 -0.75,-1.62 0,-0.9 0.35,-1.57 1.05,-2.02 0.7,-0.45 1.75,-0.67 3.15,-0.67 a 11,11 0 0 1 5.15,1.28 V 21.3 c -0.77,-0.32 -1.62,-0.56 -2.54,-0.72 -0.92,-0.16 -1.9,-0.24 -2.94,-0.24 z"
+     id="path2"
+     inkscape:connector-curvature="0" />
+</svg>

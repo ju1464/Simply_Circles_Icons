@@ -1,1 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 12.7 12.7"><path d="M6.34.07a6.29 6.29 0 0 0-6.29 6.3 6.29 6.29 0 0 0 6.3 6.28 6.29 6.29 0 0 0 6.28-6.29A6.29 6.29 0 0 0 6.34.07zM6.32 1l.01.01a5.4 5.4 0 0 1 5.4 5.4 5.4 5.4 0 0 1-5.4 5.41 5.4 5.4 0 0 1-5.41-5.4A5.4 5.4 0 0 1 6.32 1zM3.53 2.43a.4.4 0 0 0-.4.4v7.21c0 .22.19.4.4.4h5.63a.4.4 0 0 0 .4-.4V7.96l-.59.59v.99c0 .19-.15.34-.33.34H4.59V2.99h2.59v2.74l.5-.3.5.3V3h.46c.18 0 .33.16.33.35v2.34l.59-.6V2.84a.4.4 0 0 0-.4-.4H3.53zm6.51 2.81a.28.28 0 0 0-.2.08l-.42.43.93.93.42-.43a.28.28 0 0 0 0-.4l-.53-.52a.28.28 0 0 0-.2-.09zm-.82.7zm0 0L6.66 8.5l.93.93 2.56-2.55-.93-.93zM6.46 8.7l-.2 1.13 1.13-.2-.93-.93z" fill="#e6e6e6"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="calibre-ebook-edit.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="2.1355932"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 6.34,0.07 A 6.29,6.29 0 0 0 0.05,6.37 6.29,6.29 0 0 0 6.35,12.65 6.29,6.29 0 0 0 12.63,6.36 6.29,6.29 0 0 0 6.34,0.07 Z M 6.32,1 6.33,1.01 a 5.4,5.4 0 0 1 5.4,5.4 5.4,5.4 0 0 1 -5.4,5.41 A 5.4,5.4 0 0 1 0.92,6.42 5.4,5.4 0 0 1 6.32,1 Z M 3.53,2.43 a 0.4,0.4 0 0 0 -0.4,0.4 v 7.21 c 0,0.22 0.19,0.4 0.4,0.4 h 5.63 a 0.4,0.4 0 0 0 0.4,-0.4 V 7.96 L 8.97,8.55 v 0.99 c 0,0.19 -0.15,0.34 -0.33,0.34 H 4.59 V 2.99 h 2.59 v 2.74 l 0.5,-0.3 0.5,0.3 V 3 H 8.64 C 8.82,3 8.97,3.16 8.97,3.35 V 5.69 L 9.56,5.09 V 2.84 A 0.4,0.4 0 0 0 9.16,2.44 H 3.53 Z m 6.51,2.81 a 0.28,0.28 0 0 0 -0.2,0.08 l -0.42,0.43 0.93,0.93 0.42,-0.43 a 0.28,0.28 0 0 0 0,-0.4 L 10.24,5.33 a 0.28,0.28 0 0 0 -0.2,-0.09 z m -0.82,0.7 z m 0,0 L 6.66,8.5 7.59,9.43 10.15,6.88 9.22,5.95 Z M 6.46,8.7 6.26,9.83 7.39,9.63 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#e6e6e6" />
+</svg>
