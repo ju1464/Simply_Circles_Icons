@@ -28,7 +28,7 @@
   <defs
      id="defs14" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#1c1c1c"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -55,7 +55,7 @@
   <g
      font-weight="400"
      id="g8"
-     style="font-weight:400;font-family:Sans;fill:#ffffff">
+     style="font-weight:400;font-family:Sans;fill:#1c1c1c">
     <path
        d="m 18.8,6 a 1.047,1.047 0 0 0 -0.125,0.032 c -0.447,0.1 -0.793,0.542 -0.782,1 v 1.687 c 0.005,1.313 0.005,1.313 -1.562,1.313 h -1.438 c -0.523,0 -1,0.476 -1,1 a 1,1 0 0 0 0,0.218 v 0.782 h 6 v -5 a 0.979,0.979 0 0 0 0,-0.188 V 6.032 H 19.081 A 1.002,1.002 0 0 0 18.801,6 Z M 3.903,12 v 5 a 0.979,0.979 0 0 0 0,0.188 V 18 h 0.812 a 0.99,0.99 0 0 0 0.281,0.031 C 5.039,18.023 5.08,18.013 5.121,18 5.568,17.9 5.914,17.458 5.903,17 V 15.312 C 5.898,14 5.898,14 7.465,14 h 1.438 c 0.523,0 1,-0.476 1,-1 a 1,1 0 0 0 0,-0.219 V 12 Z"
        overflow="visible"
