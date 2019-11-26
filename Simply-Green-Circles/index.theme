@@ -10,7 +10,7 @@ Example=folder
 FollowsColorScheme=false
 
 # Directory list
-Directories=scalable/actions,symbolic/actions,scalable/animations,scalable/apps,scalable/categories,symbolic/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimes,scalable/notifications,scalable/panel,symbolic/panel,scalable/places,symbolic/places,scalable/status,symbolic/status,
+Directories=scalable/actions,symbolic/actions,scalable/animations,scalable/apps,scalable/categories,symbolic/categories,scalable/devices,symbolic/devices,scalable/emblems,scalable/emotes,scalable/mimes,scalable/notifications,scalable/panel,symbolic/panel,scalable/places,symbolic/places,scalable/status,symbolic/status,
 
 [scalable/actions]
 Size=48
@@ -56,6 +56,13 @@ MaxSize=512
 
 [scalable/devices]
 Size=48
+Context=Devices
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[symbolic/devices]
+Size=16
 Context=Devices
 Type=Scalable
 MinSize=8
