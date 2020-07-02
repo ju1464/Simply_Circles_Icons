@@ -13,44 +13,21 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="computer-laptop.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#1e3f5a;
+      }
+  </style>
+  </defs>
   <path
-     d="m 6.344,0.073 a 6.29,6.29 0 0 0 -6.29,6.29 6.29,6.29 0 0 0 6.29,6.288 6.29,6.29 0 0 0 6.29,-6.289 6.29,6.29 0 0 0 -6.29,-6.29 z M 6.326,1.009 A 5.407,5.407 0 0 1 11.733,6.416 5.407,5.407 0 0 1 6.326,11.823 5.407,5.407 0 0 1 0.92,6.416 5.407,5.407 0 0 1 6.326,1.01 Z M 3.652,3.347 c -0.58,0 -1.046,0.467 -1.046,1.047 V 7.74 c 0,0.391 0.215,0.728 0.532,0.907 H 2.206 v 0.82 h 8.28 V 8.647 H 9.634 A 1.04,1.04 0 0 0 10.165,7.74 V 4.394 c 0,-0.58 -0.466,-1.047 -1.046,-1.047 z m 0.545,0.54 h 4.407 a 0.88,0.88 0 0 1 0.881,0.88 v 2.819 a 0.88,0.88 0 0 1 -0.88,0.88 H 4.196 A 0.88,0.88 0 0 1 3.315,7.586 V 4.768 A 0.88,0.88 0 0 1 4.195,3.887 Z M 5.714,8.555 H 7.015 V 8.823 H 5.714 Z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#1e3f5a" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 12 11 C 10.892 11 10 11.892 10 13 L 10 31 C 10 32.108 10.892 33 12 33 L 9 33 L 9 36 L 39 36 L 39 33 L 36 33 C 37.108 33 38 32.108 38 31 L 38 13 C 38 11.892 37.108 11 36 11 L 12 11 z M 12 13 L 36 13 L 36 31 L 12 31 L 12 13 z M 21 33 L 27 33 L 27 34 L 21 34 L 21 33 z "
+     transform="scale(0.26458333)"
+     id="rect820" />
 </svg>

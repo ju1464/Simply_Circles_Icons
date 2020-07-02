@@ -10,46 +10,22 @@
    width="48"
    height="48"
    version="1.1"
-   id="svg4"
+   id="svg6"
    sodipodi:docname="image-vnd.adobe.photoshop.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#a02c2c;
+      }
+  </style>
+  </defs>
   <path
-     style="line-height:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-transform:none;fill:#a02c2c;marker:none"
-     d="m 29.7,-0.08 c -2.04,0 -4.12,0.08 -4.51,0.1 H 7 a 2.94,2.94 0 0 0 -0.56,0 3.1,3.1 0 0 0 -2.44,3 V 45 c 0,1.57 1.43,3 3,3 h 34 c 1.57,0 3,-1.43 3,-3 V 18.82 c 0.02,-0.8 0.22,-9.93 -0.34,-10.5 l -9.6,-8.07 c -0.29,-0.28 -2.3,-0.34 -4.35,-0.33 z m 1.5,3.08 0.13,7.5 c 0.01,0.68 0.64,1.3 1.31,1.28 l 7.78,-0.13 c 0.13,0.01 0.26,0.01 0.4,-0.01 l 0.08,3.03 0.1,4.09 V 45 H 7 V 3.02 H 25.67 L 31.2,3.01 Z M 9.38,14.79 v 23.93 h 3.1 v -9.61 h 3.9 c 2.56,0 4.5,-0.6 5.8,-1.81 1.32,-1.21 1.98,-3 1.98,-5.36 0,-2.34 -0.66,-4.11 -1.98,-5.32 -1.3,-1.21 -3.24,-1.83 -5.8,-1.83 z m 3.1,2.67 h 3.9 c 1.43,0 2.55,0.39 3.33,1.16 0.79,0.78 1.18,1.9 1.18,3.32 0,1.45 -0.39,2.56 -1.18,3.34 -0.78,0.78 -1.9,1.17 -3.34,1.17 h -3.89 v -9 z m 20.63,2.88 c -2.1,0 -3.73,0.46 -4.88,1.38 a 4.73,4.73 0 0 0 -1.71,3.9 c 0,1.4 0.39,2.5 1.16,3.3 0.78,0.78 2.04,1.37 3.79,1.76 l 0.98,0.24 c 1.74,0.4 2.87,0.8 3.38,1.23 0.53,0.43 0.79,1.04 0.79,1.85 a 2.3,2.3 0 0 1 -1.08,2.02 c -0.71,0.47 -1.73,0.7 -3.06,0.7 -1,0 -2,-0.14 -3,-0.42 a 15.19,15.19 0 0 1 -3.09,-1.28 v 3.05 c 1.1,0.37 2.15,0.65 3.15,0.83 1,0.2 1.96,0.29 2.88,0.29 2.2,0 3.93,-0.49 5.2,-1.46 a 4.73,4.73 0 0 0 1.9,-3.96 4.5,4.5 0 0 0 -1.28,-3.41 C 37.4,29.53 35.98,28.9 33.98,28.45 l -0.97,-0.22 c -1.5,-0.36 -2.52,-0.73 -3.02,-1.11 -0.5,-0.4 -0.75,-0.93 -0.75,-1.62 0,-0.9 0.35,-1.57 1.05,-2.02 0.7,-0.45 1.75,-0.67 3.15,-0.67 a 11,11 0 0 1 5.15,1.28 V 21.3 c -0.77,-0.32 -1.62,-0.56 -2.54,-0.72 -0.92,-0.16 -1.9,-0.24 -2.94,-0.24 z"
-     id="path2"
-     inkscape:connector-curvature="0" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 6 0 C 4.892 0 4 0.892 4 2 L 4 46 C 4 47.108 4.892 48 6 48 L 42 48 C 43.108 48 44 47.108 44 46 L 44 13 L 43.416016 12.416016 L 42 11 L 41 10 L 34 3 L 33 2 L 31.583984 0.58398438 L 31.292969 0.29296875 L 31 0 L 6 0 z M 8 3 L 30 3 L 30 11 C 30 12.108 30.892 13 32 13 L 41 13 L 41 44 C 41 44.277 40.887781 44.526281 40.707031 44.707031 C 40.526281 44.887781 40.277 45 40 45 L 8 45 C 7.723 45 7.4737187 44.887781 7.2929688 44.707031 C 7.1122188 44.526281 7 44.277 7 44 L 7 4 C 7 3.723 7.1122186 3.4737187 7.2929688 3.2929688 C 7.4737188 3.1122186 7.723 3 8 3 z M 12 17 L 12 38 L 14 38 L 14 29 L 18 29 L 19 29 A 5 5 0 0 0 24 24 L 24 22 A 5 5 0 0 0 19 17 L 18 17 L 14 17 L 12 17 z M 14 19 L 18 19 L 19 19 A 3 3 0 0 1 22 22 L 22 24 A 3 3 0 0 1 19 27 L 18 27 L 14 27 L 14 19 z M 31 20 A 5 5 0 0 0 26 25 A 5 5 0 0 0 31 30 L 32 30 A 3 3 0 0 1 35 33 A 3 3 0 0 1 32 36 L 27 36 L 27 38 L 32 38 A 5 5 0 0 0 37 33 A 5 5 0 0 0 32 28 L 31 28 A 3 3 0 0 1 28 25 A 3 3 0 0 1 31 22 L 36 22 L 36 20 L 31 20 z "
+     id="path816" />
 </svg>

@@ -12,45 +12,22 @@
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg4"
-   sodipodi:docname="folder-remote.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   sodipodi:docname="wired-gui.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1085"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#1a1a1a;
+      }
+  </style>
+  </defs>
   <path
-     d="m 6.344,0.073 a 6.29,6.29 0 0 0 -6.289,6.29 6.29,6.29 0 0 0 6.29,6.288 6.29,6.29 0 0 0 6.288,-6.289 6.29,6.29 0 0 0 -6.289,-6.29 z M 6.326,1.009 A 5.407,5.407 0 0 1 11.733,6.416 5.407,5.407 0 0 1 6.326,11.823 5.407,5.407 0 0 1 0.92000003,6.416 5.407,5.407 0 0 1 6.326,1.01 Z M 3.243,2.562 A 0.972,0.972 0 0 0 2.27,3.536 v 5.788 a 0.97,0.97 0 0 0 0.973,0.973 h 6.22 A 0.97,0.97 0 0 0 10.434,9.324 V 3.536 A 0.97,0.97 0 0 0 9.462,2.562 Z M 3.648,3.03 h 5.446 a 0.85,0.85 0 0 1 0.8510003,0.851 v 5.07 A 0.85,0.85 0 0 1 9.095,9.803 H 3.647 A 0.85,0.85 0 0 1 2.794,8.951 V 3.88 A 0.85,0.85 0 0 1 3.647,3.029 Z M 6.043,4.722 A 0.355,0.355 0 0 0 5.688,5.076 V 5.169 A 0.16,0.16 0 0 1 5.521,5.332 h -0.48 c -0.197,0 -0.356,0.215 -0.356,0.412 v 1.981 c 0,0.196 0.16,0.354 0.356,0.354 H 7.672 A 0.355,0.355 0 0 0 8.029,7.725 V 5.744 C 8.029,5.547 7.869,5.332 7.672,5.332 H 7.192 A 0.166,0.166 0 0 1 7.026,5.165 V 5.075 A 0.355,0.355 0 0 0 6.669,4.722 Z M 5.098,6.699 H 5.63 V 7.6 H 5.098 V 6.698 Z m 0.638,0 H 6.268 V 7.6 H 5.736 V 6.698 Z m 0.646,0 H 6.913 V 7.6 H 6.382 V 6.698 Z m 0.636,0 H 7.552 V 7.6 H 7.018 V 6.698 Z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#1a1a1a" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 C 10.745166 0 -4.7369516e-15 10.745166 0 24 C 0 37.254834 10.745166 48 24 48 C 37.254834 48 48 37.254834 48 24 C 48 10.745166 37.254834 -4.7369516e-15 24 0 z M 24 3 C 35.59798 3 45 12.40202 45 24 C 45 35.59798 35.59798 45 24 45 C 12.40202 45 3 35.59798 3 24 C 3 12.40202 12.40202 3 24 3 z M 12 15 L 12 24 L 12 31 L 16 31 L 18 36 L 30 36 L 32 31 L 36 31 L 36 15 L 35 15 L 33 15 L 33 22 L 29 22 L 29 15 L 27 15 L 26 15 L 26 22 L 22 22 L 22 15 L 21 15 L 19 15 L 19 22 L 15 22 L 15 15 L 12 15 z "
+     transform="scale(0.26458333)"
+     id="path817" />
 </svg>

@@ -13,44 +13,21 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="preferences-system-notifications.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
   <path
-     d="m 6.344,0.073 a 6.29,6.29 0 0 0 -6.29,6.29 6.29,6.29 0 0 0 6.29,6.288 6.29,6.29 0 0 0 6.29,-6.289 6.29,6.29 0 0 0 -6.29,-6.29 z M 6.326,1.009 A 5.407,5.407 0 0 1 11.733,6.416 5.407,5.407 0 0 1 6.326,11.823 5.407,5.407 0 0 1 0.92,6.416 5.407,5.407 0 0 1 6.326,1.01 Z M 6.349,2.017 A 0.722,0.722 0 0 0 5.628,2.739 V 3.387 A 2.532,2.532 0 0 0 3.823,5.809 v 0.905 c 0,0.556 -0.152,1.102 -0.438,1.579 L 2.765,9.327 A 0.18,0.18 0 0 0 2.763,9.508 0.18,0.18 0 0 0 2.919,9.6 H 9.781 A 0.18,0.18 0 0 0 9.935,9.327 L 9.315,8.293 A 3.071,3.071 0 0 1 8.877,6.713 V 5.81 C 8.877,4.667 8.115,3.7 7.072,3.388 V 2.74 A 0.723,0.723 0 0 0 6.349,2.018 Z M 5.213,9.96 c 0.203,0.426 0.634,0.723 1.136,0.723 0.503,0 0.935,-0.297 1.138,-0.723 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#5beedc" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 24 8 A 3 3 0 0 0 21 11 A 3 3 0 0 0 21.058594 11.582031 C 11.983647 13.795126 16.303244 18.393512 9 33 L 40 33 C 31.724241 18.28754 36.935122 13.727788 26.949219 11.533203 A 3 3 0 0 0 27 11 A 3 3 0 0 0 24 8 z M 19 34 A 4.9999997 4.9999997 0 0 0 24 39 A 4.9999997 4.9999997 0 0 0 29 34 L 19 34 z "
+     transform="scale(0.26458333)"
+     id="path831" />
 </svg>

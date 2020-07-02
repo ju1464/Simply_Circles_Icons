@@ -12,52 +12,27 @@
    version="1"
    id="svg8"
    sodipodi:docname="audio-speaker-left-side.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1138"
-     inkscape:window-height="480"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
-  <g
-     id="g6"
-     style="color:#31363b;fill:#963996">
-    <path
-       d="M 24.03,4 A 20,20 0 0 0 4,23.938 20,20 0 0 0 23.908,44 L 24,24 Z"
-       id="path2"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 31.162,5.367 -0.609,2.44 A 17.5,17.5 0 0 1 41.5,24.025 17.5,17.5 0 0 1 30.551,40.22 l 0.607,2.438 A 20,20 0 0 0 44,24.025 20,20 0 0 0 31.162,5.367 Z m 1.151,9.364 -1.35,2.148 A 10,10 0 0 1 34,24.025 10,10 0 0 1 30.976,31.178 l 1.344,2.158 a 12.5,12.5 0 0 0 4.18,-9.31 12.5,12.5 0 0 0 -4.187,-9.295 z"
-       id="path4"
-       inkscape:connector-curvature="0"
-       style="opacity:0.5" />
-  </g>
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#963996;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     inkscape:connector-curvature="0"
+     id="path2"
+     d="M 24.03,4 A 20,20 0 0 0 4,23.938 20,20 0 0 0 23.908,44 L 24,24 Z" />
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:currentColor;opacity:0.5"
+     inkscape:connector-curvature="0"
+     id="path4"
+     d="m 31.162,5.367 -0.609,2.44 A 17.5,17.5 0 0 1 41.5,24.025 17.5,17.5 0 0 1 30.551,40.22 l 0.607,2.438 A 20,20 0 0 0 44,24.025 20,20 0 0 0 31.162,5.367 Z m 1.151,9.364 -1.35,2.148 A 10,10 0 0 1 34,24.025 10,10 0 0 1 30.976,31.178 l 1.344,2.158 a 12.5,12.5 0 0 0 4.18,-9.31 12.5,12.5 0 0 0 -4.187,-9.295 z" />
 </svg>

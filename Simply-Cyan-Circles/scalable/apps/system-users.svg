@@ -11,45 +11,23 @@
    height="48"
    viewBox="0 0 12.7 12.7"
    version="1.1"
-   id="svg6"
+   id="svg4"
    sodipodi:docname="system-users.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs10" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg6" />
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <cc:Work>
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     id="defs8">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Highlight {
+        color:#5beedc;
+      }
+  </style>
+  </defs>
   <path
-     d="M 6.34,0.07 A 6.29,6.29 0 0 0 0.05,6.37 6.29,6.29 0 0 0 6.35,12.65 6.29,6.29 0 0 0 12.63,6.36 6.29,6.29 0 0 0 6.34,0.07 Z M 6.33,1.01 a 5.4,5.4 0 0 1 5.4,5.4 5.4,5.4 0 0 1 -5.4,5.41 A 5.4,5.4 0 0 1 0.92,6.42 5.4,5.4 0 0 1 6.32,1 Z M 7.2,2.02 c -0.93,0 -1.68,0.72 -1.68,1.6 0,0.32 0.03,0.7 0.22,1.58 0.06,0.17 0.31,0.46 0.57,0.73 L 6.29,6.12 C 6.16,6.22 5.99,6.32 5.82,6.4 A 2.76,2.76 0 0 1 5.09,6 V 5.83 C 5.21,5.66 5.33,5.5 5.36,5.41 5.49,4.79 5.49,4.56 5.5,4.33 5.5,3.73 5.03,3.26 4.44,3.26 3.86,3.26 3.38,3.74 3.38,4.33 3.38,4.55 3.4,4.81 3.52,5.41 3.55,5.5 3.67,5.64 3.79,5.79 V 6 C 3.27,6.43 1.86,6.62 1.86,7.07 L 1.7,8.4 c 0,0.38 0.92,0.7 2.14,0.78 0.2,0.5 1.63,0.87 3.37,0.87 1.87,0 3.39,-0.44 3.39,-0.99 L 10.38,7.42 C 10.38,6.95 8.74,6.66 8.11,6.11 L 8.1,5.98 C 8.34,5.68 8.6,5.37 8.66,5.19 8.87,4.29 8.87,3.94 8.88,3.6 8.88,2.73 8.13,2.02 7.21,2.02 Z"
-     id="path4"
-     inkscape:connector-curvature="0"
-     style="fill:#5beedc" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 30 11 A 7 7 0 0 0 23 18 A 7 7 0 0 0 30 25 A 7 7 0 0 0 37 18 A 7 7 0 0 0 30 11 z M 15.5 13 A 5.4999999 5.4999999 0 0 0 10 18.5 A 5.4999999 5.4999999 0 0 0 15.5 24 A 5.4999999 5.4999999 0 0 0 21 18.5 A 5.4999999 5.4999999 0 0 0 15.5 13 z M 12 27 C 10.338 27 9 28.338 9 30 L 8.890625 30 L 8.890625 33.117188 L 21 33.117188 L 21 36 L 39 36 L 39 32 C 39 29.784 37.216 28 35 28 L 25 28 C 23.763542 28 22.675971 28.567396 21.943359 29.443359 C 21.682991 28.050165 20.470971 27 19 27 L 12 27 z "
+     transform="scale(0.26458333)"
+     id="path823" />
 </svg>

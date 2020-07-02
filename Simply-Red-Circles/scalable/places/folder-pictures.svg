@@ -13,44 +13,21 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="folder-pictures.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1085"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#a02c2c;
+      }
+  </style>
+  </defs>
   <path
-     d="m 6.344,0.073 a 6.29,6.29 0 0 0 -6.289,6.29 6.29,6.29 0 0 0 6.29,6.288 6.29,6.29 0 0 0 6.288,-6.289 6.29,6.29 0 0 0 -6.289,-6.29 z M 6.326,1.009 A 5.407,5.407 0 0 1 11.733,6.416 5.407,5.407 0 0 1 6.326,11.823 5.407,5.407 0 0 1 0.92000003,6.416 5.407,5.407 0 0 1 6.326,1.01 Z M 5.736,1.619 5.721,1.63 1.722,4.572 1.17,4.977 1.576,5.529 4.314,9.25 v 0.807 h 0.002 v 0.257 h 5.6620003 v -0.01 h 0.003 V 4.408 H 7.788 L 5.736,1.618 Z M 5.59,2.576 6.938,4.408 H 4.314 V 8.094 L 2.128,5.124 5.59,2.574 Z M 4.998,5.093 h 4.3 V 9.036 H 5.006 L 4.997,9.024 V 5.093 Z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#a02c2c" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 11 11 C 10.446 11 10 11.446 10 12 L 10 37 C 10 37.554 10.446 38 11 38 L 37 38 C 37.554 38 38 37.554 38 37 L 38 12 C 38 11.446 37.554 11 37 11 L 11 11 z M 12 13 L 36 13 L 36 33 L 12 33 L 12 13 z M 30.5 16 A 2.4999999 2.4999999 0 0 0 28 18.5 A 2.4999999 2.4999999 0 0 0 30.5 21 A 2.4999999 2.4999999 0 0 0 33 18.5 A 2.4999999 2.4999999 0 0 0 30.5 16 z M 13 21 L 13 31 L 24 31 L 26 31 L 35 31 L 35 26 L 26 26 C 25 23 24 21 20 21 L 13 21 z "
+     transform="scale(0.26458333)"
+     id="path829" />
 </svg>

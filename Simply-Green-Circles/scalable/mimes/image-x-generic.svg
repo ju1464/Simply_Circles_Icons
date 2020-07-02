@@ -10,112 +10,22 @@
    width="48"
    height="48"
    version="1.1"
-   id="svg35"
+   id="svg6"
    sodipodi:docname="image-x-generic.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata39">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview37"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg35" />
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs31">
-    <linearGradient
-       id="a">
-      <stop
-         offset="0"
-         stop-color="#dc85e9"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-color="#f2cbf8"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       id="b">
-      <stop
-         offset="0"
-         stop-color="#dc85e9"
-         id="stop7" />
-      <stop
-         offset="1"
-         stop-color="#f2cbf8"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       id="c">
-      <stop
-         offset="0"
-         stop-color="#fff"
-         stop-opacity=".588"
-         id="stop12" />
-      <stop
-         offset="1"
-         stop-color="#fff"
-         stop-opacity=".863"
-         id="stop14" />
-    </linearGradient>
-    <linearGradient
-       id="d">
-      <stop
-         offset="0"
-         stop-color="#b3b3b3"
-         id="stop17" />
-      <stop
-         offset="1"
-         stop-color="#e6e6e6"
-         id="stop19" />
-    </linearGradient>
-    <linearGradient
-       id="e">
-      <stop
-         offset="0"
-         stop-color="#e694bb"
-         id="stop22" />
-      <stop
-         offset=".262"
-         stop-color="#d3819a"
-         id="stop24" />
-      <stop
-         offset=".705"
-         stop-color="#b25a64"
-         id="stop26" />
-      <stop
-         offset="1"
-         stop-color="#98313d"
-         id="stop28" />
-    </linearGradient>
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#2ca02c;
+      }
+  </style>
   </defs>
   <path
-     d="M 24.073,3.913 23.997,3.971 23.995,3.968 3.79,18.833 1,20.883 3.05,23.669 16.886,42.474 v 4.074 h 0.01 v 1.303 h 28.611 v -0.055 h 0.016 V 18.008 H 45.429 V 18.003 H 34.44 Z m -0.739,4.833 6.81,9.26 H 16.887 V 36.63 L 5.84,21.619 Z m -2.99,12.72 H 42.067 V 41.39 H 20.389 l -0.045,-0.063 z"
-     id="path33"
-     inkscape:connector-curvature="0"
-     style="fill:#2ca02c" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 2 1 C 1.446 1 1 1.446 1 2 L 1 31 C 1 31.554 1.446 32 2 32 L 15 32 L 15 46 C 15 46.554 15.446 47 16 47 L 46 47 C 46.554 47 47 46.554 47 46 L 47 17 C 47 16.446 46.554 16 46 16 L 33 16 L 33 2 C 33 1.446 32.554 1 32 1 L 2 1 z M 3 3 L 31 3 L 31 16 L 19.537109 16 C 18.726643 13.678779 16.606864 12 14 12 L 5 12 L 5 18 L 5 24 L 15 24 L 15 26 L 3 26 L 3 3 z M 24.5 6 A 3.5 3.5 0 0 0 21 9.5 A 3.5 3.5 0 0 0 24.5 13 A 3.5 3.5 0 0 0 28 9.5 A 3.5 3.5 0 0 0 24.5 6 z M 17 18 L 45 18 L 45 41 L 17 41 L 17 18 z M 38.5 21 A 3.5 3.5 0 0 0 35 24.5 A 3.5 3.5 0 0 0 38.5 28 A 3.5 3.5 0 0 0 42 24.5 A 3.5 3.5 0 0 0 38.5 21 z M 19 27 L 19 33 L 19 39 L 43 39 L 43 33 L 34 33 C 34 29.676 31.324 27 28 27 L 19 27 z "
+     id="rect814" />
 </svg>

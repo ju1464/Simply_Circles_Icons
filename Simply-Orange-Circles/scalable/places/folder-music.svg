@@ -11,53 +11,23 @@
    height="48"
    viewBox="0 0 12.7 12.7"
    version="1.1"
-   id="svg8"
+   id="svg4"
    sodipodi:docname="folder-music.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1085"
-     inkscape:window-height="480"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
-  <g
-     id="g6"
-     style="fill:#ff7f2a">
-    <path
-       d="M 6.344,0.07 A 6.29,6.29 0 0 0 0.055,6.36 6.29,6.29 0 0 0 6.345,12.648 6.29,6.29 0 0 0 12.633,6.359 6.29,6.29 0 0 0 6.345,0.07 Z M 6.326,1.006 A 5.407,5.407 0 0 1 11.733,6.413 5.407,5.407 0 0 1 6.326,11.82 5.407,5.407 0 0 1 0.92,6.413 5.407,5.407 0 0 1 6.327,1.006 Z"
-       id="path2"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 9.123,2.14 C 7.765,2.357 6.203,2.58 4.848,2.808 4.49,2.982 4.57,3.428 4.554,3.751 V 8.084 C 3.633,7.873 2.62,8.561 2.581,9.54 2.515,10.15 3.061,10.68 3.655,10.694 4.718,10.719 5.526,10.021 5.537,9.139 5.526,7.656 5.541,6.173 5.537,4.69 5.702,4.678 8.276,4.207 8.5,4.176 V 7.508 C 7.65,7.257 6.8,7.781 6.59,8.658 6.435,9.166 6.669,9.768 7.173,9.976 8.157,10.423 9.543,9.516 9.487,8.452 9.472,6.475 9.5,4.498 9.487,2.52 9.461,2.335 9.334,2.126 9.123,2.14 Z"
-       id="path4"
-       inkscape:connector-curvature="0" />
-  </g>
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#ff7f2a;
+      }
+  </style>
+  </defs>
+  <path
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 15 9 L 15 14 L 15 31.341797 A 3.5 3.5 0 0 0 13.5 31 A 3.5 3.5 0 0 0 10 34.5 A 3.5 3.5 0 0 0 13.5 38 A 3.5 3.5 0 0 0 17 34.5 A 3.5 3.5 0 0 0 16.960938 34 L 17 34 L 17 14 L 24 14 L 24 36.341797 A 3.5 3.5 0 0 0 22.5 36 A 3.5 3.5 0 0 0 19 39.5 A 3.5 3.5 0 0 0 22.5 43 A 3.5 3.5 0 0 0 26 39.5 A 3.5 3.5 0 0 0 25.960938 39 L 26 39 L 26 14 L 34 14 L 34 25.341797 A 3.5 3.5 0 0 0 32.5 25 A 3.5 3.5 0 0 0 29 28.5 A 3.5 3.5 0 0 0 32.5 32 A 3.5 3.5 0 0 0 36 28.5 A 3.5 3.5 0 0 0 35.960938 28 L 36 28 L 36 12 L 36 9 L 15 9 z "
+     transform="scale(0.26458333)"
+     id="path818" />
 </svg>

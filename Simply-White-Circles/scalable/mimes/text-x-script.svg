@@ -10,48 +10,22 @@
    width="48"
    height="48"
    version="1.1"
-   id="svg4"
+   id="svg6"
    sodipodi:docname="text-x-script.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#e6e6e6;
+      }
+  </style>
+  </defs>
   <path
-     style="color:#000000;font-weight:400;line-height:normal;font-family:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-transform:none;overflow:visible;fill:#e6e6e6;marker:none"
-     d="m 29.705,-0.084 c -2.047,0.008 -4.121,0.088 -4.517,0.098 H 7 a 2.938,2.938 0 0 0 -0.563,0 C 5.064,0.276 3.975,1.612 4,3.012 V 45 c 0,1.57 1.43,3 3,3 h 34 c 1.57,0 3,-1.43 3,-3 V 18.818 C 44.018,18.026 44.215,8.891 43.664,8.322 l -9.61,-8.074 c -0.283,-0.275 -2.302,-0.34 -4.349,-0.332 z m 1.49,3.094 0.133,7.504 c 0.012,0.68 0.638,1.29 1.317,1.279 l 7.771,-0.137 c 0.133,0.018 0.268,0.017 0.4,-0.006 L 40.898,14.68 41,18.77 V 44.996 H 7 V 3.021 H 25.672 Z M 10,7 v 2 h 6 V 7 Z m 8,0 v 2 h 6 V 7 Z m -6,4 v 2 h 16 v -2 z m -2,4 v 2 h 14 v -2 z m 16,0 v 2 h 11 v -2 z m -16,4 v 2 h 7 v -2 z m 9,0 v 2 h 11 v -2 z m 13,0 v 2 h 4 v -2 z m -20,4 v 2 h 22 v -2 z m 0,4 v 2 h 17.6 v -2 z m 20,0 v 2 h 4 v -2 z m -22,4 v 2 h 17 v -2 z m 20,0 v 2 h 6 v -2 z"
-     font-weight="400"
-     overflow="visible"
-     id="path2"
-     inkscape:connector-curvature="0" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 6 0 C 4.892 0 4 0.892 4 2 L 4 46 C 4 47.108 4.892 48 6 48 L 42 48 C 43.108 48 44 47.108 44 46 L 44 13 L 43.416016 12.416016 L 42 11 L 41 10 L 34 3 L 33 2 L 31.583984 0.58398438 L 31.292969 0.29296875 L 31 0 L 6 0 z M 8 3 L 30 3 L 30 11 C 30 12.108 30.892 13 32 13 L 41 13 L 41 44 C 41 44.277 40.887781 44.526281 40.707031 44.707031 C 40.526281 44.887781 40.277 45 40 45 L 8 45 C 7.723 45 7.4737187 44.887781 7.2929688 44.707031 C 7.1122188 44.526281 7 44.277 7 44 L 7 4 C 7 3.723 7.1122186 3.4737187 7.2929688 3.2929688 C 7.4737188 3.1122186 7.723 3 8 3 z M 11 6 C 10.446 6 10 6.446 10 7 C 10 7.554 10.446 8 11 8 L 20 8 C 20.554 8 21 7.554 21 7 C 21 6.446 20.554 6 20 6 L 11 6 z M 11 12 C 10.446 12 10 12.446 10 13 C 10 13.554 10.446 14 11 14 L 17 14 C 17.554 14 18 13.554 18 13 C 18 12.446 17.554 12 17 12 L 11 12 z M 23 12 C 22.446 12 22 12.446 22 13 C 22 13.554 22.446 14 23 14 L 26 14 C 26.554 14 27 13.554 27 13 C 27 12.446 26.554 12 26 12 L 23 12 z M 13 18 C 12.446 18 12 18.446 12 19 C 12 19.554 12.446 20 13 20 L 22 20 C 22.554 20 23 19.554 23 19 C 23 18.446 22.554 18 22 18 L 13 18 z M 27 18 C 26.446 18 26 18.446 26 19 C 26 19.554 26.446 20 27 20 L 29 20 C 29.554 20 30 19.554 30 19 C 30 18.446 29.554 18 29 18 L 27 18 z M 34 18 C 33.446 18 33 18.446 33 19 C 33 19.554 33.446 20 34 20 L 36 20 C 36.554 20 37 19.554 37 19 C 37 18.446 36.554 18 36 18 L 34 18 z M 12 24 C 11.446 24 11 24.446 11 25 C 11 25.554 11.446 26 12 26 L 27 26 C 27.554 26 28 25.554 28 25 C 28 24.446 27.554 24 27 24 L 12 24 z M 32 24 C 31.446 24 31 24.446 31 25 C 31 25.554 31.446 26 32 26 L 35 26 C 35.554 26 36 25.554 36 25 C 36 24.446 35.554 24 35 24 L 32 24 z M 11 30 C 10.446 30 10 30.446 10 31 C 10 31.554 10.446 32 11 32 L 18 32 C 18.554 32 19 31.554 19 31 C 19 30.446 18.554 30 18 30 L 11 30 z M 24 30 C 23.446 30 23 30.446 23 31 C 23 31.554 23.446 32 24 32 L 36 32 C 36.554 32 37 31.554 37 31 C 37 30.446 36.554 30 36 30 L 24 30 z "
+     id="path816" />
 </svg>

@@ -12,45 +12,22 @@
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg4"
-   sodipodi:docname="folder-saved-search.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   sodipodi:docname="preferences-system-search.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1085"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#e6e6e6;
+      }
+  </style>
+  </defs>
   <path
-     d="m 6.344,0.07 a 6.29,6.29 0 0 0 -6.29,6.29 6.29,6.29 0 0 0 6.29,6.288 6.29,6.29 0 0 0 6.29,-6.289 A 6.29,6.29 0 0 0 6.343,0.07 Z M 6.326,1.006 A 5.407,5.407 0 0 1 11.733,6.413 5.407,5.407 0 0 1 6.326,11.82 5.407,5.407 0 0 1 0.92000003,6.413 5.407,5.407 0 0 1 6.327,1.006 Z M 5.253,2.118 c -1.716,0 -3.12,1.403 -3.12,3.118 0,1.715 1.404,3.116 3.12,3.116 0.654,0 1.263,-0.205 1.766,-0.552 L 9.107,9.886 A 0.567,0.567 0 1 0 9.9080003,9.085 L 7.82,6.999 C 8.167,6.496 8.372,5.889 8.372,5.236 A 3.127,3.127 0 0 0 5.252,2.118 Z m 0,1.134 A 1.976,1.976 0 0 1 7.238,5.236 1.976,1.976 0 0 1 5.253,7.219 1.977,1.977 0 0 1 3.266,5.236 c 0,-1.102 0.883,-1.984 1.987,-1.984 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#e6e6e6" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 19.597656 9.7578125 A 11 11 0 0 0 11.978516 12.978516 A 11 11 0 0 0 11.978516 28.535156 A 11 11 0 0 0 25.988281 29.816406 L 27.535156 31.363281 L 33.193359 37.021484 C 33.976834 37.804959 35.23801 37.804959 36.021484 37.021484 C 36.804959 36.23801 36.804959 34.976834 36.021484 34.193359 L 29.65625 27.828125 L 28.814453 26.986328 A 11 11 0 0 0 27.535156 12.978516 A 11 11 0 0 0 19.597656 9.7578125 z M 19.888672 11.757812 A 8.9999992 8.9999992 0 0 1 26.121094 14.392578 A 8.9999992 8.9999992 0 0 1 26.121094 27.121094 A 8.9999992 8.9999992 0 0 1 13.392578 27.121094 A 8.9999992 8.9999992 0 0 1 13.392578 14.392578 A 8.9999992 8.9999992 0 0 1 19.888672 11.757812 z "
+     transform="scale(0.26458333)"
+     id="path831" />
 </svg>

@@ -14,43 +14,22 @@
    id="svg4"
    sodipodi:docname="preferences-desktop-filter.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#ecec1c;
+      }
+  </style>
+  </defs>
   <path
-     d="M 6.344,0.077 A 6.267,6.267 0 0 0 0.076,6.344 6.267,6.267 0 0 0 6.344,12.611 6.267,6.267 0 0 0 12.611,6.344 6.267,6.267 0 0 0 6.344,0.077 Z M 6.326,1.009 a 5.388,5.388 0 0 1 5.388,5.39 5.388,5.388 0 0 1 -5.388,5.387 5.388,5.388 0 0 1 -5.39,-5.388 5.388,5.388 0 0 1 5.39,-5.389 z M 6.35,2.646 c -2.046,0 -3.704,0.725 -3.704,1.62 0,0.495 0.518,0.933 1.317,1.23 L 5.887,7.74 v 2.315 H 6.813 V 7.74 L 8.737,5.497 c 0.8,-0.297 1.317,-0.735 1.317,-1.23 0,-0.895 -1.658,-1.62 -3.704,-1.62 z m 0,0.463 c 1.279,0 2.315,0.414 2.315,0.926 0,0.511 -1.036,0.926 -2.315,0.926 -1.279,0 -2.315,-0.415 -2.315,-0.926 0,-0.512 1.036,-0.926 2.315,-0.926 z"
-     id="path2"
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24,0 C 10.745166,0 0,10.745166 0,24 0,37.254834 10.745166,48 24,48 37.254834,48 48,37.254834 48,24 48,10.745166 37.254834,0 24,0 Z m 0,3 C 35.59798,3 45,12.40202 45,24 45,35.59798 35.59798,45 24,45 12.40202,45 3,35.59798 3,24 3,12.40202 12.40202,3 24,3 Z m 0,7 c -7.731987,0 -14.0000003,2.686292 -14,6 0.0058,1.912851 2.139473,3.709876 5.744141,4.837891 L 22,28 V 40.000001 L 26,38 V 28 l 6.255859,-7.164062 C 35.859233,19.708329 37.992725,17.912162 38,16 38,12.686292 31.731987,10 24,10 Z m 0,2 c 4.970563,0 9,1.567003 9,3.5 0,1.932997 -4.029437,3.5 -9,3.5 -4.970563,0 -9,-1.567003 -9,-3.5 0,-1.932997 4.029437,-3.5 9,-3.5 z"
+     transform="scale(0.26458333)"
+     id="path826"
      inkscape:connector-curvature="0"
-     style="fill:#ecec1c" />
+     sodipodi:nodetypes="sssssssssssccccccccssssss" />
 </svg>
