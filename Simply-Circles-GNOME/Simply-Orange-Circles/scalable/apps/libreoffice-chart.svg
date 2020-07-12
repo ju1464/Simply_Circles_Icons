@@ -9,47 +9,25 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
-   version="1"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
    id="svg4"
    sodipodi:docname="libreoffice-chart.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="862"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="Highlight/css">
+      .ColorScheme-Highlight {
+        color:#ff7f2a;
+      }
+  </style>
+  </defs>
   <path
-     d="M 23.98,0.227 A 23.773,23.773 0 0 0 0.246,24.037 23.773,23.773 0 0 0 24.02,47.773 23.773,23.773 0 0 0 47.754,24 23.773,23.773 0 0 0 23.98,0.227 Z m -0.074,3.515 0.037,0.037 A 20.41,20.41 0 0 1 44.353,24.189 20.41,20.41 0 0 1 23.943,44.637 20.41,20.41 0 0 1 3.496,24.227 20.41,20.41 0 0 1 23.906,3.742 Z M 11.521,11.453 V 36.55 h 8.913 V 11.453 H 11.52 Z m 10.833,6.445 v 18.65 h 6.857 v -18.65 z m 9.326,7.815 v 10.836 h 4.799 V 25.713 h -4.8 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#ff7f2a;fill-opacity:0.99199997" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 11 12 L 11 37 L 20 37 L 20 12 L 11 12 z M 22 18 L 22 37 L 29 37 L 29 18 L 22 18 z M 31 26 L 31 37 L 37 37 L 37 26 L 31 26 z "
+     transform="scale(0.26458333)"
+     id="path817" />
 </svg>
