@@ -9,81 +9,25 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
-   version="1"
-   id="svg21"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg4"
    sodipodi:docname="applications-engineering.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata25">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview23"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg21" />
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs17">
-    <linearGradient
-       id="a">
-      <stop
-         offset="0"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-opacity="0"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       id="c">
-      <stop
-         offset="0"
-         stop-color="#fff"
-         id="stop7" />
-      <stop
-         offset="1"
-         stop-color="#fff"
-         stop-opacity="0"
-         id="stop9" />
-    </linearGradient>
-    <linearGradient
-       id="b">
-      <stop
-         offset="0"
-         stop-color="#bb5e12"
-         id="stop12" />
-      <stop
-         offset="1"
-         stop-color="#cd8033"
-         id="stop14" />
-    </linearGradient>
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#e6e6e6;
+      }
+  </style>
   </defs>
   <path
-     d="M 24,0.23 A 23.77,23.77 0 0 0 0.23,24.01 23.77,23.77 0 0 0 24,47.77 23.77,23.77 0 0 0 47.77,24 23.77,23.77 0 0 0 24,0.23 Z M 23.93,3.77 A 20.44,20.44 0 0 1 44.37,24.21 20.44,20.44 0 0 1 23.93,44.64 20.44,20.44 0 0 1 3.5,24.21 20.44,20.44 0 0 1 23.93,3.77 Z m 1.83,4.36 c -1.64,0 -8.88,1.63 -8.88,1.63 -0.7,0.4 -0.78,1.14 -0.78,2.4 h 8.85 c 0,-0.97 0.62,-0.8 1.61,-0.8 v 3.26 h -0.87 c -0.82,0 -0.8,-0.08 -0.8,-0.8 h -8.86 c 0,1.25 0.08,1.98 0.78,2.39 l 8.47,1.63 c 0.3,0.15 0.4,0.4 0.4,0.8 v 4.03 h -0.8 a 0.805,0.805 0 1 0 0,1.61 h 1.68 v 16.85 h 4.83 V 24.28 h 0.73 V 19.4 h 1.68 v 0.42 c 0,0.21 0.18,0.39 0.4,0.39 h 0.83 c 0.21,0 0.38,-0.18 0.38,-0.4 v -2.43 a 0.39,0.39 0 0 0 -0.38,-0.4 h -0.84 a 0.39,0.39 0 0 0 -0.39,0.4 v 0.41 h -1.67 v -3.17 h -0.74 v -2.44 c 0.25,0 0.52,-0.02 0.8,-0.07 v 0.85 h 4.03 c 0,-0.56 -0.74,-1.13 -1.65,-1.58 0.94,-0.45 1.65,-1.04 1.65,-1.64 H 31.39 V 8.14 H 25.76 Z M 19.07,19 v 2.49 h -0.35 a 8.39,8.39 0 0 0 0,16.76 l 0.34,-0.02 v 2.5 h 3.1 L 22.18,19 h -3.1 z m -0.35,5.6 h 0.35 v 10.55 h -0.36 a 5.2800024,5.2800024 0 0 1 0.01,-10.56 z"
-     id="path19"
-     inkscape:connector-curvature="0"
-     style="fill:#e6e6e6" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 25 8 L 17 10 L 16 12 L 25 12 L 25 11 L 28 11 L 28 15 L 25 15 L 25 14 L 16 14 L 17 16 L 25 18 L 26 18 L 26 22 L 24 22 L 24 24 L 26 24 L 27 24 L 27 41 L 31 41 L 31 24 L 32 24 L 32 22 L 32 20 L 34 20 L 34 21 L 36 21 L 36 17 L 34 17 L 34 18 L 32 18 L 32 15 L 31 15 L 31 13 L 32 13 L 32 14 L 36 14 L 34 12 L 36 10 L 31 10 L 31 8 L 25 8 z M 19 20 L 19 21 A 8.9999994 8.9999994 0 0 0 10 30 A 8.9999994 8.9999994 0 0 0 19 39 L 19 40 L 22 40 L 22 20 L 19 20 z M 19 24 L 19 36 A 5.9999997 5.9999997 0 0 1 13 30 A 5.9999997 5.9999997 0 0 1 19 24 z "
+     transform="scale(0.26458333)"
+     id="path817" />
 </svg>

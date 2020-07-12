@@ -10,48 +10,22 @@
    width="48"
    height="48"
    version="1.1"
-   id="svg4"
+   id="svg6"
    sodipodi:docname="libreoffice-oasis-empty.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1138"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#a02c2c;
+      }
+  </style>
+  </defs>
   <path
-     style="color:#000000;font-weight:400;line-height:normal;font-family:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-transform:none;overflow:visible;fill:#a02c2c;marker:none"
-     d="m 33.1,-0.027 a 1.548,1.548 0 0 0 -0.163,0.015 c -0.998,0.32 -1.334,1.84 -0.564,2.555 l 9.035,9.082 c 0.835,0.796 2.497,0.115 2.541,-1.041 V 1.502 c 0,-0.793 -0.717,-1.514 -1.506,-1.514 H 33.408 A 1.548,1.548 0 0 0 33.1,-0.027 Z M 6.707,0 A 2.938,2.938 0 0 0 6.437,0.014 C 5.062,0.276 3.974,1.612 4,3.012 V 45 c 0,1.57 1.43,3 3,3 h 34 c 1.57,0 3,-1.43 3,-3 V 18.818 A 3.038,3.038 0 0 0 43.156,16.662 L 27.344,0.857 A 3.038,3.038 0 0 0 25.187,0.014 H 7 A 2.938,2.938 0 0 0 6.707,0 Z M 7,3.02 h 18.672 l 0.187,0.187 14.907,15 L 41,18.441 V 44.996 H 7 Z"
-     font-weight="400"
-     overflow="visible"
-     id="path2"
-     inkscape:connector-curvature="0" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 6 0 C 4.892 0 4 0.892 4 2 L 4 46 C 4 47.108 4.892 48 6 48 L 42 48 C 43.108 48 44 47.108 44 46 L 44 15 L 29 0 L 6 0 z M 33 0 L 44 11 L 44 2.1542969 C 44 0.96106598 43.038934 -8.8817842e-16 41.845703 0 L 33 0 z M 7.9550781 3 L 28 3 L 41 16 L 41 44.044922 C 41 44.57374 40.57374 45 40.044922 45 L 7.9550781 45 C 7.4262599 45 7 44.57374 7 44.044922 L 7 3.9550781 C 7 3.4262599 7.4262599 3 7.9550781 3 z "
+     id="path827" />
 </svg>

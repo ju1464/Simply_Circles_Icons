@@ -11,65 +11,39 @@
    height="48"
    viewBox="0 0 12.7 12.7"
    version="1.1"
-   id="svg12"
+   id="svg4"
    sodipodi:docname="folder-gdrive.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata18">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs16" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1085"
-     inkscape:window-height="480"
-     id="namedview14"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg12" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#2c89a0;
+      }
+  </style>
+  </defs>
   <path
-     d="M 6.34,0.07 A 6.29,6.29 0 0 0 0.05,6.36 6.29,6.29 0 0 0 6.35,12.65 6.29,6.29 0 0 0 12.63,6.35 6.29,6.29 0 0 0 6.34,0.08 Z M 6.33,1.01 a 5.4,5.4 0 0 1 5.4,5.4 5.4,5.4 0 0 1 -5.4,5.41 A 5.4,5.4 0 0 1 0.92000003,6.42 5.4,5.4 0 0 1 6.32,1 Z"
-     id="path2"
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z "
+     transform="scale(0.26458333)"
+     id="path817" />
+  <path
+     style="fill:#f3ba3c"
+     d="M 7.9375,7.6729166 5.0270834,2.38125 h 2.6458333 l 2.9104163,5.2916666 z"
+     id="path835"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#20a869"
+     d="M 6.35,4.7625 3.4395834,10.054167 2.2284899,7.4083334 5.0270834,2.38125 Z"
+     id="path840"
      inkscape:connector-curvature="0"
-     style="fill:#2c89a0" />
-  <g
-     id="g10"
-     style="fill-rule:evenodd">
-    <path
-       d="M 3.38,9.9 H 9.32 L 10.81,7.33 H 4.86 L 3.38,9.91 Z"
-       id="path4"
-       inkscape:connector-curvature="0"
-       style="opacity:0.75;fill:#3176d5" />
-    <path
-       d="m 4.86,2.18 2.98,5.15 h 2.97 L 7.84,2.18 Z"
-       id="path6"
-       inkscape:connector-curvature="0"
-       style="opacity:0.75;fill:#f3ba3c" />
-    <path
-       d="M 4.86,2.18 1.9,7.33 3.39,9.91 6.36,4.76 Z"
-       id="path8"
-       inkscape:connector-curvature="0"
-       style="opacity:0.75;fill:#20a869" />
-  </g>
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#3175d6"
+     d="M 3.4395834,10.054167 H 9.2604167 L 10.583333,7.6729166 H 4.7490642 Z"
+     id="path847"
+     inkscape:connector-curvature="0" />
 </svg>
