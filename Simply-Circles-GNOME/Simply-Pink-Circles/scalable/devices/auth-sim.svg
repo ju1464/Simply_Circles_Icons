@@ -13,44 +13,21 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="auth-sim.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#ff78cb;
+      }
+  </style>
+  </defs>
   <path
-     d="m 6.344,0.073 a 6.29,6.29 0 0 0 -6.29,6.29 6.29,6.29 0 0 0 6.29,6.288 6.29,6.29 0 0 0 6.29,-6.289 6.29,6.29 0 0 0 -6.29,-6.29 z M 6.326,1.009 A 5.407,5.407 0 0 1 11.733,6.416 5.407,5.407 0 0 1 6.326,11.823 5.407,5.407 0 0 1 0.92,6.416 5.407,5.407 0 0 1 6.326,1.01 Z M 5.44,2.194 2.93,4.704 V 9.72 c 0,0.462 0.375,0.836 0.837,0.836 H 8.789 A 0.833,0.833 0 0 0 9.622,9.72 L 9.617,3.03 A 0.833,0.833 0 0 0 8.785,2.193 H 5.439 Z M 4.184,5.958 H 5.021 V 7.63 H 4.184 Z m 1.673,0 H 6.693 V 6.794 H 5.857 Z m 1.673,0 H 8.366 V 7.63 H 7.53 Z M 5.857,7.63 H 6.693 V 9.302 H 5.857 Z M 4.184,8.466 H 5.021 V 9.302 H 4.184 Z m 3.346,0 H 8.366 V 9.302 H 7.53 Z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#ff78cb" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 C 10.745166 0 -1.4210855e-14 10.745166 0 24 C 0 37.254834 10.745166 48 24 48 C 37.254834 48 48 37.254834 48 24 C 48 10.745166 37.254834 -1.4210855e-14 24 0 z M 24 3 C 35.59798 3 45 12.40202 45 24 C 45 35.59798 35.59798 45 24 45 C 12.40202 45 3 35.59798 3 24 C 3 12.40202 12.40202 3 24 3 z M 21 11 L 12 20 L 12 36 C 12 37.108 12.892 38 14 38 L 34 38 C 35.108 38 36 37.108 36 36 L 36 13 C 36 11.892 35.108 11 34 11 L 21 11 z M 15 24 L 19 24 L 19 29 L 15 29 L 15 24 z M 22 24 L 26 24 L 26 35 L 22 35 L 22 24 z M 29 24 L 33 24 L 33 28 L 29 28 L 29 24 z M 29 30 L 33 30 L 33 35 L 29 35 L 29 30 z M 15 31 L 19 31 L 19 35 L 15 35 L 15 31 z "
+     transform="scale(0.26458333)"
+     id="path817" />
 </svg>

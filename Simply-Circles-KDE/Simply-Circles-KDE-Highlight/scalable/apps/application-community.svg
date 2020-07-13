@@ -20,7 +20,7 @@
      id="current-color-scheme"
      type="Highlight/css">
       .ColorScheme-Highlight {
-        color:#000000;
+        color:#FFFFFF;
       }
   </style>
   </defs>
