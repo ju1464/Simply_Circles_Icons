@@ -13,46 +13,21 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="grip.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#7f7f7f;
+      }
+  </style>
+  </defs>
   <path
-     d="m 6.344,0.073 c -3.433,0 -6.254,2.822 -6.254,6.255 0,3.433 2.822,6.255 6.255,6.255 1.08,0 2.1,-0.28 2.99,-0.77 L 6.67,9.15 H 8.356 V 8.112 A 2.665,2.665 0 0 1 6.344,9.009 2.655,2.655 0 0 1 3.664,6.328 c 0,-1.501 1.18,-2.68 2.68,-2.68 a 2.655,2.655 0 0 1 2.681,2.68 c 0,0.099 -0.006,0.197 -0.016,0.293 h 1.876 v 2.528 h 1.033 C 12.352,8.299 12.599,7.341 12.599,6.328 12.6,2.895 9.777,0.073 6.344,0.073 Z m 0,4.468 c -0.982,0 -1.787,0.805 -1.787,1.787 0,0.982 0.805,1.787 1.787,1.787 0.982,0 1.787,-0.805 1.787,-1.787 0,-0.982 -0.805,-1.787 -1.787,-1.787 z m 0,0.893 c 0.499,0 0.894,0.395 0.894,0.894 A 0.887,0.887 0 0 1 6.344,7.222 0.887,0.887 0 0 1 5.451,6.328 c 0,-0.499 0.395,-0.894 0.893,-0.894 z M 8.722,6.987 V 8.026 H 8.723 V 9.515 H 7.531 L 9.618,11.6 11.704,9.514 H 10.512 V 7.727 h -0.007 v -0.74 z"
-     font-weight="400"
-     overflow="visible"
-     style="color:#bebebe;font-weight:400;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#7F7F7F"
-     id="path2"
-     inkscape:connector-curvature="0" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 34.984375 45.314453 L 27 36 L 33 36 L 33 30.314453 A 11 11 0 0 1 24 35 A 11 11 0 0 1 13 24 A 11 11 0 0 1 24 13 A 11 11 0 0 1 34.945312 23 L 45 23 L 45 35.564453 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 17 A 6.9999998 6.9999998 0 0 0 17 24 A 6.9999998 6.9999998 0 0 0 24 31 A 6.9999998 6.9999998 0 0 0 31 24 A 6.9999998 6.9999998 0 0 0 24 17 z M 24 20 A 3.9999996 3.9999996 0 0 1 28 24 A 3.9999996 3.9999996 0 0 1 24 28 A 3.9999996 3.9999996 0 0 1 20 24 A 3.9999996 3.9999996 0 0 1 24 20 z M 35 25 L 35 38 L 31 38 L 39 47 L 47 38 L 43 38 L 43 25 L 35 25 z "
+     transform="scale(0.26458333)"
+     id="path838" />
 </svg>

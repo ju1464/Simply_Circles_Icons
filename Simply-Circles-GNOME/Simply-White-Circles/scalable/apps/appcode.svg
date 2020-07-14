@@ -5,51 +5,30 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
-   version="1"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
    id="svg4"
    sodipodi:docname="appcode.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#e6e6e6;
+      }
+  </style>
+  </defs>
   <path
-     d="M 24,0.23 A 23.77,23.77 0 0 0 0.23,24.01 23.77,23.77 0 0 0 24,47.77 23.77,23.77 0 0 0 47.77,24 23.77,23.77 0 0 0 24,0.23 Z M 23.93,3.77 A 20.44,20.44 0 0 1 44.37,24.21 20.44,20.44 0 0 1 23.93,44.64 20.44,20.44 0 0 1 3.5,24.21 20.44,20.44 0 0 1 23.93,3.77 Z m 0,3 A 17.44,17.44 0 0 0 6.5,24.2 17.44,17.44 0 0 0 23.93,41.65 17.44,17.44 0 0 0 41.37,24.21 17.44,17.44 0 0 0 23.93,6.77 Z m -8.7,6.54 h 0.42 c 1.4,0 2.62,0.67 3.65,2 0.57,0.83 0.85,1.7 0.85,2.64 v 4.67 l -0.07,0.07 h -0.49 l -0.07,-0.07 v -2.25 h -0.04 a 4.67,4.67 0 0 1 -2.45,2.07 c -0.57,0.17 -1.08,0.25 -1.55,0.25 H 15.4 c -1.6,0 -2.93,-0.75 -3.96,-2.24 a 4.49,4.49 0 0 1 -0.67,-2.26 v -0.42 c 0,-1.4 0.68,-2.62 2.04,-3.65 0.8,-0.54 1.62,-0.8 2.42,-0.8 z m 10.46,0.02 h 0.42 c 1.16,0 2.2,0.47 3.12,1.4 -0.24,0.21 -0.43,0.32 -0.56,0.32 A 3.88,3.88 0 0 0 26,13.96 h -0.1 c -1.66,0 -2.9,0.82 -3.72,2.46 -0.2,0.46 -0.31,0.99 -0.31,1.57 v 0.1 c 0,1.55 0.8,2.75 2.38,3.62 a 4.06,4.06 0 0 0 4.42,-0.73 h 0.1 l 0.46,0.24 v 0.07 a 4.45,4.45 0 0 1 -3.3,1.4 h -0.07 c -1.6,0 -2.92,-0.75 -3.96,-2.24 a 4.48,4.48 0 0 1 -0.66,-2.24 v -0.43 c 0,-1.4 0.67,-2.61 2.03,-3.64 0.8,-0.54 1.61,-0.81 2.42,-0.81 z m -10.25,0.61 c -1.65,0 -2.9,0.82 -3.72,2.46 -0.21,0.47 -0.32,1 -0.32,1.58 v 0.1 c 0,1.56 0.8,2.76 2.4,3.63 0.55,0.23 1.11,0.35 1.68,0.35 1.64,0 2.9,-0.84 3.76,-2.53 0.18,-0.58 0.28,-1.1 0.28,-1.58 0,-1.52 -0.76,-2.73 -2.29,-3.62 a 4.3,4.3 0 0 0 -1.68,-0.39 h -0.1 z M 10.37,24.5 h 19.75 c 0.15,0 0.28,0.12 0.28,0.28 0,0.16 -0.13,0.29 -0.28,0.29 H 10.37 a 0.28,0.28 0 0 1 -0.28,-0.28 v -0.01 c 0,-0.16 0.12,-0.28 0.28,-0.28 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#e6e6e6" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 24 7 A 17.000006 17.000006 0 0 0 7 24 A 17.000006 17.000006 0 0 0 24 41 A 17.000006 17.000006 0 0 0 41 24 A 17.000006 17.000006 0 0 0 24 7 z M 18 19 L 19 19 L 20 19 L 21 19 L 24 29 L 22 29 L 21.400391 27 L 17.599609 27 L 17 29 L 15 29 L 18 19 z M 30 19 C 31.393 19 32.64964 19.569281 33.556641 20.488281 L 32.146484 21.90625 C 31.602484 21.347251 30.842 20.998047 30 20.998047 C 28.343 20.998047 27 22.341047 27 23.998047 C 27 25.655047 28.343 26.998047 30 26.998047 C 30.815 26.998047 31.55275 26.670577 32.09375 26.142578 L 33.509766 27.554688 C 32.606767 28.446685 31.369 29 30 29 C 27.239 28.999999 25 26.760999 25 24 C 25 21.238998 27.239 19 30 19 z M 19.5 20.666016 L 18.199219 25 L 20.800781 25 L 19.5 20.666016 z M 17 32 L 31 32 L 31 34 L 17 34 L 17 32 z "
+     transform="scale(0.26458333)"
+     id="path833" />
 </svg>

@@ -13,46 +13,21 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="sound-juicer.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs8" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="862"
-     inkscape:window-height="480"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="2.1355932"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     id="defs8">
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Highlight {
+        color:#963996;
+      }
+  </style>
+  </defs>
   <path
-     style="color:#bebebe;font-weight:400;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#963996"
-     d="m 6.344,0.073 c -3.434,0 -6.254,2.822 -6.254,6.255 0,3.433 2.822,6.255 6.255,6.255 0.793,0 1.547,-0.165 2.248,-0.439 -0.03,-0.02 -0.066,-0.032 -0.094,-0.053 A 1.628,1.628 0 0 1 8.119,11.679 1.601,1.601 0 0 1 7.886,11.024 C 7.855,10.79 7.867,10.544 7.914,10.291 7.96,10.039 8.04,9.779 8.144,9.519 8.247,9.259 8.374,8.997 8.514,8.741 8.796,8.228 9.131,7.734 9.441,7.307 c 0.31,-0.427 0.593,-0.788 0.77,-1.036 0.151,0.248 0.427,0.608 0.74,1.033 0.313,0.426 0.663,0.918 0.962,1.43 0.037,0.063 0.063,0.128 0.099,0.192 C 12.38,8.131 12.6,7.256 12.6,6.328 12.6,2.895 9.777,0.073 6.344,0.073 Z m 0,3.574 a 2.655,2.655 0 0 1 2.68,2.68 c 0,1.502 -1.18,2.681 -2.68,2.681 -1.5,0 -2.68,-1.18 -2.68,-2.68 0,-1.501 1.18,-2.68 2.68,-2.68 z m 0,0.893 c -0.982,0 -1.787,0.806 -1.787,1.788 0,0.982 0.805,1.787 1.787,1.787 0.982,0 1.788,-0.805 1.788,-1.787 0,-0.982 -0.806,-1.787 -1.788,-1.787 z m 0,0.894 c 0.499,0 0.894,0.395 0.894,0.894 A 0.887,0.887 0 0 1 6.344,7.222 0.887,0.887 0 0 1 5.451,6.328 c 0,-0.5 0.395,-0.894 0.893,-0.894 z m 3.877,1.85 c -0.532,0.744 -2.338,2.843 -1.569,4.056 0.596,0.94 2.62,0.944 3.208,0 0.766,-1.227 -1.186,-3.312 -1.639,-4.056 z"
-     font-weight="400"
-     overflow="visible"
-     id="path2"
-     inkscape:connector-curvature="0" />
+     class="ColorScheme-Highlight"
+     style="fill:currentColor"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 31.570312 46.753906 C 30.730371 45.866706 30.006542 44.860939 29.523438 43.71875 C 29.003016 42.488336 28.714844 41.13483 28.714844 39.714844 C 28.714844 39.00485 28.856894 38.211275 29.105469 37.365234 C 29.354043 36.519194 29.710711 35.620919 30.142578 34.703125 C 30.64755 33.62997 31.374441 32.572006 32.033203 31.496094 A 11 11 0 0 1 24 35 A 11 11 0 0 1 13 24 A 11 11 0 0 1 24 13 A 11 11 0 0 1 35 24 A 11 11 0 0 1 34.150391 28.232422 C 35.090873 26.954181 36.055415 25.670196 36.851562 24.796875 C 37.87599 23.673148 38.678613 22.984549 39 22.988281 C 39.321387 22.992018 40.12401 23.683466 41.148438 24.808594 C 42.172864 25.933722 43.41979 27.493549 44.625 29.228516 C 45.315948 30.223174 45.86318 31.306307 46.478516 32.369141 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 17 A 6.9999998 6.9999998 0 0 0 17 24 A 6.9999998 6.9999998 0 0 0 24 31 A 6.9999998 6.9999998 0 0 0 31 24 A 6.9999998 6.9999998 0 0 0 24 17 z M 24 20 A 3.9999996 3.9999996 0 0 1 28 24 A 3.9999996 3.9999996 0 0 1 24 28 A 3.9999996 3.9999996 0 0 1 20 24 A 3.9999996 3.9999996 0 0 1 24 20 z M 39 26.988281 C 38.000001 26.97664 30.999999 35.581722 31 40 C 31.000001 44.418279 34.581723 48 39 48 C 43.418279 48 47 44.418279 47 40 C 47 35.581722 39.999999 26.99991 39 26.988281 z "
+     transform="scale(0.26458333)"
+     id="path830" />
 </svg>
